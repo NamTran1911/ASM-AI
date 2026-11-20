@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ app_name }}</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <header class="navbar">
+        <div class="container navbar-content">
+            <div class="brand">
+                <span class="brand-title">Hệ thống Quản lý Đơn hàng</span>
+                <span class="badge badge-subtle">FastAPI & AI</span>
+            </div>
+            <div class="nav-actions">
+                <span id="api-status" class="status-indicator">Đang kiểm tra kết nối...</span>
+            </div>
+        </div>
+    </header>
+
+    <main class="container main-content">
+        <!-- Thong ke nhanh -->
+        <section class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-label">Tổng đơn hàng</div>
+                <div class="stat-value" id="stat-total">0</div>
+            </div>
+            <div class="stat-card stat-high">
+                <div class="stat-label">Đơn ưu tiên cao (High)</div>
+                <div class="stat-value" id="stat-high">0</div>
+            </div>
+            <div class="stat-card stat-pending">
+                <div class="stat-label">Đang chờ xử lý (Pending)</div>
+                <div class="stat-value" id="stat-pending">0</div>
+            </div>
+            <div class="stat-card stat-completed">
+                <div class="stat-label">Đã hoàn thành</div>
+                <div class="stat-value" id="stat-completed">0</div>
+            </div>
+        </section>
+
+        <!-- Form tao don hang -->
+        <section class="card form-section">
+            <div class="card-header">
+                <h2>Thêm đơn hàng mới</h2>
+            </div>
+            <form id="order-form" class="order-form">
+                <div class="form-row">
+                    <div class="form-group col-6">
+                        <label for="customer_name">Tên khách hàng <span class="required">*</span></label>
+                        <input type="text" id="customer_name" required placeholder="Nguyen Van A">
+                    </div>
+                    <div class="form-group col-3">
+                        <label for="priority">Độ ưu tiên (Priority)</label>
+                        <select id="priority">
+                            <option value="">Tự động nhận diện qua AI</option>
+                            <option value="High">High (Ưu tiên cao)</option>
+                            <option value="Medium">Medium (Tiêu chuẩn)</option>
+                            <option value="Low">Low (Không gấp)</option>
+                        </select>
+                    </div>
+                    <div class="form-group col-3">
+                        <label for="status">Trạng thái (Status)</label>
+                        <select id="status">
+                            <option value="Pending" selected>Pending</option>
+                            <option value="Processing">Processing</option>
+                            <option value="Completed">Completed</option>
+                            <option value="Cancelled">Cancelled</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="label-with-action">
+                        <label for="product_description">Mô tả sản phẩm & Yêu cầu vận chuyển <span class="required">*</span></label>
+                        <button type="button" id="btn-predict" class="btn btn-outline btn-sm">Dự đoán Priority bằng AI</button>
+                    </div>
+                    <textarea id="product_description" rows="3" required placeholder="Ví dụ: Giao hỏa tốc 2h laptop Dell XPS 15, khách cần gấp trong sáng nay..."></textarea>
+                    <div id="predict-result" class="predict-result-box" style="display: none;"></div>
+                </div>
+
+                <div class="form-actions">
+                    <button type="submit" id="btn-submit-order" class="btn btn-primary">Tạo đơn hàng</button>
+                    <button type="reset" class="btn btn-secondary">Làm mới</button>
+                </div>
+            </form>
+        </section>
+
+        <!-- Danh sach don hang -->
+        <section class="card table-section">
+            <div class="card-header table-header-flex">
+                <h2>Danh sách đơn hàng</h2>
+                <div class="filters-bar">
+                    <input type="text" id="search-input" placeholder="Tìm theo tên, mô tả..." class="input-sm">
+                    <select id="filter-priority" class="select-sm">
+                        <option value="">Tất cả Priority</option>
+                        <option value="High">High</option>
+                        <option value="Medium">Medium</option>
+                        <option value="Low">Low</option>
+                    </select>
+                    <select id="filter-status" class="select-sm">
+                        <option value="">Tất cả trạng thái</option>
+                        <option value="Pending">Pending</option>
+                        <option value="Processing">Processing</option>
+                        <option value="Completed">Completed</option>
+                        <option value="Cancelled">Cancelled</option>
+                    </select>
+                    <button id="btn-refresh" class="btn btn-outline btn-sm">Tải lại</button>
+                </div>
+            </div>
+
+            <div class="table-responsive">
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th style="width: 70px;">ID</th>
+                            <th style="width: 170px;">Khách hàng</th>
+                            <th>Mô tả sản phẩm</th>
+                            <th style="width: 110px;">Priority</th>
+                            <th style="width: 120px;">Trạng thái</th>
+                            <th style="width: 140px;">Ngày tạo</th>
+                            <th style="width: 190px;">Thao tác</th>
+                        </tr>
+                    </thead>
+                    <tbody id="orders-tbody">
+                        <tr>
+                            <td colspan="7" class="text-center text-muted">Đang tải dữ liệu đơn hàng...</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+    </main>
+
+    <!-- Modal xem nhat ky va email phan hoi -->
+    <div id="log-modal" class="modal">
+        <div class="modal-dialog">
+            <div class="modal-header">
+                <h3 id="modal-title">Nhật ký xử lý đơn hàng</h3>
+                <button type="button" class="modal-close" onclick="closeLogModal()">&times;</button>
+            </div>
+            <div class="modal-body" id="modal-logs-body">
+                Đang tải nhật ký...
+            </div>
+            <div class="modal-footer">
+                <button type="button" id="btn-manual-email" class="btn btn-outline">Tạo lại email phản hồi</button>
+                <button type="button" class="btn btn-secondary" onclick="closeLogModal()">Đóng</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal cap nhat don hang -->
+    <div id="edit-modal" class="modal">
+        <div class="modal-dialog">
+            <div class="modal-header">
+                <h3>Cập nhật đơn hàng #<span id="edit-order-id-label"></span></h3>
+                <button type="button" class="modal-close" onclick="closeEditModal()">&times;</button>
+            </div>
+            <form id="edit-order-form">
+                <input type="hidden" id="edit-order-id">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="edit-customer-name">Tên khách hàng</label>
+                        <input type="text" id="edit-customer-name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="edit-product-description">Mô tả sản phẩm</label>
+                        <textarea id="edit-product-description" rows="3" required></textarea>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-6">
+                            <label for="edit-priority">Độ ưu tiên (Priority)</label>
+                            <select id="edit-priority">
+                                <option value="High">High</option>
+                                <option value="Medium">Medium</option>
+                                <option value="Low">Low</option>
+                            </select>
+                        </div>
+                        <div class="form-group col-6">
+                            <label for="edit-status">Trạng thái (Status)</label>
+                            <select id="edit-status">
+                                <option value="Pending">Pending</option>
+                                <option value="Processing">Processing</option>
+                                <option value="Completed">Completed</option>
+                                <option value="Cancelled">Cancelled</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-primary">Lưu thay đổi</button>
+                    <button type="button" class="btn btn-secondary" onclick="closeEditModal()">Hủy</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="/static/js/app.js"></script>
+</body>
+</html>
