@@ -1,26 +1,24 @@
+import os
+from dotenv import load_dotenv
 from sqlalchemy import create_engine
 from sqlalchemy.orm import declarative_base, sessionmaker
-from app.config import settings
 
-is_sqlite = settings.DATABASE_URL.startswith("sqlite")
+load_dotenv()
 
-if is_sqlite:
-    engine = create_engine(
-        settings.DATABASE_URL,
-        connect_args={"check_same_thread": False}
-    )
+# Lấy link database từ .env, mặc định dùng SQLite để chạy test ở máy
+DATABASE_URL = os.getenv("DATABASE_URL", "sqlite:///./orders.db")
+if DATABASE_URL.startswith("postgres://"):
+    DATABASE_URL = DATABASE_URL.replace("postgres://", "postgresql://", 1)
+
+if DATABASE_URL.startswith("sqlite"):
+    engine = create_engine(DATABASE_URL, connect_args={"check_same_thread": False})
 else:
-    # Ket noi Supabase PostgreSQL qua Supavisor (cong 6543)
-    engine = create_engine(
-        settings.DATABASE_URL,
-        pool_pre_ping=True,
-        pool_recycle=300,
-        pool_size=5,
-        max_overflow=10
-    )
+    # Kết nối PostgreSQL (Supabase Supavisor port 6543)
+    engine = create_engine(DATABASE_URL, pool_pre_ping=True, pool_recycle=300)
 
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 Base = declarative_base()
+
 
 def get_db():
     db = SessionLocal()
@@ -28,7 +26,3 @@ def get_db():
         yield db
     finally:
         db.close()
-
-def init_db():
-    from app import models
-    Base.metadata.create_all(bind=engine)

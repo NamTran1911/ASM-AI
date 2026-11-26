@@ -1,82 +1,188 @@
 import os
 import logging
-from contextlib import asynccontextmanager
-from fastapi import FastAPI, Request
-from fastapi.middleware.cors import CORSMiddleware
+from typing import List, Optional
+
+from fastapi import FastAPI, Request, Depends, HTTPException, BackgroundTasks, Header
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
+from sqlalchemy.orm import Session
+from sqlalchemy import or_
 
-from app.config import settings
-from app.database import init_db, engine
-from app.routers import orders, logs
-from app.ml import vectorizer, model
+from app.database import Base, engine, get_db
+from app.models import Order, OrderLog
+from app.schemas import OrderCreate, OrderUpdate, OrderOut, OrderLogOut, PredictRequest
+from app.ml import predict_priority, model as ml_model
+from app.services import send_email_background
 
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s [%(levelname)s] %(name)s: %(message)s"
-)
-logger = logging.getLogger("order_system")
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+
+# Tạo bảng database tự động nếu chưa có
+Base.metadata.create_all(bind=engine)
+
+app = FastAPI(title="Hệ thống Quản lý Đơn hàng AI")
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-STATIC_DIR = os.path.join(BASE_DIR, "static")
-TEMPLATES_DIR = os.path.join(BASE_DIR, "templates")
+app.mount("/static", StaticFiles(directory=os.path.join(BASE_DIR, "static")), name="static")
+templates = Jinja2Templates(directory=os.path.join(BASE_DIR, "templates"))
 
-@asynccontextmanager
-async def lifespan(app: FastAPI):
-    # Khoi tao bang du lieu khi ung dung khoi dong
-    try:
-        init_db()
-        logger.info("Khoi tao co so du lieu thanh cong.")
-    except Exception as e:
-        logger.error(f"Khong the khoi tao database: {e}")
-    yield
 
-app = FastAPI(
-    title=settings.APP_NAME,
-    version="1.0.0",
-    lifespan=lifespan
-)
+# Kiểm tra API Key nếu bật REQUIRE_API_KEY=true trong .env
+def check_api_key(x_api_key: Optional[str] = Header(None)):
+    require_key = os.getenv("REQUIRE_API_KEY", "false").lower() == "true"
+    expected_key = os.getenv("API_KEY", "")
+    if require_key and x_api_key != expected_key:
+        raise HTTPException(status_code=401, detail="API Key không hợp lệ")
 
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
-
-if os.path.exists(STATIC_DIR):
-    app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
-
-templates = Jinja2Templates(directory=TEMPLATES_DIR)
-
-app.include_router(orders.router)
-app.include_router(logs.router)
 
 @app.get("/")
-async def root(request: Request):
-    return templates.TemplateResponse("index.html", {
-        "request": request,
-        "app_name": settings.APP_NAME,
-        "env": settings.ENVIRONMENT
-    })
+async def home(request: Request):
+    return templates.TemplateResponse(request, "index.html")
+
 
 @app.get("/api/health")
 async def health_check():
-    db_status = "connected"
-    try:
-        with engine.connect() as conn:
-            pass
-    except Exception as e:
-        db_status = f"error: {str(e)}"
-
-    ml_status = "ready" if (vectorizer is not None and model is not None) else "fallback_mode"
-    llm_provider = "gemini" if settings.GEMINI_API_KEY else ("openai" if settings.OPENAI_API_KEY else "simulation_draft")
-
     return {
         "status": "ok",
-        "database": db_status,
-        "ml_model": ml_status,
-        "llm_provider": llm_provider,
-        "model_name": settings.LLM_MODEL
+        "ml_model": "ready" if ml_model is not None else "fallback",
+        "llm": "openai" if os.getenv("OPENAI_API_KEY") else ("gemini" if os.getenv("GEMINI_API_KEY") else "template"),
     }
+
+
+@app.post("/api/orders/predict", dependencies=[Depends(check_api_key)])
+async def predict_order_api(data: PredictRequest):
+    return predict_priority(data.product_description)
+
+
+@app.get("/api/orders", response_model=List[OrderOut], dependencies=[Depends(check_api_key)])
+async def get_orders(
+    priority: Optional[str] = None,
+    status: Optional[str] = None,
+    search: Optional[str] = None,
+    db: Session = Depends(get_db),
+):
+    query = db.query(Order)
+    if priority:
+        query = query.filter(Order.priority == priority)
+    if status:
+        query = query.filter(Order.status == status)
+    if search:
+        kw = f"%{search.strip()}%"
+        query = query.filter(or_(Order.customer_name.ilike(kw), Order.product_description.ilike(kw)))
+    return query.order_by(Order.order_id.desc()).all()
+
+
+@app.get("/api/orders/{order_id}", response_model=OrderOut, dependencies=[Depends(check_api_key)])
+async def get_order_detail(order_id: int, db: Session = Depends(get_db)):
+    order = db.query(Order).filter(Order.order_id == order_id).first()
+    if not order:
+        raise HTTPException(status_code=404, detail="Không tìm thấy đơn hàng")
+    return order
+
+
+@app.post("/api/orders", response_model=OrderOut, status_code=201, dependencies=[Depends(check_api_key)])
+async def create_order(
+    order_in: OrderCreate,
+    background_tasks: BackgroundTasks,
+    db: Session = Depends(get_db),
+):
+    # Nếu chưa chọn priority thì gọi ML dự đoán tự động
+    priority = order_in.priority
+    if priority not in ("High", "Medium", "Low"):
+        priority = predict_priority(order_in.product_description)["priority"]
+
+    new_order = Order(
+        customer_name=order_in.customer_name.strip(),
+        product_description=order_in.product_description.strip(),
+        priority=priority,
+        status=order_in.status or "Pending",
+    )
+    db.add(new_order)
+    db.commit()
+    db.refresh(new_order)
+
+    # Đơn High Priority thì chạy background task soạn email
+    if new_order.priority == "High":
+        background_tasks.add_task(
+            send_email_background,
+            new_order.order_id,
+            new_order.customer_name,
+            new_order.product_description,
+        )
+
+    return new_order
+
+
+@app.put("/api/orders/{order_id}", response_model=OrderOut, dependencies=[Depends(check_api_key)])
+async def update_order(
+    order_id: int,
+    order_in: OrderUpdate,
+    background_tasks: BackgroundTasks,
+    db: Session = Depends(get_db),
+):
+    order = db.query(Order).filter(Order.order_id == order_id).first()
+    if not order:
+        raise HTTPException(status_code=404, detail="Không tìm thấy đơn hàng")
+
+    old_priority = order.priority
+
+    if order_in.customer_name is not None:
+        order.customer_name = order_in.customer_name.strip()
+    if order_in.product_description is not None:
+        order.product_description = order_in.product_description.strip()
+    if order_in.priority is not None:
+        order.priority = order_in.priority
+    if order_in.status is not None:
+        order.status = order_in.status
+
+    db.commit()
+    db.refresh(order)
+
+    if order.priority == "High" and old_priority != "High":
+        background_tasks.add_task(
+            send_email_background,
+            order.order_id,
+            order.customer_name,
+            order.product_description,
+        )
+
+    return order
+
+
+@app.delete("/api/orders/{order_id}", dependencies=[Depends(check_api_key)])
+async def delete_order(order_id: int, db: Session = Depends(get_db)):
+    order = db.query(Order).filter(Order.order_id == order_id).first()
+    if not order:
+        raise HTTPException(status_code=404, detail="Không tìm thấy đơn hàng")
+    db.delete(order)
+    db.commit()
+    return {"message": "Đã xóa đơn hàng"}
+
+
+@app.post("/api/orders/{order_id}/trigger-email", dependencies=[Depends(check_api_key)])
+async def trigger_email(order_id: int, background_tasks: BackgroundTasks, db: Session = Depends(get_db)):
+    order = db.query(Order).filter(Order.order_id == order_id).first()
+    if not order:
+        raise HTTPException(status_code=404, detail="Không tìm thấy đơn hàng")
+
+    background_tasks.add_task(
+        send_email_background,
+        order.order_id,
+        order.customer_name,
+        order.product_description,
+    )
+    return {"message": f"Đã gửi yêu cầu soạn email cho đơn #{order_id}"}
+
+
+@app.get("/api/orders/{order_id}/logs", response_model=List[OrderLogOut], dependencies=[Depends(check_api_key)])
+async def get_order_logs(order_id: int, db: Session = Depends(get_db)):
+    return (
+        db.query(OrderLog)
+        .filter(OrderLog.order_id == order_id)
+        .order_by(OrderLog.log_id.desc())
+        .all()
+    )
+
+
+@app.get("/api/logs", response_model=List[OrderLogOut], dependencies=[Depends(check_api_key)])
+async def get_all_logs(db: Session = Depends(get_db)):
+    return db.query(OrderLog).order_by(OrderLog.log_id.desc()).limit(50).all()

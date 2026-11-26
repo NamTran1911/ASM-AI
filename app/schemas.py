@@ -1,15 +1,14 @@
-from typing import Optional, List
 from datetime import datetime
-from pydantic import BaseModel, Field
+from typing import Optional
+from pydantic import BaseModel, ConfigDict
 
-class OrderBase(BaseModel):
-    customer_name: str = Field(..., min_length=1, max_length=255)
-    product_description: str = Field(..., min_length=1)
-    priority: Optional[str] = Field(default="Medium")
-    status: Optional[str] = Field(default="Pending")
 
-class OrderCreate(OrderBase):
-    pass
+class OrderCreate(BaseModel):
+    customer_name: str
+    product_description: str
+    priority: Optional[str] = None
+    status: str = "Pending"
+
 
 class OrderUpdate(BaseModel):
     customer_name: Optional[str] = None
@@ -17,7 +16,14 @@ class OrderUpdate(BaseModel):
     priority: Optional[str] = None
     status: Optional[str] = None
 
-class OrderLogResponse(BaseModel):
+
+class PredictRequest(BaseModel):
+    product_description: str
+
+
+class OrderLogOut(BaseModel):
+    model_config = ConfigDict(from_attributes=True)
+
     log_id: int
     order_id: int
     action: str
@@ -27,22 +33,13 @@ class OrderLogResponse(BaseModel):
     status: str
     created_at: datetime
 
-    class Config:
-        from_attributes = True
 
-class OrderResponse(OrderBase):
+class OrderOut(BaseModel):
+    model_config = ConfigDict(from_attributes=True)
+
     order_id: int
-    created_at: datetime
-    updated_at: Optional[datetime] = None
-    logs: List[OrderLogResponse] = []
-
-    class Config:
-        from_attributes = True
-
-class PredictRequest(BaseModel):
-    product_description: str = Field(..., min_length=1)
-
-class PredictResponse(BaseModel):
+    customer_name: str
+    product_description: str
     priority: str
-    confidence: float
-    description_cleaned: str
+    status: str
+    created_at: datetime
