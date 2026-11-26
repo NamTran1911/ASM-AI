@@ -1,7 +1,6 @@
 import os
 import logging
-from app.database import SessionLocal
-from app.models import OrderLog
+from app.database import create_order_log
 
 logger = logging.getLogger(__name__)
 
@@ -55,10 +54,9 @@ def create_email_content(order_id: int, customer_name: str, product_description:
 
 def send_email_background(order_id: int, customer_name: str, product_description: str):
     logger.info(f"Bắt đầu soạn email tự động cho đơn hàng #{order_id}")
-    db = SessionLocal()
     try:
         content = create_email_content(order_id, customer_name, product_description)
-        log = OrderLog(
+        create_order_log(
             order_id=order_id,
             action="AUTO_EMAIL_REPLY",
             recipient=customer_name,
@@ -66,11 +64,6 @@ def send_email_background(order_id: int, customer_name: str, product_description
             email_content=content,
             status="SENT",
         )
-        db.add(log)
-        db.commit()
         logger.info(f"Đã lưu log email cho đơn hàng #{order_id}")
     except Exception as e:
-        db.rollback()
         logger.error(f"Lỗi khi lưu log email đơn #{order_id}: {e}")
-    finally:
-        db.close()

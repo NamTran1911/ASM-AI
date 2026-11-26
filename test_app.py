@@ -1,7 +1,6 @@
 from fastapi.testclient import TestClient
 from app.main import app
-from app.database import SessionLocal
-from app.models import OrderLog
+from app.database import list_order_logs
 
 client = TestClient(app)
 
@@ -19,7 +18,14 @@ def run_tests():
     assert res_pred.status_code == 200
     print("[OK] Dự đoán AI:", res_pred.json())
 
-    # 3. Test tạo đơn High Priority -> kiểm tra BackgroundTasks ghi OrderLog
+    # 3. Test đọc danh sách đơn hàng từ orders_test_1000.csv
+    res_list = client.get("/api/orders")
+    assert res_list.status_code == 200
+    initial_count = len(res_list.json())
+    assert initial_count >= 1000, f"Expected >= 1000 orders, got {initial_count}"
+    print(f"[OK] Đọc danh sách đơn hàng từ CSV: {initial_count} đơn")
+
+    # 4. Test tạo đơn High Priority -> kiểm tra BackgroundTasks ghi log CSV
     res_create = client.post("/api/orders", json={
         "customer_name": "Nguyễn Văn Test",
         "product_description": "Giao gấp thiết bị y tế trong ngày",
@@ -30,17 +36,16 @@ def run_tests():
     order_id = res_create.json()["order_id"]
     print(f"[OK] Đã tạo đơn High #{order_id}")
 
-    db = SessionLocal()
-    logs = db.query(OrderLog).filter(OrderLog.order_id == order_id).all()
+    logs = list_order_logs(order_id)
     assert len(logs) > 0, "Chưa có log email được tạo!"
-    print(f"[OK] Background task đã lưu email: {logs[0].email_subject}")
-    db.close()
+    print(f"[OK] Background task đã lưu email: {logs[0]['email_subject']}")
 
-    # 4. Test lấy danh sách, sửa, xóa
-    assert client.get("/api/orders").status_code == 200
+    # 5. Test sửa, lọc và xóa (dọn sạch dữ liệu test)
     assert client.put(f"/api/orders/{order_id}", json={"status": "Completed"}).status_code == 200
+    assert client.get(f"/api/orders/{order_id}").json()["status"] == "Completed"
     assert client.delete(f"/api/orders/{order_id}").status_code == 200
-    print("[OK] CRUD đơn hàng hoạt động bình thường")
+    assert len(client.get("/api/orders").json()) == initial_count
+    print("[OK] CRUD đơn hàng trên CSV hoạt động bình thường")
 
 
 if __name__ == "__main__":
