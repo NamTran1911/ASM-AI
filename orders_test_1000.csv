@@ -1,0 +1,1001 @@
+order_id,customer_name,product_description,priority,status,created_at,updated_at
+1,Cty TNHH Minh Phát,"Mua Váy hoa nhí dáng xòe size S dùng gia đình, đóng gói cẩn thận chút nhé shop - check kỹ màu sắc giúp",Medium,Completed,2026-08-29 03:23:22,2026-08-30 07:13:22
+2,Cô Bảo,"Nồi cơm điện tử Toshiba 1.8L, giao ở địa chỉ công ty từ thứ 2 đến thứ 6 (SL: 4)",Medium,Completed,2026-08-29 08:29:15,2026-09-01 05:38:15
+3,co bao,"Tai nghe Bluetooth Sony WH-CH720N đen (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán",Medium,Completed,2026-08-29 10:12:47,2026-08-31 04:15:47
+4,Hoang Huu Chau,Đơn y tế khẩn cấp: Insulin bút tiêm bảo quản lạnh  ưu tiên chuyển ngay trong buổi sáng - shipper tới cổng gọi nhé,High,Completed,2026-08-29 17:46:27,2026-08-29 21:42:27
+5,Ngô Hoài Yến,"đơn tiêu chuẩn: máy sấy tóc ion âm panasonic 1800w, giao giờ hành chính giúp mình - đừng gọi giờ nghỉ trưa 12h-13h",Medium,Completed,2026-08-29 18:00:24,2026-09-01 05:01:24
+6,Nguyễn Trang,"Mua Bo chen dia gom su Minh Long 10 mon dung gia dinh, dong goi can than chut nhe shop (SL: 3)",Medium,Completed,2026-08-30 14:39:14,2026-08-30 16:03:14
+7,TRẦN PHONG,"Giao hỏa tốc 2h Máy tạo oxy y tế Yuwell 5L, gia đình đang cần gấp cho người bệnh (SL: 2)",High,Completed,2026-08-30 16:57:42,2026-08-31 00:40:42
+8,Lê Anh Nam,"mua Nồi cơm điện tử Toshiba 1.8L dùng gia đình, đóng gói cẩn thận chút nhé shop",Medium,Completed,2026-08-30 18:55:48,2026-09-01 00:47:48
+9,Lý Bảo Khoa,"Chuột ko dây Logitech MX Master 3S (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trc khi thanh toán, đừng gọi giờ nghỉ trưa 12h-13h",High,Completed,2026-08-30 19:25:27,2026-08-31 03:15:27
+10,Lê Đức Ngọc,"Khách đặt Nồi cơm điện tử Toshiba 1.8L, chọn giao hàng tiết kiệm. Note: đã ck trc",Medium,Processing,2026-08-30 20:10:32,2026-08-31 06:19:32
+12,huynh phuong trung,"Hàng đặt trước (pre-order): Băng keo trong cuộn lớn (combo 6 cuộn), chờ đủ hàng rồi gửi",Low,Completed,2026-08-30 21:24:37,2026-08-31 08:59:37
+13,Huỳnh Hoàng Dũng,"don y te khan cap: may xong khi dung omron cho be, uu tien chuyen ngay trong buoi sang (goi trc khi giao)",High,Completed,2026-08-30 21:29:53,2026-08-31 12:25:53
+14,Mai Ngọc Vinh," Máy lọc ko khí Xiaomi Air Purifier 4, giao ở địa chỉ công ty từ thứ 2 đến thứ 6",Medium,Completed,2026-08-30 22:04:42,2026-09-01 07:28:42
+15,Huỳnh Phương Trung,"quà tặng kèm / mẫu thử: Cáp sạc nhanh Type-C dài 1m bọc dù, Kẹp tóc càng cua nhám Hàn Quốc, đi đơn bưu điện thường",Low,Completed,2026-08-31 05:59:11,2026-09-03 14:30:11
+16,Lê Anh Nam,"Don mua thu Cap sac nhanh Type-C dai 1m boc du, Lot chuot vai size 20x25cm den tron, van chuyen cham tiet kiem cuoc",Low,Cancelled,2026-08-31 06:16:30,2026-08-31 20:09:30
+17,Nguyễn Minh Ngọc,"Giay sneaker Adidas Ultraboost trang size 38 (bao hanh 12 thang), giao tan noi, cho kiem hang truoc khi thanh toan, giao dung mau nhu hinh",Medium,Completed,2026-08-31 09:44:28,2026-09-03 20:57:28
+18,Phan Kim Tùng,"Phụ kiện nhỏ: Gói sample kem dưỡng ẩm 5ml, giao chung hoặc khi tiện chuyến, gọi trc khi giao",Low,Cancelled,2026-08-31 11:24:02,2026-09-01 01:04:02
+19,C. Quang,"Khách báo hết Máy đo huyết áp bắp tay Omron HEM-7156, nhờ giao sớm nhất có thể trong ngày",High,Cancelled,2026-08-31 11:35:22,2026-09-01 12:02:22
+20,Trịnh Hoài Quân,đổi trả bảo hành gấp: tủ lạnh inverter samsung 380l khách cần nhận lại ngay trong hôm nay,High,Processing,2026-08-31 13:17:54,2026-09-01 10:28:54
+21,Spa Dưỡng Sinh Hoa Sen,"Mua sỉ Miếng dán cường lực màn hình 9D số lượng nhiều, gửi chành xe cuối tuần hoặc đầu tuần sau",High,Completed,2026-08-31 21:52:19,2026-09-01 10:58:19
+22,Anh Bình,"Qua tang kem / mau thu: Sticker trang tri so tay (set 5 tam), di don buu dien thuong (SL: 4)",High,Completed,2026-09-01 08:55:32,2026-09-02 01:50:32
+23,ho trung khoa,"Phu kien nho: Hop 20 cay but bi Thien Long muc xanh 0.5mm, giao chung hoac khi tien chuyen",Low,Completed,2026-09-01 14:44:05,2026-09-02 08:45:05
+24,Anh Hieu,"Gui Giay sneaker Adidas Ultraboost trang size 38, chieu mai hoac ngay kia giao deu ok (da ck truoc)",Medium,Cancelled,2026-09-01 16:12:27,2026-09-02 10:52:27
+25,Dương Vy,"Combo Khăn lau kính mắt chuyên dụng hộp 10 miếng + Chuột không dây Logitech MX Master 3S, giao bình thường lúc nào tiện thì nhận",Low,Completed,2026-09-01 17:19:06,2026-09-03 22:16:06
+26,vo huu vu,"Khách báo hết Thuốc kê đơn + vật tư thay băng y tế, nhờ giao sớm nhất có thể trong ngày - đừng gọi giờ nghỉ trưa 12h-13h",High,Completed,2026-09-01 17:19:37,2026-09-01 19:03:37
+27,Bùi Đạt,"Đơn shopee/web: Váy hoa nhí dáng xòe size S, phí ship bình thường (gọi trc khi giao)",Medium,Completed,2026-09-01 17:41:28,2026-09-05 07:03:28
+28,Lý Gia Cường,mua sỉ ốp lưng silicon trong suốt iphone 15 số lượng nhiều  gửi chành xe cuối tuần hoặc đầu tuần sau,Low,Completed,2026-09-01 19:31:10,2026-09-05 00:49:10
+29,Spa Duong Sinh Hoa Sen,Nước yến sào cao cấp hộp 12 hũ làm quà biếu giao hỏa tốc trong ngày kẻo hư hỏng - đã ck trc,High,Completed,2026-09-01 20:26:15,2026-09-02 10:16:15
+30,Ngô Thành Tuấn,"Nồi chiên không dầu Philips 6.2L dùng cho tiệc tối nay ở nhà hàng, nhờ giao gấp trước 17h (SL: 4)",High,Cancelled,2026-09-01 20:49:01,2026-09-02 12:53:01
+31,Đỗ Trung Thảo,"Don VIP: Ca hoi Na Uy tuoi phi le 2kg uop lanh gui tang doi tac, giao tan tay va chup anh xac nhan",High,Completed,2026-09-02 06:20:55,2026-09-02 21:17:55
+32,Lê Anh Nam,"gửi giày chạy bộ nike pegasus 40 size 42, chiều mai hoặc ngày kia giao đều ok",Medium,Completed,2026-09-02 10:59:30,2026-09-03 03:50:30
+33,Phòng khám Đa khoa An Tâm,"Gui Nuoc tay trang Bioderma 500ml nap hong, chieu mai hoac ngay kia giao deu ok (da ck truoc)",Medium,Completed,2026-09-02 12:27:22,2026-09-05 20:08:22
+34,Truong Mam non Nang Mai,"ghế công thái học văn phòng màu xám, đóng gói tiêu chuẩn, gọi điện trước khi tới 15p",Medium,Completed,2026-09-02 12:47:32,2026-09-05 09:38:32
+35,Ngô Phương My,Khách hỏi mua Bộ ga gối cotton Hàn Quốc 1m8x2m + Tai nghe Bluetooth Sony WH-CH720N đen  thanh toán COD khi nhận hàng,Medium,Completed,2026-09-02 13:20:45,2026-09-04 18:17:45
+36,Trương Anh Châu,"Đơn mua thử Giá đỡ điện thoại nhựa gập mini để bàn, vận chuyển chậm tiết kiệm cước",Low,Completed,2026-09-02 13:52:37,2026-09-05 13:11:37
+37,Lý Minh Dũng,"phu kien nho: xap 5 tap giay note vang dan tuong, giao chung hoac khi tien chuyen",Low,Completed,2026-09-02 14:10:14,2026-09-04 09:09:14
+38,Mai Lan Bảo,Qua tang kem / mau thu: Bang keo trong cuon lon (combo 6 cuon)  di don buu dien thuong. Note: shipper toi cong goi nhe,Low,Completed,2026-09-02 19:21:03,2026-09-04 04:40:03
+39,Pham Trung Duc,"Giao gap truoc 11h30 trua nay: Lang hoa tuoi khai truong kem thiep, dong goi can than tranh nghieng do",High,Completed,2026-09-03 02:20:31,2026-09-03 05:40:31
+40,Nguyễn Minh Thịnh,"vật tư tiêu hao cho văn phòng: kẹp tóc càng cua nhám hàn quốc, giao lúc nào cũng được",Low,Completed,2026-09-03 04:09:50,2026-09-05 08:29:50
+41,Vũ Khánh Trí,"don tieu chuan: may say toc ion am panasonic 1800w, giao gio hanh chinh giup minh",Medium,Completed,2026-09-03 15:30:53,2026-09-05 18:53:53
+42,Chi Ngoc - Binh Thanh,Đặt mua Kem chống nắng Anessa SPF50+ 60ml  giao hàng tiêu chuẩn 2-3 ngày là được,Medium,Cancelled,2026-09-03 17:40:39,2026-09-05 08:15:39
+43,Cô Vũ - Q7,"áo polo nam vải cá sấu màu xanh navy size m hàng thanh lý trưng bày, khách ko vội",Low,Completed,2026-09-03 20:06:24,2026-09-04 06:24:24
+44,Nguyễn Trang,"Quà tặng kèm / mẫu thử: Tờ rơi catalogue sản phẩm mới 2026, đi đơn bưu điện thường",Low,Completed,2026-09-04 06:20:55,2026-09-06 22:07:55
+45,Cô Anh,"Sữa rửa mặt La Roche-Posay 400ml, giao ở địa chỉ công ty từ thứ 2 đến thứ 6",Medium,Completed,2026-09-04 15:59:57,2026-09-06 13:13:57
+46,Nguyễn Minh Ngọc,"Đơn tiêu chuẩn: Quần jeans nam dáng suông Levi's size 31, giao giờ hành chính giúp mình",Medium,Cancelled,2026-09-04 17:36:53,2026-09-04 18:53:53
+47,Võ Thảo Kiên,"Đơn hẹn h: Thùng hải sản tươi sống (tôm hùm + cua Cà Mau), giao đúng 18h tối nay cho kịp tiệc",High,Completed,2026-09-04 20:59:33,2026-09-05 01:22:33
+48,Hoàng Lan,"Mua Nồi chiên ko dầu Philips 6.2L dùng gia đình, đóng gói cẩn thận chút nhé shop",Medium,Completed,2026-09-05 03:41:21,2026-09-05 17:00:21
+49,Đào Minh Phương,"giao hỏa tốc 2h laptop lenovo thinkpad x1 carbon, khách đang cần gấp trong sáng nay, ko giao chủ nhật",High,Completed,2026-09-05 16:20:32,2026-09-06 02:59:32
+50,Dao Thu Hung,"Mua Noi com dien tu Toshiba 1.8L dung gia dinh, dong goi can than chut nhe shop (SL: 5)",Medium,Completed,2026-09-05 19:13:00,2026-09-06 18:44:00
+52,Đinh Hoàng Mai,"bo chen dia gom su minh long 10 mon (bao hanh 12 thang), giao tan noi, cho kiem hang trc khi thanh toan",Medium,Pending,2026-09-05 21:36:36,2026-09-05 21:36:36
+53,Lê Dũng,"lấy loa bluetooth jbl flip 6, giao trước 5h chiều trong tuần này là ổn",Medium,Completed,2026-09-06 03:12:27,2026-09-08 04:36:27
+54,Bui Ngoc Nhung,"Áo polo nam vải cá sấu màu xanh navy size M, khách cần gấp mang đi du lịch sáng mai",High,Pending,2026-09-06 06:13:56,2026-09-06 06:13:56
+55,C. Khoa,"lay noi com dien tu toshiba 1.8l, giao truoc 5h chieu trong tuan nay la on",Medium,Processing,2026-09-06 09:43:39,2026-09-06 21:28:39
+56,Studio Anh Cuoi Lumi,"Don dat MacBook Pro 14 inch M3 Pro cho hang ve kho cuoi thang (SL: 3), goi trc khi giao",Medium,Completed,2026-09-06 13:51:02,2026-09-07 06:20:02
+57,Hoàng Hoài Trung,"máy sấy tóc ion âm Panasonic 1800W + Túi đựng rác tự hủy cuộn 3 cái, giao ở địa chỉ công ty từ thứ 2 đến thứ 6",Medium,Processing,2026-09-06 19:37:58,2026-09-06 21:24:58
+58,Dương Thanh Quân,"lấy máy sấy tóc ion âm panasonic 1800w, giao trước 5h chiều trong tuần này là ổn",Medium,Completed,2026-09-07 01:29:03,2026-09-09 11:23:03
+59,Trịnh Hoàng Dương,"Balo laptop chống nước Tigernu 15.6 inch + Lót chuột vải size 20x25cm đen trơn, đóng gói tiêu chuẩn, gọi điện trước khi tới 15p (SL: 2)",Medium,Completed,2026-09-07 02:06:30,2026-09-09 13:27:30
+60,Xưởng In Ấn Hoàng Gia,"Hàng gom order nước ngoài: Hộp 20 cây bút bi Thiên Long mực xanh 0.5mm, dự kiến 2-3 tuần nữa giao",Low,Completed,2026-09-07 08:20:15,2026-09-09 00:00:15
+61,Lê Ngọc Nam,Binh dun sieu toc Lock&Lock 1.7L - khach dan cuoi tuan o nha moi nhan dc,Medium,Processing,2026-09-07 08:25:16,2026-09-07 16:33:16
+62,Xuong In An Hoang Gia,"Đơn VIP: CPU Intel Core i9 14900K, đóng gói chống sốc kỹ giúp, giao tận tay khách",High,Completed,2026-09-07 11:15:55,2026-09-08 05:14:55
+63,Dang Thu Tuyet,"Đơn online thường: Nồi chiên không dầu Philips 6.2L, ko cần giao gấp",Medium,Completed,2026-09-07 12:34:26,2026-09-10 09:27:26
+64,Đào Minh,ship gấp trong ngày card màn hình rtx 4080 super  khách cần dùng liền cho kịp việc,High,Cancelled,2026-09-07 13:35:55,2026-09-09 06:23:55
+65,Nguyễn Thảo Tú,"Ghế công thái học văn phòng màu xám, giao ở địa chỉ công ty từ thứ 2 đến thứ 6",Medium,Cancelled,2026-09-07 17:12:35,2026-09-09 15:35:35
+66,Vũ Vinh,"Bàn phím cơ Akko 3087 switch Brown (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán",Medium,Completed,2026-09-07 18:03:14,2026-09-11 13:53:14
+67,Trương Xuân Hạnh,"đồng hồ tissot le locle automatic nguyên seal chính hãng, giá trị cao, nhớ kiểm tra kỹ trước khi xuất kho - ko giao chủ nhật !",High,Cancelled,2026-09-07 18:10:25,2026-09-08 18:39:25
+68,Lê Dũng,"Giao gấp trước 11h30 trưa nay: Nước yến sào cao cấp hộp 12 hũ làm quà biếu, đóng gói cẩn thận tránh nghiêng đổ - đã ck trước ạ",High,Completed,2026-09-07 20:34:02,2026-09-08 02:55:02
+69,Lý Long,"phụ kiện nhỏ: cáp sạc nhanh type-c dài 1m bọc dù  lót chuột vải size 20x25cm đen trơn, giao chung hoặc khi tiện chuyến",Low,Completed,2026-09-07 21:39:53,2026-09-08 22:50:53
+70,Bùi Thảo Hằng,"Đơn VIP: Thùng hải sản tươi sống (tôm hùm + cua Cà Mau) gửi tặng đối tác, giao tận tay và chụp ảnh xác nhận. Note: ko giao chủ nhật",High,Completed,2026-09-07 22:05:42,2026-09-08 06:07:42
+71,Phan Bảo Thủy,"Đơn mua thử Kẹp tóc càng cua nhám Hàn Quốc, vận chuyển chậm tiết kiệm cước. Note: ko giao chủ nhật",Low,Completed,2026-09-07 22:34:47,2026-09-09 09:29:47
+72,Mai Thanh Yến,"Bo ga goi cotton Han Quoc 1m8x2m, dong goi tieu chuan, goi dien truoc khi toi 15p - dung goi gio nghi trua 12h-13h",Medium,Completed,2026-09-08 09:33:28,2026-09-10 03:00:28
+73,Tạ Quốc Phương,"đơn online thường: Giày chạy bộ Nike Pegasus 40 size 42, ko cần giao gấp",Medium,Completed,2026-09-08 13:15:17,2026-09-09 19:03:17
+74,Đinh Trung Hoàng,"Hàng đặt trc (pre-order): Giá đỡ điện thoại nhựa gập mini để bàn, chờ đủ hàng rồi gửi",Medium,Pending,2026-09-08 15:01:50,2026-09-08 15:01:50
+75,ho duc my," Khách hỏi mua Nước tẩy trang Bioderma 500ml nắp hồng, thanh toán COD khi nhận hàng",Medium,Completed,2026-09-08 15:16:07,2026-09-10 03:35:07
+76,Vũ Minh Bảo,"Mua Bình đun siêu tốc Lock&Lock 1.7L dùng gia đình, đóng gói cẩn thận chút nhé shop",Medium,Completed,2026-09-08 15:42:10,2026-09-10 05:50:10
+77,Bùi Trung Dũng,"don dac biet cho hoi thao chieu nay: laptop dell xps 13, phai giao truoc 14h",High,Completed,2026-09-08 20:10:46,2026-09-09 07:22:46
+78,Dương Thảo Lan,"khách đặt Váy hoa nhí dáng xòe size S, chọn giao hàng tiết kiệm nhé",Medium,Completed,2026-09-08 22:08:02,2026-09-11 11:19:02
+79,Nguyễn Thảo Thảo,Vật tư tiêu hao cho văn phòng: Túi zip trong suốt 100 chiếc size nhỏ  giao lúc nào cũng đc,Low,Cancelled,2026-09-09 15:37:11,2026-09-09 18:48:11
+80,Hồ Đức My,"Mua Áo sơ mi nam công sở Aristino size L trắng dùng gia đình  đóng gói cẩn thận chút nhé shop, khách hay bận họp, nt zalo nếu ko gọi đc",Medium,Cancelled,2026-09-09 15:46:00,2026-09-10 18:13:00
+81,Lý Gia Cường,Ao polo nam vai ca sau mau xanh navy size M - khach dan cuoi tuan o nha moi nhan duoc,Medium,Completed,2026-09-09 19:18:18,2026-09-10 17:50:18
+82,ta hoai,"Vat tu tieu hao cho vp: Cap sac nhanh Type-C dai 1m boc du, giao luc nao cung duoc (SL: 2)",Low,Cancelled,2026-09-09 19:33:55,2026-09-10 18:50:55
+83,Spa Dưỡng Sinh Hoa Sen,"Đơn online thường: Bàn phím cơ Akko 3087 switch Brown, không cần giao gấp",Medium,Cancelled,2026-09-10 02:18:55,2026-09-10 23:44:55
+84,Đào Hữu Lan,"Đơn tiêu chuẩn: Nước tẩy trang Bioderma 500ml nắp hồng, giao giờ hành chính giúp mình",Medium,Completed,2026-09-10 08:40:33,2026-09-13 13:34:33
+85,Phan Anh Nhung,"Ghế công thái học văn phòng màu xám, đóng gói tiêu chuẩn, gọi điện trước khi tới 15p",Medium,Completed,2026-09-10 09:06:29,2026-09-14 00:53:29
+86,Mai Thanh Yến,"Đặt thêm Tờ rơi catalogue sp mới 2026 dự phòng trong kho, tuần sau giao cũng được",Low,Completed,2026-09-10 12:12:55,2026-09-13 02:40:55
+89,Hồ Anh Đức,"Man hinh Dell UltraSharp 27 inch 4K - hang de vo gia tri cao, yeu cau shipper goi truoc khi giao (giao dung mau nhu hinh)",High,Completed,2026-09-10 14:34:13,2026-09-11 03:55:13
+90,Dương Minh Sơn,"đơn shopee/web: bàn ủi hơi nước cầm tay tefal, phí ship bình thường ạ",Medium,Processing,2026-09-10 17:05:06,2026-09-11 02:05:06
+91,Trịnh Thảo,"Bo ga goi cotton Han Quoc 1m8x2m, dong goi tieu chuan, goi dien trc khi toi 15p",Medium,Cancelled,2026-09-10 17:53:15,2026-09-11 05:26:15
+94,Trần An,"Đặt mua Quần jeans nam dáng suông Levi's size 31, giao hàng tiêu chuẩn 2-3 ngày là được (SL: 5)",Medium,Processing,2026-09-11 07:01:52,2026-09-11 18:00:52
+95,Cô Huyền - Gò Vấp,"đơn tiêu chuẩn: loa bluetooth jbl flip 6, giao giờ hành chính giúp mình",Medium,Processing,2026-09-11 08:32:26,2026-09-11 23:48:26
+96,Cô Phương - Hà Đông,"Gui Bo ga goi cotton Han Quoc 1m8x2m, chieu mai hoac ngay kia giao deu ok (SL: 3)",Medium,Completed,2026-09-11 09:09:41,2026-09-13 12:21:41
+97,Cty TNHH Minh Phat,"Quà tặng kèm / mẫu thử: Sticker trang trí sổ tay (set 5 tấm), đi đơn bưu điện thường",Low,Completed,2026-09-11 13:39:21,2026-09-13 03:50:21
+98,Dương Đức Thảo,"Bàn ủi hơi nước cầm tay Tefal, giao ở địa chỉ công ty từ thứ 2 đến thứ 6",Medium,Completed,2026-09-11 19:43:44,2026-09-15 06:34:44
+99,Dương Minh Sơn,"Loa Bluetooth JBL Flip 6 (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán",Medium,Completed,2026-09-11 20:36:20,2026-09-13 12:02:20
+100,Dương Văn Trúc,"Laptop Dell XPS 13 - hang de vo gia tri cao, yeu cau shipper goi truoc khi giao (giao dung mau nhu hinh)",High,Cancelled,2026-09-11 21:41:29,2026-09-12 05:17:29
+101,Phạm Khánh Trí,"Đơn shopee/web: Ghế công thái học vp màu xám, phí ship bình thường",Medium,Processing,2026-09-12 00:52:31,2026-09-12 11:31:31
+102,Trương Anh Châu,"qua tang kem / mau thu: bang keo trong cuon lon (combo 6 cuon), di don buu dien thuong",Low,Completed,2026-09-12 01:57:47,2026-09-13 15:24:47
+103,Bùi Thanh Phong,"Phụ kiện giá rẻ Túi zip trong suốt 100 chiếc size nhỏ, ship chậm miễn sao không thất lạc là đc",Low,Completed,2026-09-12 10:38:15,2026-09-15 08:04:15
+104,Dương Hoàng Nhi,"đơn ưu tiên: đồng hồ tissot le locle automatic, khách quen đã chuyển khoản full, ship ngay",High,Completed,2026-09-12 14:21:37,2026-09-13 00:47:37
+105,Đinh Châu,"Combo Cap sac nhanh Type-C dai 1m boc du + Binh dun sieu toc Lock&Lock 1.7L, giao binh thuong luc nao tien thi nhan",Low,Cancelled,2026-09-12 14:36:13,2026-09-14 04:00:13
+106,Chị Hải - Cầu Giấy,"Khách hỏi mua Tai nghe Bluetooth Sony WH-CH720N đen + Giày sneaker Adidas Ultraboost trắng size 38, thanh toán COD khi nhận hàng",Medium,Completed,2026-09-12 14:55:26,2026-09-16 01:27:26
+107,ho anh duc,"Giao hỏa tốc 2h Bộ kit test nhanh y tế (hộp 25 test), gia đình đang cần gấp cho người bệnh",High,Completed,2026-09-12 15:56:31,2026-09-13 09:13:31
+108,Dương Bảo Tuấn,"Phu kien gia re Tat co ngan nam cotton (set 5 doi), ship cham mien sao ko that lac la dc",Low,Completed,2026-09-12 16:56:59,2026-09-14 01:47:59
+109,Ngô Bảo Nguyên,Đơn shopee/web: Chuột không dây Logitech MX Master 3S  phí ship bình thường,Medium,Completed,2026-09-12 17:07:12,2026-09-16 08:50:12
+110,Anh Thảo,Đặt mua Bình đun siêu tốc Lock&Lock 1.7L  giao hàng tiêu chuẩn 2-3 ngày là đc,Medium,Completed,2026-09-12 17:38:14,2026-09-15 06:24:14
+111,Phạm Hoàng Quang,"Don online thuong: Nuoc tay trang Bioderma 500ml nap hong, khong can giao gap",Medium,Pending,2026-09-12 21:33:59,2026-09-12 21:33:59
+112,Ngô Lan Quang,"phụ kiện nhỏ: sticker trang trí sổ tay (set 5 tấm), giao chung hoặc khi tiện chuyến - giao đúng mẫu như hình",Low,Processing,2026-09-12 22:00:32,2026-09-13 03:53:32
+113,Huỳnh Hoàng Phương,Bánh kem sinh nhật 2 tầng mẫu hoa tươi giao hỏa tốc trong ngày kẻo hư hỏng (SL: 4). Note: giao đúng mẫu như hình,High,Cancelled,2026-09-12 22:22:30,2026-09-13 01:32:30
+114,Nguyễn Thanh Hoàng,"đơn tiêu chuẩn: nồi cơm điện tử toshiba 1.8l, giao h hc giúp mình (sl: 2)",Medium,Completed,2026-09-13 00:01:13,2026-09-15 22:33:13
+115,Cua hang Dien may Tuan Kiet,"Don mua thu Mieng dan cuong luc man hinh 9D, van chuyen cham tiet kiem cuoc",Low,Completed,2026-09-13 01:31:11,2026-09-16 16:11:11
+116,Lý Hoàng Thịnh,"Đặt mua Balo laptop chống nước Tigernu 15.6 inch, giao hàng tiêu chuẩn 2-3 ngày là được !",Medium,Completed,2026-09-13 07:12:22,2026-09-15 20:32:22
+117,Ngô Phương My,"Bộ ga gối cotton Hàn Quốc 1m8x2m, khách cần gấp mang đi du lịch sáng mai. Note: đã ck trước",High,Completed,2026-09-13 10:24:39,2026-09-14 01:25:39
+119,Trung tâm Anh ngữ Horizon,"Mua Tủ lạnh Inverter Samsung 380L trả góp, không cần gấp, giao tiêu chuẩn 3-4 ngày",Medium,Processing,2026-09-13 11:03:52,2026-09-14 01:43:52
+120,Phạm Phong,"phu kien gia re kep toc cang cua nham han quoc, ship cham mien sao ko that lac la dc (check ky mau sac giup)",Low,Completed,2026-09-13 14:52:00,2026-09-16 15:21:00
+121,Tạ Khoa,"Gửi Quần jeans nam dáng suông Levi's size 31, chiều mai hoặc ngày kia giao đều ok",Medium,Completed,2026-09-13 18:15:22,2026-09-17 11:07:22
+122,Tạ Văn Đức,"Vật tư tiêu hao cho văn phòng: Gói sample kem dưỡng ẩm 5ml, giao lúc nào cũng được. Note: thu hộ COD",Low,Completed,2026-09-13 21:24:47,2026-09-17 11:17:47
+123,A. Kiên - Q7,"Quà tặng kèm / mẫu thử: Cáp sạc nhanh Type-C dài 1m bọc dù, đi đơn bưu điện thường (SL: 4). Note: gọi trc khi giao",Low,Cancelled,2026-09-13 21:39:04,2026-09-14 23:46:04
+124,Spa Dưỡng Sinh Hoa Sen,"Phụ kiện giá rẻ Tất cổ ngắn nam cotton (set 5 đôi), Miếng dán cường lực màn hình 9D, ship chậm miễn sao không thất lạc là đc",Low,Completed,2026-09-13 21:47:04,2026-09-15 23:28:04
+125,Vu Khanh Tri,"Đơn shopee/web: Bàn ủi hơi nước cầm tay Tefal, phí ship bình thường. Note: ko giao chủ nhật",Medium,Processing,2026-09-13 22:19:37,2026-09-14 05:25:37
+126,Hoàng Bảo Thơ,"Đơn tiêu chuẩn: Chuột không dây Logitech MX Master 3S, giao giờ hành chính giúp mình, khách hay bận họp, nt zalo nếu ko gọi đc",Medium,Completed,2026-09-13 22:57:36,2026-09-16 20:33:36
+127,A. Bảo,"Nồi cơm điện tử Toshiba 1.8L, đóng gói tiêu chuẩn, gọi điện trước khi tới 15p",Medium,Completed,2026-09-14 09:12:07,2026-09-18 03:50:07
+128,Trinh Phuong Hung," Dat them Cap sac nhanh Type-C dai 1m boc du, Xap 5 tap giay note vang dan tuong du phong trong kho, tuan sau giao cung dc",Low,Completed,2026-09-14 13:37:22,2026-09-17 14:42:22
+129,Huỳnh Hoàng Đạt,"Lay Op lung silicon trong suot iPhone 15 cho su kien cong ty sang mai, can giao trong toi nay",High,Completed,2026-09-14 13:38:07,2026-09-15 06:50:07
+130,Dương Hữu Sơn,"Đặt Laptop Dell XPS 13, nhưng khách đi công tác cuối tuần mới về nên tuần sau hãy giao",Medium,Completed,2026-09-14 14:48:08,2026-09-17 07:46:08
+131,Mai Hoai Lan,"bộ chén dĩa gốm sứ Minh Long 10 món + Dây buộc tóc thun co giãn túi 200 cái (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán. Note: giao đúng mẫu như hình",Medium,Completed,2026-09-14 14:57:29,2026-09-14 19:49:29
+132,A. Yen - Tan Binh,đổi trả bảo hành gấp: laptop lenovo thinkpad x1 carbon khách cần nhận lại ngay trong hôm nay,High,Completed,2026-09-14 16:17:18,2026-09-15 10:00:18
+133,Đào Phương Thành,"Ship nhanh trong 2h Banh kem sinh nhat 2 tang mau hoa tuoi, khach can gap tiep khach",High,Cancelled,2026-09-14 16:43:30,2026-09-15 14:42:30
+134,Mai Xuan Hoai,"khách hỏi mua Ghế công thái học văn phòng màu xám, thanh toán COD khi nhận hàng. Note: kèm túi đựng nếu có",Medium,Completed,2026-09-14 17:00:26,2026-09-16 13:35:26
+135,Đinh Trung Hạnh,"Đơn tiêu chuẩn: Bình đun siêu tốc Lock&Lock 1.7L, giao giờ hành chính giúp mình (SL: 2)",Medium,Processing,2026-09-14 18:44:59,2026-09-15 00:47:59
+136,Trương Xuân Hạnh,"hàng gom order nước ngoài: tờ rơi catalogue sản phẩm mới 2026, tất cổ ngắn nam cotton (set 5 đôi), dự kiến 2-3 tuần nữa giao (sl: 5) - check kỹ màu sắc giúp",Low,Completed,2026-09-14 21:55:41,2026-09-17 23:22:41
+138,VŨ HỮU ĐẠT,"Hang dat truoc (pre-order): Op lung silicon trong suot iPhone 15, cho du hang roi gui (SL: 5)",Low,Completed,2026-09-14 22:09:16,2026-09-17 23:38:16
+139,Nguyễn Thu Quân,"Gửi Chuột không dây Logitech MX Master 3S, chiều mai hoặc ngày kia giao đều ok",Medium,Processing,2026-09-15 04:09:01,2026-09-15 08:37:01
+140,Phạm Anh Linh,"Don online thuong: Tai nghe Bluetooth Sony WH-CH720N den, khong can giao gapp",Medium,Completed,2026-09-15 08:39:33,2026-09-15 19:32:33
+141,Bùi Ngọc Tú,"Đặt mua Quần jeans nam dáng suông Levi's size 31, giao hàng tiêu chuẩn 2-3 ngày là được",Medium,Completed,2026-09-15 09:28:22,2026-09-19 06:47:22
+142,Dương Vy,"Hàng gom order nước ngoài: Lót chuột vải size 20x25cm đen trơn, dự kiến 2-3 tuần nữa giao (SL: 3)",Low,Processing,2026-09-15 13:09:46,2026-09-16 06:24:46
+145,C. Toan,"Don online thuong: Ban ui hoi nuoc cam tay Tefal + Bang keo trong cuon lon (combo 6 cuon), khong can giao gap - thu ho COD nha shop",Medium,Completed,2026-09-15 12:09:14,2026-09-15 13:14:14
+146,Trương Xuân Vũ,"Bộ ga gối cotton Hàn Quốc 1m8x2m, đóng gói tiêu chuẩn, gọi điện trước khi tới 15p",Medium,Completed,2026-09-15 14:50:36,2026-09-18 14:32:36
+147,Phan Hoàng Cường,"Phụ kiện giá rẻ Hộp 20 cây bút bi Thiên Long mực xanh 0.5mm, ship chậm miễn sao không thất lạc là đc",Low,Completed,2026-09-15 17:34:13,2026-09-17 15:35:13
+148,CLB Thể hình Titan,"May say toc ion am Panasonic 1800W, khach can gap mang di du lich sang mai",High,Completed,2026-09-15 18:24:12,2026-09-16 07:48:12
+149,Phan Dũng,"Dat them Sticker trang tri so tay (set 5 tam) du phong trong kho, tuan sau giao cung duoc, da ck truoc",Low,Completed,2026-09-15 18:49:07,2026-09-17 09:57:07
+150,Võ Hữu Vũ,"Phu kien gia re Tui dung rac tu huy cuon 3 cai, ship cham mien sao khong that lac la dc",High,Completed,2026-09-15 19:49:35,2026-09-16 12:39:35
+151,Duong Hoang Nhi,"mua sữa rửa mặt la roche-posay 400ml dùng gia đình, đóng gói cẩn thận chút nhé shop !",Medium,Completed,2026-09-15 20:01:15,2026-09-17 04:42:15
+152,Phan Minh Huy,"Ghế công thái học văn phòng màu xám + Giá đỡ điện thoại nhựa gập mini để bàn (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán",Medium,Completed,2026-09-15 20:38:41,2026-09-18 19:36:41
+153,Phan Anh Nhung,"Giao gap trc 11h30 trua nay: Ca hoi Na Uy tuoi phi le 2kg uop lanh, dong goi can than tranh nghieng do",High,Completed,2026-09-15 21:21:56,2026-09-16 12:07:56
+154,Huỳnh Khánh Minh,"Qua tang kem / mau thu: Xap 5 tap giay note vang dan tuong, di don buu dien thuong",Low,Completed,2026-09-16 08:20:44,2026-09-19 04:26:44
+155,NGÔ KHÁNH AN,"Don tieu chuan: Tai nghe Bluetooth Sony WH-CH720N den, giao gio hanh chinh giup minh",Medium,Completed,2026-09-16 12:39:43,2026-09-17 17:38:43
+156,vo minh hang,"Don online thuong: Balo laptop chong nuoc Tigernu 15.6 inch + Bo chen dia gom su Minh Long 10 mon, khong can giao gap (SL: 2)",Medium,Completed,2026-09-16 13:07:29,2026-09-19 15:46:29
+157,Bùi Kim Tuyết,"Don online thuong: Bo chen dia gom su Minh Long 10 mon, khong can giao gap",Medium,Completed,2026-09-16 15:19:06,2026-09-17 09:08:06
+158,Đào Minh Toàn,"Đặt thêm Ốp lưng silicon trong suốt iPhone 15 dự phòng trong kho, tuần sau giao cũng được",Low,Cancelled,2026-09-16 19:05:03,2026-09-17 04:00:03
+159,Chị Cường,"sữa rửa mặt la roche-posay 400ml, giao ở địa chỉ công ty từ thứ 2 đến thứ 6",Medium,Pending,2026-09-16 19:14:59,2026-09-16 19:14:59
+160,Văn phòng Luật Á Đông,"Đơn mua thử Túi đựng rác tự hủy cuộn 3 cái, vận chuyển chậm tiết kiệm cước (SL: 4)",Low,Completed,2026-09-16 19:25:41,2026-09-18 00:50:41
+161,BÙI HỮU KIÊN,"Đơn tiêu chuẩn: Bộ chén dĩa gốm sứ Minh Long 10 món, giao giờ hc giúp mình",Medium,Cancelled,2026-09-16 19:48:12,2026-09-17 10:21:12
+162,Vu Tri,"Lấy Bàn ủi hơi nước cầm tay Tefal, giao trước 5h chiều trong tuần này là ổn, kèm túi đựng nếu có",Medium,Cancelled,2026-09-17 06:16:28,2026-09-18 22:26:28
+163,Dinh Gia Phong,"Don online thuong: Bo ga goi cotton Han Quoc 1m8x2m, khong can giao gap",Medium,Completed,2026-09-17 07:02:04,2026-09-19 02:56:04
+164,Anh Trí - Tân Bình,"kem chong nang anessa spf50+ 60ml, dong goi tieu chuan, goi dien truoc khi toi 15p (da ck truoc)",Medium,Completed,2026-09-17 09:29:35,2026-09-17 19:35:35
+165,Lê Bảo Thơ,"Hàng đặt trước (pre-order): Cáp sạc nhanh Type-C dài 1m bọc dù, chờ đủ hàng rồi gửi (khách hay bận họp, nt zalo nếu ko gọi đc)",Low,Completed,2026-09-17 11:26:44,2026-09-20 00:38:44
+166,A. Hùng - Tân Bình,"Gửi Nước tẩy trang Bioderma 500ml nắp hồng, chiều mai hoặc ngày kia giao đều ok",Medium,Completed,2026-09-17 13:35:28,2026-09-20 00:01:28
+167,Trần Kim Kiên,"gui sua rua mat la roche-posay 400ml, chieu mai hoac ngay kia giao deu ok",Medium,Completed,2026-09-17 20:38:11,2026-09-20 21:00:11
+168,Pham Trung Chi,"Giao hoa toc 2h iPad Pro M4 11 inch WiFi, khach dang can gap trong sang nay",High,Completed,2026-09-17 22:02:55,2026-09-18 08:20:55
+169,Bùi Anh Hoài,Sữa rửa mặt La Roche-Posay 400ml - khách dặn cuối tuần ở nhà mới nhận được,Medium,Completed,2026-09-18 10:20:52,2026-09-21 23:42:52
+170,Studio Anh Cuoi Lumi,"don xa kho gia re: Xap 5 tap giay note vang dan tuong, khong gap",Low,Completed,2026-09-18 10:26:12,2026-09-19 10:05:12
+171,Trung tâm Anh ngữ Horizon,"Hàng gom order nước ngoài: Hộp 20 cây bút bi Thiên Long mực xanh 0.5mm, dự kiến 2-3 tuần nữa giao (SL: 2)",Low,Completed,2026-09-18 11:13:15,2026-09-19 20:45:15
+172,Dương Văn Thu,Đơn đặc biệt cho hội thảo chiều nay: Đồng hồ Tissot Le Locle Automatic  phải giao trước 14h,High,Completed,2026-09-18 11:54:12,2026-09-18 15:38:12
+173,Trương Hoàng Hà,"Phu kien nho: Sticker trang tri so tay (set 5 tam), giao chung hoac khi tien chuyen",Low,Completed,2026-09-18 11:55:55,2026-09-19 21:05:55
+174,Đỗ Trí,Đặt thêm Hộp 20 cây bút bi Thiên Long mực xanh 0.5mm dự phòng trong kho  tuần sau giao cũng đc,Low,Completed,2026-09-18 13:47:08,2026-09-21 01:29:08
+175,Đào Bảo My,"hàng gom order nước ngoài: giá đỡ điện thoại nhựa gập mini để bàn, dự kiến 2-3 tuần nữa giao",Low,Completed,2026-09-18 14:19:57,2026-09-21 22:47:57
+176,TRỊNH XUÂN THÚY,"Lấy Ghế công thái học văn phòng màu xám, giao trước 5h chiều trong tuần này là ổn, shipper tới cổng gọi nhé",Medium,Completed,2026-09-18 14:50:02,2026-09-22 02:27:02
+177,Dương Văn Nguyên,"Tài liệu hợp đồng gấp kèm Màn hình Dell UltraSharp 27 inch 4K, chuyển phát nhanh trong 4h",High,Completed,2026-09-18 19:46:58,2026-09-18 22:13:58
+178,Võ Minh Thành,"Vật tư tiêu hao cho văn phòng: Dây buộc tóc thun co giãn túi 200 cái, giao lúc nào cũng được",Low,Completed,2026-09-18 20:19:33,2026-09-20 12:12:33
+179,Cô Khánh - Tân Bình,"gui binh dun sieu toc lock&lock 1.7l + kep toc cang cua nham han quoc, chieu mai hoac ngay kia giao deu ok. note: kem tui dung neu co",Medium,Completed,2026-09-18 20:16:32,2026-09-19 02:15:32
+180,Bùi Cường,"Đơn xả kho giá rẻ: Tất cổ ngắn nam cotton (set 5 đôi), không gấpp, giao đúng mẫu như hình",Low,Completed,2026-09-19 06:34:57,2026-09-20 15:08:57
+181,Lý Ngọc Tuyết,"phu kien gia re lot chuot vai size 20x25cm den tron, ship cham mien sao khong that lac la dc",Low,Cancelled,2026-09-19 10:33:05,2026-09-20 16:05:05
+182,Chú Khoa,Đơn đặt MacBook Pro 14 inch M3 Pro chờ hàng về kho cuối tháng,Medium,Completed,2026-09-19 11:28:56,2026-09-22 19:17:56
+183,Đinh Thanh Hải,"Khach hoi mua Loa Bluetooth JBL Flip 6, thanh toan COD khi nhan hang",Medium,Cancelled,2026-09-19 14:19:19,2026-09-19 23:57:19
+184,C. Quynh - Binh Thanh,"Giao hỏa tốc 2h Laptop Dell XPS 13, khách đang cần gấp trong sáng nay (SL: 5)",High,Completed,2026-09-19 17:35:27,2026-09-19 21:51:27
+185,Shop Mẹ & Bé Thảo Nguyên,"Máy đo huyết áp bắp tay Omron HEM-7156, cần giữ đúng điều kiện bảo quản và giao nhanh trong 4h - thu hộ COD",High,Completed,2026-09-19 17:56:29,2026-09-20 05:32:29
+186,Tạ Hoài,Máy sấy tóc ion âm Panasonic 1800W - khách dặn cuối tuần ở nhà mới nhận được,Medium,Completed,2026-09-20 12:13:58,2026-09-24 04:27:58
+187,Trịnh Phương Hùng,"Đặt thêm Lót chuột vải size 20x25cm đen trơn dự phòng trong kho, tuần sau giao cũng được. Note: check kỹ màu sắc giúp",Low,Completed,2026-09-20 12:15:30,2026-09-22 01:11:30
+188,Nguyen Xuan Tu,"Hàng đặt trc (pre-order): Túi đựng rác tự hủy cuộn 3 cái, Kẹp tóc càng cua nhám Hàn Quốc, chờ đủ hàng rồi gửi",Low,Completed,2026-09-20 12:40:07,2026-09-23 20:00:07
+189,Mai Anh Thúy,"Don xa kho gia re: Xap 5 tap giay note vang dan tuong, ko gap",Low,Completed,2026-09-20 13:29:03,2026-09-23 06:45:03
+190,Cty TNHH Minh Phát,"Tủ lạnh Inverter Samsung 380L nguyên seal chính hãng  giá trị cao, nhớ kiểm tra kỹ trước khi xuất kho",High,Completed,2026-09-20 19:28:15,2026-09-21 05:34:15
+191,Hoàng Hữu Thảo,"đơn mua thử túi đựng rác tự hủy cuộn 3 cái, sticker trang trí sổ tay (set 5 tấm), vận chuyển chậm tiết kiệm cước (sl: 2) nhé",Low,Completed,2026-09-20 21:16:06,2026-09-21 21:51:06
+192,Chú Minh,"phụ kiện nhỏ: ốp lưng silicon trong suốt iphone 15, giao chung hoặc khi tiện chuyến",Low,Completed,2026-09-20 22:58:58,2026-09-24 14:49:58
+193,Trần Quốc Mai,"Ship gấp Thuốc kê đơn + vật tư thay băng y tế tới phòng khám trước 15h, gọi trước khi tới",High,Pending,2026-09-21 01:54:49,2026-09-21 01:54:49
+194,Huỳnh Thị Thơ,"Đặt mua Máy sấy tóc ion âm Panasonic 1800W, giao hàng tiêu chuẩn 2-3 ngày là được (SL: 5), check kỹ màu sắc giúp",Medium,Cancelled,2026-09-21 08:54:15,2026-09-21 13:53:15
+195,Đỗ Minh Quang,"Hàng đặt trước (pre-order): Miếng dán cường lực màn hình 9D, chờ đủ hàng rồi gửi",Low,Completed,2026-09-21 09:28:29,2026-09-22 16:20:29
+196,Trịnh Bảo Thịnh,"Lò vi sóng Sharp có nướng 20L hàng thanh lý trưng bày, khách ko vội (SL: 2)",Low,Completed,2026-09-21 10:58:25,2026-09-25 03:43:25
+197,Hồ Anh Đức,"Quà tặng kèm / mẫu thử: Cáp sạc nhanh Type-C dài 1m bọc dù, đi đơn bưu điện thường - khách hay bận họp, nt zalo nếu ko gọi đc",Low,Processing,2026-09-21 16:55:44,2026-09-21 22:29:44
+198,Ngô Thanh Anh,"Gửi Loa Bluetooth JBL Flip 6, chiều mai hoặc ngày kia giao đều ok - gọi trc khi giao",Medium,Completed,2026-09-21 17:54:25,2026-09-25 08:57:25
+199,Trương Quốc Kiên,"Tai nghe Bluetooth Sony WH-CH720N den (bao hanh 12 thang), giao tan noi, cho kiem hang truoc khi thanh toan",Medium,Processing,2026-09-21 19:26:52,2026-09-22 02:32:52
+200,Lý Minh Thơ,"Phụ kiện giá rẻ Tờ rơi catalogue sản phẩm mới 2026, ship chậm miễn sao không thất lạc là đc",Low,Completed,2026-09-21 20:19:01,2026-09-23 21:06:01
+201,do lan an,"can gap cpu intel core i9 14900k, he thong cong ty dang gian doan cho thiet bi thay the",High,Pending,2026-09-21 21:11:28,2026-09-21 21:11:28
+202,Đặng Bảo,"Máy sấy tóc ion âm Panasonic 1800W, khách cần gấp mang đi du lịch sáng mai, khách hay bận họp, nt zalo nếu ko gọi đc",High,Completed,2026-09-22 05:22:02,2026-09-22 07:06:02
+203,Phan Quốc Khánh,"Don online thuong: Sua rua mat La Roche-Posay 400ml + Khan lau kinh mat chuyen dung hop 10 mieng, khong can giao gap. Note: ko giao chu nhat",Medium,Completed,2026-09-22 06:19:38,2026-09-25 10:14:38
+204,pham trung yen,"Váy hoa nhí dáng xòe size S + Kem chống nắng Anessa SPF50+ 60ml - khách dặn cuối tuần ở nhà mới nhận được (SL: 3), khách hay bận họp, nt zalo nếu ko gọi đc",Medium,Completed,2026-09-22 06:51:37,2026-09-25 10:22:37
+205,Dao Khanh Phuong,"hàng gom order nước ngoài: miếng dán cường lực màn hình 9d, dự kiến 2-3 tuần nữa giao",Low,Completed,2026-09-22 08:13:22,2026-09-25 22:22:22
+206,SPA DƯỠNG SINH HOA SEN,"Bộ ga gối cotton Hàn Quốc 1m8x2m (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán",Medium,Processing,2026-09-22 08:41:54,2026-09-22 12:48:54
+207,Lê Ngọc Nam,"Khách đặt Loa Bluetooth JBL Flip 6, chọn giao hàng tiết kiệm, giao đúng mẫu như hình",Medium,Completed,2026-09-22 10:37:06,2026-09-25 05:39:06
+208,Lý Xuân Nga,Lấy Loa Bluetooth JBL Flip 6  giao trc 5h chiều trong tuần này là ổn,Medium,Completed,2026-09-22 11:12:43,2026-09-25 10:51:43
+209,duong bao binh,"Mua sỉ Hộp 20 cây bút bi Thiên Long mực xanh 0.5mm sl nhiều, gửi chành xe cuối tuần hoặc đầu tuần sau",Low,Completed,2026-09-22 12:27:43,2026-09-26 06:27:43
+212,Vu Hoai Quang,"Mua Áo polo nam vải cá sấu màu xanh navy size M dùng gia đình, đóng gói cẩn thận chút nhé shop",Medium,Completed,2026-09-22 15:14:05,2026-09-26 10:36:05
+213,Đinh Thị Yến,"Gui Ban phim co Akko 3087 switch Brown, chieu mai hoac ngay kia giao deu ok (SL: 3) !",Medium,Cancelled,2026-09-22 15:18:33,2026-09-24 14:30:33
+214,PHAN KHÁNH HẢI,"cần gấp macbook air m3 13 inch 16gb/512gb, hệ thống công ty đang gián đoạn chờ thiết bị thay thế",High,Completed,2026-09-22 16:19:19,2026-09-22 18:35:19
+216,ly bao khoa,"Đơn xả kho giá rẻ: Giá đỡ điện thoại nhựa gập mini để bàn, không gấp",Low,Completed,2026-09-22 17:26:10,2026-09-25 21:46:10
+217,Đỗ Hoài,"Don online thuong: Giay chay bo Nike Pegasus 40 size 42, ko can giao gap",Medium,Completed,2026-09-22 18:03:56,2026-09-24 22:34:56
+218,Trương Anh Châu,"Lấy Bàn phím cơ Akko 3087 switch Brown, giao trc 5h chiều trong tuần này là ổn (SL: 4)",Medium,Completed,2026-09-22 22:07:55,2026-09-25 06:49:55
+219,Hoàng Quốc Vân,Áo sơ mi nam công sở Aristino size L trắng + Ốp lưng silicon trong suốt iPhone 15 - khách dặn cuối tuần ở nhà mới nhận được,Medium,Completed,2026-09-22 20:59:41,2026-09-22 22:10:41
+220,Nguyen Ngoc Viet,Phụ kiện nhỏ: Túi zip trong suốt 100 chiếc size nhỏ  giao chung hoặc khi tiện chuyến,Low,Completed,2026-09-23 11:24:44,2026-09-26 04:30:44
+221,Trung tâm Anh ngữ Horizon,"Đơn ưu tiên: Máy ảnh Sony A7 IV kèm lens 24-70mm, khách quen đã chuyển khoản full, ship ngay",High,Completed,2026-09-23 20:24:18,2026-09-24 09:33:18
+222,Trinh Quoc Vu,"Ship nhanh trong 2h Cá hồi Na Uy tươi phi lê 2kg ướp lạnh, khách cần gấp tiếp khách",High,Completed,2026-09-23 15:06:11,2026-09-24 05:51:11
+223,Vu Hoai Thanh,nước yến sào cao cấp hộp 12 hũ làm quà biếu giao hỏa tốc trong ngày kẻo hư hỏng,High,Completed,2026-09-23 22:39:05,2026-09-24 09:36:05
+224,Đỗ Phương Thành,"Phu kien gia re Moc khoa mica in hinh ngau nhien, ship cham mien sao khong that lac la dc",Low,Completed,2026-09-24 01:34:56,2026-09-26 08:11:56
+225,Phan Bảo Kiên,"don xa kho gia re: Kep toc cang cua nham Han Quoc, khong gap",Low,Completed,2026-09-24 08:28:24,2026-09-25 02:44:24
+226,Trần Khánh Nam,"Đơn shopee/web: Balo laptop chống nước Tigernu 15.6 inch, phí ship bình thường",Medium,Completed,2026-09-24 10:06:43,2026-09-27 23:40:43
+227,Do Thu Thuy," Bộ kit test nhanh y tế (hộp 25 test), cần giữ đúng điều kiện bảo quản và giao nhanh trong 4h",High,Completed,2026-09-24 10:23:48,2026-09-24 16:38:48
+228,Chú My,"Mua Máy sấy tóc ion âm Panasonic 1800W dùng gia đình, đóng gói cẩn thận chút nhé shop",Medium,Completed,2026-09-24 14:43:29,2026-09-27 20:36:29
+229,Trương Hoàng Nga,"Lấy Máy lọc không khí Xiaomi Air Purifier 4 + Balo laptop chống nước Tigernu 15.6 inch, giao trước 5h chiều trong tuần này là ổn",Medium,Completed,2026-09-24 16:26:28,2026-09-26 03:49:28
+230,Trịnh Khánh Chi,"Phụ kiện giá rẻ Xấp 5 tập giấy note vàng dán tường, ship chậm miễn sao không thất lạc là đc",Low,Completed,2026-09-24 17:12:01,2026-09-26 00:32:01
+232,Trịnh Thu Giang,"Bàn phím cơ Akko 3087 switch Brown + Bình đun siêu tốc Lock&Lock 1.7L, giao ở địa chỉ công ty từ thứ 2 đến thứ 6",Medium,Completed,2026-09-24 21:20:46,2026-09-24 23:30:46
+233,Trần Vân,"Hàng đặt trước (pre-order): Băng keo trong cuộn lớn (combo 6 cuộn), Khăn lau kính mắt chuyên dụng hộp 10 miếng, chờ đủ hàng rồi gửi",Low,Completed,2026-09-25 09:46:09,2026-09-26 08:45:09
+234,Võ Bảo Việt,Lẵng hoa tươi khai trương kèm thiệp giao hỏa tốc trong ngày kẻo hư hỏng. Note: thu hộ COD,High,Completed,2026-09-25 11:12:07,2026-09-25 19:25:07
+235,huynh lan trang,Cá hồi Na Uy tươi phi lê 2kg ướp lạnh giao hỏa tốc trong ngày kẻo hư hỏng (SL: 4) (shipper tới cổng gọi nhé),Medium,Completed,2026-09-25 11:26:55,2026-09-26 01:39:55
+236,Trung tam Anh ngu Horizon," khach vip than phien don truoc giao thieu day buoc toc thun co gian tui 200 cai, bu gap trong chieu nay (sl 4) (thu ho cod)",High,Completed,2026-09-25 11:39:14,2026-09-25 13:19:14
+237,Phạm Hoàng Quang,"đơn ưu tiên: macbook air m3 13 inch 16gb/512gb, khách quen đã chuyển khoản full, ship ngay",High,Completed,2026-09-25 11:48:31,2026-09-26 04:41:31
+238,Đào Phương Quỳnh,"Đơn mua thử Sticker trang trí sổ tay (set 5 tấm), vận chuyển chậm tiết kiệm cước",Medium,Completed,2026-09-25 16:07:48,2026-09-26 17:15:48
+239,Ngô Gia Cường,"Đơn ưu tiên: iPad Pro M4 11 inch WiFi, khách quen đã ck full, ship ngay - check kỹ màu sắc giúp",High,Completed,2026-09-25 16:51:50,2026-09-25 18:29:50
+240,Nguyễn Quỳnh,"Đặt thêm Miếng dán cường lực màn hình 9D dự phòng trong kho, tuần sau giao cũng được",Low,Completed,2026-09-25 17:02:05,2026-09-26 06:49:05
+241,Mai Lan,"Laptop Lenovo ThinkPad X1 Carbon nguyên seal chính hãng, giá trị cao, nhớ kiểm tra kỹ trc khi xuất kho",High,Cancelled,2026-09-25 19:42:08,2026-09-26 01:43:08
+242,Anh Bình,"giao gấp trước 11h30 trưa nay: Cá hồi Na Uy tươi phi lê 2kg ướp lạnh, đóng gói cẩn thận tránh nghiêng đổ - kèm túi đựng nếu có",High,Cancelled,2026-09-25 21:11:33,2026-09-26 05:17:33
+243,Đặng Trung Vân,"Qua tang kem / mau thu: To roi catalogue san pham moi 2026, di don buu dien thuong",Low,Completed,2026-09-25 21:46:51,2026-09-27 05:15:51
+244,Trần Xuân Trí,"loa bluetooth jbl flip 6 hang thanh ly trung bay, khach khong voi",Low,Completed,2026-09-25 21:58:49,2026-09-29 13:58:49
+245,A. Giang - Gò Vấp,"Khách hỏi mua Tai nghe Bluetooth Sony WH-CH720N đen, thanh toán COD khi nhận hàng - đừng gọi giờ nghỉ trưa 12h-13h",Medium,Completed,2026-09-26 03:00:13,2026-09-30 02:42:13
+246,tran gia tien,"Giao hỏa tốc 2h Máy tạo oxy y tế Yuwell 5L, gia đình đang cần gấp cho người bệnh (SL: 5), kèm túi đựng nếu có",High,Completed,2026-09-26 06:29:23,2026-09-26 09:57:23
+247,Hoàng Thị Sơn,"don shopee/web: giay chay bo nike pegasus 40 size 42, phi ship binh thuong (sl: 2)",Medium,Completed,2026-09-26 07:51:18,2026-09-28 20:36:18
+248,phan thanh long,"đơn shopee/web: ghế công thái học văn phòng màu xám, phí ship bình thường (sl: 5)",Medium,Completed,2026-09-26 19:05:36,2026-09-29 09:28:36
+249,Trần Vân,"Khach dat Giay sneaker Adidas Ultraboost trang size 38, chon giao hang tiet kiem",Medium,Completed,2026-09-26 22:16:58,2026-09-30 16:45:58
+250,Tạ Mai,"nước tẩy trang bioderma 500ml nắp hồng - khách dặn cuối tuần ở nhà mới nhận được - khách hay bận họp, nt zalo nếu ko gọi đc",Medium,Completed,2026-09-27 03:05:57,2026-09-30 23:05:57
+251,Ngô Thị Vũ,"lấy Máy sấy tóc ion âm Panasonic 1800W, giao trước 5h chiều trong tuần này là ổn",Medium,Cancelled,2026-09-27 03:32:03,2026-09-27 11:30:03
+252,Duong Minh Son,"Đơn tiêu chuẩn: Tai nghe Bluetooth Sony WH-CH720N đen + Cáp sạc nhanh Type-C dài 1m bọc dù, giao giờ hành chính giúp mình",Medium,Completed,2026-09-27 12:54:54,2026-10-01 11:03:54
+253,Bùi Ngọc Nhung,"Bàn phím cơ Akko 3087 switch Brown, khách cần gấp mang đi du lịch sáng mai (SL: 3)",High,Completed,2026-09-27 13:33:57,2026-09-27 16:24:57
+254,Ngô Đức Quỳnh,"Lấy Loa Bluetooth JBL Flip 6, giao trước 5h chiều trong tuần này là ổn",Medium,Completed,2026-09-27 15:35:35,2026-09-29 04:01:35
+255,Đặng Bảo Thịnh,"Máy tạo oxy y tế Yuwell 5L, cần giữ đúng điều kiện bảo quản và giao nhanh trong 4h",High,Cancelled,2026-09-27 15:40:29,2026-09-27 20:39:29
+256,A. Tùng - Q3,"Đặt thêm Hộp 20 cây bút bi Thiên Long mực xanh 0.5mm dự phòng trong kho, tuần sau giao cũng được",Low,Completed,2026-09-27 19:26:38,2026-09-28 18:05:38
+257,Trinh Duc Thanh,Mua Bo chen dia gom su Minh Long 10 mon dung gia dinh  dong goi can than chut nhe shop,Medium,Cancelled,2026-09-27 19:54:47,2026-09-29 17:13:47
+258,Duong Duc Khoa,"Phụ kiện nhỏ: Túi zip trong suốt 100 chiếc size nhỏ, giao chung hoặc khi tiện chuyến",Low,Cancelled,2026-09-27 20:41:47,2026-09-28 15:29:47
+259,Ngô Quốc Chi,"May loc khong khi Xiaomi Air Purifier 4, giao o dia chi cong ty tu thu 2 den thu 6",Medium,Completed,2026-09-28 01:16:04,2026-10-01 01:21:04
+260,Nguyễn Trung Nhi,"Giao hoa toc 2h MacBook Air M3 13 inch 16GB/512GB, khach dang can gap trong sang nay",High,Completed,2026-09-28 11:37:54,2026-09-28 15:43:54
+261,Chị Toàn - Q1,"lấy ghế công thái học văn phòng màu xám, giao trước 5h chiều trong tuần này là ổn",Medium,Completed,2026-09-28 12:16:39,2026-09-29 18:53:39
+262,Trần Đức,"đơn vip: laptop dell xps 13, đóng gói chống sốc kỹ giúp, giao tận tay khách",High,Completed,2026-09-28 13:32:46,2026-09-29 01:47:46
+263,ly nhan,Lẵng hoa tươi khai trương kèm thiệp giao hỏa tốc trong ngày kẻo hư hỏng,High,Completed,2026-09-28 12:34:45,2026-09-28 22:02:45
+264,Trương Xuân Hạnh,"Don shopee/web: May loc khong khi Xiaomi Air Purifier 4, phi ship binh thuong",Medium,Processing,2026-09-28 13:56:59,2026-09-28 16:24:59
+265,Dao Trung Nga,"Đơn ưu tiên: iPhone 16 Pro Max 256GB Titan Tự Nhiên, khách quen đã chuyển khoản full, ship ngay (SL: 3). Note: giao đúng mẫu như hình",High,Pending,2026-09-28 15:12:22,2026-09-28 15:52:22
+266,Đặng Gia Phong,"gửi bộ ga gối cotton hàn quốc 1m8x2m, chiều mai hoặc ngày kia giao đều ok (ko giao chủ nhật)",Medium,Cancelled,2026-09-28 15:48:06,2026-09-29 03:39:06
+267,Do Quan,"Máy ảnh Sony A7 IV kèm lens 24-70mm - hàng dễ vỡ giá trị cao, yêu cầu shipper gọi trước khi giao - thu hộ COD",High,Processing,2026-09-28 17:38:55,2026-09-29 03:52:55
+268,Trung tâm Anh ngữ Horizon,"Gửi Quần jeans nam dáng suông Levi's size 31, chiều mai hoặc ngày kia giao đều ok - kèm túi đựng nếu có",Medium,Completed,2026-09-28 18:35:46,2026-10-02 02:28:46
+269,Đào Minh Toàn,"Lấy Áo sơ mi nam công sở Aristino size L trắng, giao trước 5h chiều trong tuần này là ổn",Medium,Completed,2026-09-28 20:42:35,2026-10-02 01:03:35
+270,Dương Hoài Nhung,"Don mua thu Sticker trang tri so tay (set 5 tam), van chuyen cham tiet kiem cuoc (SL: 5) ạ",Low,Cancelled,2026-09-29 01:12:53,2026-09-29 06:41:53
+271,Trần Bảo Thu,ghế công thái học văn phòng màu xám - khách dặn cuối tuần ở nhà mới nhận được,Medium,Completed,2026-09-29 02:38:59,2026-10-02 12:01:59
+272,Đào Phương Quỳnh,"Cần gấp Tủ lạnh Inverter Samsung 380L, hệ thống công ty đang gián đoạn chờ thiết bị thay thế (SL: 3) (giao đúng mẫu như hình)",High,Completed,2026-09-29 09:08:51,2026-09-29 19:17:51
+273,Đinh Châu,"Lò vi sóng Sharp có nướng 20L + Tai nghe Bluetooth Sony WH-CH720N đen, đóng gói tiêu chuẩn, gọi điện trước khi tới 15p (SL: 5)",Medium,Processing,2026-09-29 10:38:41,2026-09-29 17:36:41
+274,Vũ Minh Toàn,"Đơn online thường: Loa Bluetooth JBL Flip 6, không cần giao gấp, đừng gọi giờ nghỉ trưa 12h-13h",Medium,Completed,2026-09-29 15:44:56,2026-10-01 18:51:56
+275,Phạm Thảo Ngọc,"Khach dat Chuot khong day Logitech MX Master 3S + Gia do dien thoai nhua gap mini de ban, chon giao hang tiet kiem",Medium,Completed,2026-09-29 16:10:51,2026-10-02 03:09:51
+276,Trần Văn Trung,"Đơn shopee/web: Quần jeans nam dáng suông Levi's size 31, phí ship bình thường",Medium,Completed,2026-09-29 20:13:19,2026-10-03 08:27:19
+277,Công ty CP Công nghệ Sao Việt,"Đơn VIP: MacBook Air M3 13 inch 16GB/512GB, đóng gói chống sốc kỹ giúp, giao tận tay khách",High,Completed,2026-09-30 00:17:40,2026-09-30 13:28:40
+278,Ngô Thanh Phúc,"Đơn y tế khẩn cấp: Máy xông khí dung Omron cho bé, ưu tiên chuyển ngay trong buổi sáng",High,Completed,2026-09-30 02:51:22,2026-09-30 14:35:22
+279,Hoàng Thị My,"Don shopee/web: May loc khong khi Xiaomi Air Purifier 4 + Ban phim co Akko 3087 switch Brown, phi ship binh thuong",Medium,Completed,2026-09-30 04:10:50,2026-09-30 17:33:50
+280,Dinh Thanh Tri,"Đơn online thường: Loa Bluetooth JBL Flip 6, không cần giao gấp. Note: giao đúng mẫu như hình",Medium,Completed,2026-09-30 09:57:23,2026-10-02 17:25:23
+281,Hồ Phúc,"Dat them Moc khoa mica in hinh ngau nhien du phong trong kho, tuan sau giao cung dc ạ",Low,Completed,2026-09-30 09:49:12,2026-10-04 07:31:12
+282,Phạm Minh Quân,"Ship nhanh trong 2h Thùng hải sản tươi sống (tôm hùm + cua Cà Mau), khách cần gấp tiếp khách",High,Completed,2026-09-30 13:19:26,2026-10-01 00:25:26
+283,Huỳnh Bảo Nhân,"Đơn shopee/web: Bình đun siêu tốc Lock&Lock 1.7L, phí ship bình thường",Medium,Completed,2026-09-30 14:55:37,2026-10-02 09:37:37
+284,Tạ Thu Nhân,"Ghe cong thai hoc van phong mau xam (bao hanh 12 thang), giao tan noi, cho kiem hang trc khi thanh toan",Medium,Completed,2026-09-30 15:21:15,2026-10-03 21:58:15
+285,Phạm Hoài Ngọc,"Quà tặng kèm / mẫu thử: Tờ rơi catalogue sản phẩm mới 2026, Kẹp tóc càng cua nhám Hàn Quốc, đi đơn bưu điện thường",Low,Completed,2026-09-30 15:42:02,2026-10-03 22:28:02
+286,Nguyen Ngoc Viet,"iPhone 15 Pro 128GB nguyên seal chính hãng, giá trị cao, nhớ kiểm tra kỹ trc khi xuất kho",High,Cancelled,2026-09-30 15:50:15,2026-10-01 01:04:15
+287,Đỗ Minh Quang,Quan jeans nam dang suong Levi's size 31 - khach dan cuoi tuan o nha moi nhan duoc,Medium,Cancelled,2026-09-30 16:04:57,2026-09-30 21:58:57
+288,vu minh bao,"đơn y tế khẩn cấp: máy tạo oxy y tế yuwell 5l, ưu tiên chuyển ngay trong buổi sáng",High,Cancelled,2026-09-30 16:53:34,2026-10-01 18:17:34
+289,Lê Đức Ngọc,"Lay Loa Bluetooth JBL Flip 6, giao truoc 5h chieu trong tuan nay la on",Medium,Completed,2026-09-30 18:19:40,2026-10-02 13:17:40
+290,Tạ Thanh Hoài,"Quà tặng kèm / mẫu thử: Tất cổ ngắn nam cotton (set 5 đôi), đi đơn bưu điện thường",Low,Completed,2026-09-30 22:14:56,2026-10-04 00:59:56
+291,Huỳnh Minh Thịnh,"giao hỏa tốc 2h insulin bút tiêm bảo quản lạnh, gia đình đang cần gấp cho người bệnh",High,Completed,2026-09-30 22:48:43,2026-10-01 09:27:43
+292,Quán Cà Phê Góc Phố,Khách hỏi mua Bàn phím cơ Akko 3087 switch Brown  thanh toán COD khi nhận hàng,Medium,Completed,2026-10-01 05:24:08,2026-10-03 18:31:08
+293,Tạ Quỳnh,"Khách báo hết Máy đo huyết áp bắp tay Omron HEM-7156, nhờ giao sớm nhất có thể trong ngày",High,Completed,2026-10-01 10:22:28,2026-10-01 19:05:28
+294,Dinh Mai,"Đơn xả kho giá rẻ: Ốp lưng silicon trong suốt iPhone 15, không gấpp",Low,Completed,2026-10-01 12:51:30,2026-10-05 06:31:30
+295,Quán Cà Phê Góc Phố,"Đơn online thường: Váy hoa nhí dáng xòe size S, không cần giao gấp (SL: 4)",Medium,Completed,2026-10-01 17:14:22,2026-10-02 15:16:22
+296,Dương Thu Sơn,"bàn phím cơ Akko 3087 switch Brown, giao ở địa chỉ công ty từ thứ 2 đến thứ 6",Medium,Completed,2026-10-01 20:38:39,2026-10-04 05:49:39
+297,Hồ Thanh Thơ,"Áo polo nam vải cá sấu màu xanh navy size M (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán nha shop",Medium,Completed,2026-10-02 00:18:14,2026-10-04 07:55:14
+298,Tạ Thanh Long,"Khach hoi mua Bo chen dia gom su Minh Long 10 mon, thanh toan COD khi nhan hang",Medium,Completed,2026-10-02 08:44:55,2026-10-02 23:56:55
+299,Anh Hương - Hải Châu,"Lay Tai nghe Bluetooth Sony WH-CH720N den, giao truoc 5h chieu trong tuan nay la on",Medium,Completed,2026-10-02 14:02:34,2026-10-04 12:58:34
+300,Trương Quốc Trang,Vật tư tiêu hao cho vp: Tất cổ ngắn nam cotton (set 5 đôi)  giao lúc nào cũng đc,Low,Completed,2026-10-02 14:59:10,2026-10-05 06:28:10
+301,Đỗ Văn Khoa,"giay chay bo nike pegasus 40 size 42 (bao hanh 12 thang), giao tan noi, cho kiem hang truoc khi thanh toan, kem tui dung neu co",Medium,Completed,2026-10-02 21:53:47,2026-10-06 14:49:47
+302,Hồ Bảo Thơ,"Khach dat Noi com dien tu Toshiba 1.8L, chon giao hang tiet kiem",Medium,Pending,2026-10-02 22:43:21,2026-10-02 22:48:21
+304,Võ Thanh Hằng,"ban ui hoi nuoc cam tay tefal, giao o dia chi cong ty tu thu 2 den thu 6 (khach hay ban hop, nt zalo neu ko goi dc)",Medium,Completed,2026-10-03 09:59:06,2026-10-04 20:32:06
+305,Phạm Lan Tú,"vật tư tiêu hao cho văn phòng: ốp lưng silicon trong suốt iphone 15, giao lúc nào cũng được, thu hộ cod",Low,Processing,2026-10-03 11:02:21,2026-10-03 15:32:21
+306,Lê Anh Nam,"Don online thuong: Ban phim co Akko 3087 switch Brown, khong can giao gap",Medium,Completed,2026-10-03 12:08:30,2026-10-04 02:40:30
+307,Phòng khám Đa khoa An Tâm,"Đơn shopee/web: Tai nghe Bluetooth Sony WH-CH720N đen, phí ship bình thường (SL: 3) nhé",Medium,Completed,2026-10-03 13:22:31,2026-10-05 08:12:31
+308,Cô Tiến - Cầu Giấy,"đơn vip: bánh kem sinh nhật 2 tầng mẫu hoa tươi gửi tặng đối tác, giao tận tay và chụp ảnh xác nhận",High,Completed,2026-10-03 14:38:06,2026-10-04 05:30:06
+309,Đinh Trung Hạnh,"Don mua thu Hop 20 cay but bi Thien Long muc xanh 0.5mm, van chuyen cham tiet kiem cuoc",Low,Completed,2026-10-03 15:59:17,2026-10-05 18:27:17
+310,huynh kim van,Yêu cầu xuất hóa đơn đỏ + giao hỏa tốc CPU Intel Core i9 14900K tới văn phòng trước 16h30,High,Completed,2026-10-03 17:38:17,2026-10-04 01:48:17
+311,Ngô Đức Quỳnh,"Đặt mua Bàn ủi hơi nước cầm tay Tefal, giao hàng tiêu chuẩn 2-3 ngày là được",Medium,Completed,2026-10-03 18:56:45,2026-10-06 02:52:45
+312,Vo Quoc Nga,"Đơn shopee/web: Nước tẩy trang Bioderma 500ml nắp hồng, phí ship bình thường, giao đúng mẫu như hình",Medium,Cancelled,2026-10-03 23:15:18,2026-10-05 15:10:18
+313,Đỗ Thu Giang,"Khách báo hết Thuốc kê đơn + vật tư thay băng y tế, nhờ giao sớm nhất có thể trong ngày",High,Completed,2026-10-04 12:13:24,2026-10-04 15:51:24
+314,Trung tâm Anh ngữ Horizon,"Don VIP: Nuoc yen sao cao cap hop 12 hu lam qua bieu gui tang doi tac, giao tan tay va chup anh xac nhan",High,Completed,2026-10-04 15:25:29,2026-10-04 18:23:29
+315,Tạ Thành Tiến,"Đơn online thường: Giày sneaker Adidas Ultraboost trắng size 38, không cần giao gấp",Medium,Completed,2026-10-04 17:02:13,2026-10-07 16:19:13
+316,CLB Thể hình Titan,"Giao hoa toc 2h May tao oxy y te Yuwell 5L, gia dinh dang can gap cho nguoi benh (SL: 2)",High,Completed,2026-10-04 18:10:50,2026-10-05 08:58:50
+317,Huỳnh Minh Thúy,"Don xa kho gia re: Sticker trang tri so tay (set 5 tam), khong gap nha shop",Low,Cancelled,2026-10-04 19:52:19,2026-10-06 09:23:19
+319,Trương Vân,"Khach bao het May tao oxy y te Yuwell 5L, nho giao som nhat co the trong ngay",High,Cancelled,2026-10-04 20:02:28,2026-10-05 12:40:28
+320,Phan Phuong Duc,"Đơn VIP: Thùng hải sản tươi sống (tôm hùm + cua Cà Mau) gửi tặng đối tác, giao tận tay và chụp ảnh xác nhận",High,Pending,2026-10-04 22:37:35,2026-10-04 23:10:35
+321,chu hoai - dong da,"Đơn online thường: Bình đun siêu tốc Lock&Lock 1.7L, không cần giao gấp (SL: 4)",Medium,Completed,2026-10-05 04:40:11,2026-10-05 08:53:11
+322,Võ Đức Yến,"Đơn y tế khẩn cấp: Thuốc kê đơn + vật tư thay băng y tế, ưu tiên chuyển ngay trong buổi sáng. Note: khách hay bận họp, nt zalo nếu ko gọi đc",High,Completed,2026-10-05 06:57:52,2026-10-05 13:58:52
+323,Hoàng Văn Hải,"Vật tư tiêu hao cho văn phòng: Xấp 5 tập giấy note vàng dán tường, Cáp sạc nhanh Type-C dài 1m bọc dù, giao lúc nào cũng được, check kỹ màu sắc giúp",Low,Completed,2026-10-05 09:46:37,2026-10-06 17:03:37
+324,ho hoai trung,"Giao hỏa tốc 2h Laptop Lenovo ThinkPad X1 Carbon, khách đang cần gấp trong sáng nay",High,Completed,2026-10-05 09:54:13,2026-10-05 22:01:13
+325,Nguyễn Khánh Linh,"Máy chiếu 4K ViewSonic cho phòng họp nguyên seal chính hãng, giá trị cao, nhớ kiểm tra kỹ trước khi xuất kho",High,Completed,2026-10-05 13:22:39,2026-10-06 02:52:39
+326,Võ Ngọc An,"đơn y tế khẩn cấp: Máy đo huyết áp bắp tay Omron HEM-7156, ưu tiên chuyển ngay trong buổi sáng (SL: 2)",High,Completed,2026-10-05 20:00:39,2026-10-06 12:38:39
+329,Nhà thuốc Gia Hân,"Don tieu chuan: Lo vi song Sharp co nuong 20L, giao gio hanh chinh giup minh (shipper toi cong goi nhe)",Medium,Completed,2026-10-05 22:41:38,2026-10-06 00:16:38
+330,Phan Kim Tùng,Đơn shopee/web: Ghế công thái học văn phòng màu xám  phí ship bình thường,High,Completed,2026-10-06 00:13:34,2026-10-06 03:22:34
+331,Chú Kiên,"đơn xả kho giá rẻ: băng keo trong cuộn lớn (combo 6 cuộn), không gấp",Low,Completed,2026-10-06 03:07:49,2026-10-09 15:40:49
+332,Vũ Nam,khách báo hết máy đo huyết áp bắp tay omron hem-7156  nhờ giao sớm nhất có thể trong ngày (ko giao chủ nhật),High,Completed,2026-10-06 08:31:52,2026-10-06 15:48:52
+333,Lý Minh Uyên,"Noi com dien tu Toshiba 1.8L + Balo laptop chong nuoc Tigernu 15.6 inch, dong goi tieu chuan, goi dien truoc khi toi 15p (SL: 5)",Medium,Completed,2026-10-06 14:01:49,2026-10-06 23:49:49
+334,Cty TNHH Minh Phát,"Đặt mua Nồi chiên không dầu Philips 6.2L, giao hàng tiêu chuẩn 2-3 ngày là được (SL: 3)",Medium,Pending,2026-10-06 15:11:26,2026-10-06 15:25:26
+335,Vũ Hữu Thịnh,"Ao polo nam vai ca sau mau xanh navy size M (bao hanh 12 thang), giao tan noi, cho kiem hang truoc khi thanh toan",Medium,Pending,2026-10-06 16:00:42,2026-10-06 16:00:42
+336,Phạm Thị Vy,"Bo ga goi cotton Han Quoc 1m8x2m - khach dan cuoi tuan o nha moi nhan duoc, check ky mau sac giup",Medium,Completed,2026-10-06 18:52:22,2026-10-10 13:19:22
+337,Ho Thanh Linh,"dat mua quan jeans nam dang suong levi's size 31, giao hang tieu chuan 2-3 ngay la duoc (sl: 5)",Medium,Completed,2026-10-07 05:04:44,2026-10-09 13:22:44
+338,Huỳnh Hải,"Dat them Mieng dan cuong luc man hinh 9D du phong trong kho, tuan sau giao cung duoc",Low,Completed,2026-10-06 22:13:22,2026-10-10 07:53:22
+339,Võ Bảo Hùng,"Gửi Balo laptop chống nước Tigernu 15.6 inch, chiều mai hoặc ngày kia giao đều ok",Medium,Completed,2026-10-07 08:03:32,2026-10-09 11:56:32
+340,Đào Thu Thu,"laptop lenovo thinkpad x1 carbon nguyen seal chinh hang, gia tri cao, nho kiem tra ky truoc khi xuat kho (sl: 4)",High,Completed,2026-10-07 08:39:54,2026-10-07 18:57:54
+341,Ngô Lan Tuyết,Đổi trả bảo hành gấp: Đồng hồ Tissot Le Locle Automatic khách cần nhận lại ngay trong hôm nay,High,Completed,2026-10-07 11:08:28,2026-10-08 04:31:28
+342,Tạ Thị Vũ,"đơn vip: laptop dell xps 13, đóng gói chống sốc kỹ giúp, giao tận tay khách",High,Completed,2026-10-07 11:21:51,2026-10-08 01:17:51
+343,Huynh Duc Uyen,Khach bao het Hop sua cong thuc NAN Optipro so 1 800g  nho giao som nhat co the trong ngay - ko giao chu nhat,High,Completed,2026-10-07 12:16:18,2026-10-07 22:46:18
+344,Đặng Văn Vũ,"Đặt thêm Khăn lau kính mắt chuyên dụng hộp 10 miếng dự phòng trong kho, tuần sau giao cũng được",Low,Completed,2026-10-07 13:06:23,2026-10-09 16:12:23
+345,Trung tâm Anh ngữ Horizon,"Hang gom order nuoc ngoai: Tat co ngan nam cotton (set 5 doi), du kien 2-3 tuan nua giao",Medium,Pending,2026-10-07 14:51:41,2026-10-07 14:51:41
+346,Hoang Van Huyen,"Khách đặt Bàn phím cơ Akko 3087 switch Brown, chọn giao hàng tiết kiệm (SL: 2). Note: thu hộ COD",Medium,Completed,2026-10-07 18:27:05,2026-10-08 10:02:05
+347,Hồ Kim Tâm,"vay hoa nhi dang xoe size s (bao hanh 12 thang), giao tan noi, cho kiem hang truoc khi thanh toan",Medium,Cancelled,2026-10-07 19:22:20,2026-10-09 14:18:20
+348,Trịnh Bảo Dũng,"Khách hỏi mua Giày sneaker Adidas Ultraboost trắng size 38, thanh toán COD khi nhận hàng",Medium,Completed,2026-10-07 20:30:58,2026-10-11 10:40:58
+349,Trần Thảo Khoa,"Khách báo hết Máy đo huyết áp bắp tay Omron HEM-7156, nhờ giao sớm nhất có thể trong ngày",High,Completed,2026-10-07 20:52:28,2026-10-08 11:15:28
+350,Đỗ Khánh Long,"hàng gom order nước ngoài: Ốp lưng silicon trong suốt iPhone 15, Kẹp tóc càng cua nhám Hàn Quốc, dự kiến 2-3 tuần nữa giao",Low,Completed,2026-10-08 04:58:12,2026-10-08 09:58:12
+351,Xưởng In Ấn Hoàng Gia,"mua si moc khoa mica in hinh ngau nhien so luong nhieu, gui chanh xe cuoi tuan hoac dau tuan sau",Low,Cancelled,2026-10-08 06:18:01,2026-10-10 04:06:01
+352,Phan Quoc Khanh,"Hàng đặt trước (pre-order): Lót chuột vải size 20x25cm đen trơn, Lót chuột vải size 20x25cm đen trơn, chờ đủ hàng rồi gửi",Low,Completed,2026-10-08 07:02:07,2026-10-10 00:58:07
+353,Đặng Gia Nguyên,"Đặt thêm Móc khóa mica in hình ngẫu nhiên dự phòng trong kho, tuần sau giao cũng được ạ",Low,Pending,2026-10-08 08:32:16,2026-10-08 09:10:16
+354,Lý Bảo Hạnh,tai lieu hop dong gap kem man hinh dell ultrasharp 27 inch 4k  chuyen phat nhanh trong 4h,High,Cancelled,2026-10-08 11:24:29,2026-10-09 07:08:29
+355,Bùi Quốc Thảo,"máy sấy tóc ion âm panasonic 1800w, đóng gói tiêu chuẩn, gọi điện trước khi tới 15p",Medium,Completed,2026-10-08 11:46:12,2026-10-08 14:54:12
+356,Hồ Thảo Nhân,"đơn ưu tiên: Màn hình Dell UltraSharp 27 inch 4K, khách quen đã chuyển khoản full, ship ngay (SL: 3)",High,Completed,2026-10-08 15:58:52,2026-10-10 04:00:52
+357,Hoàng Văn Hải,"Khách hỏi mua Lò vi sóng Sharp có nướng 20L, thanh toán COD khi nhận hàng",Medium,Cancelled,2026-10-08 15:17:31,2026-10-09 23:20:31
+358,Đặng Đức Huyền,"Nồi cơm điện tử Toshiba 1.8L (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trc khi thanh toán",Medium,Completed,2026-10-08 19:00:17,2026-10-10 10:56:17
+359,Phan Khánh Nga,Đổi trả bảo hành gấp: Máy chiếu 4K ViewSonic cho phòng họp khách cần nhận lại ngay trong hôm nay,High,Cancelled,2026-10-08 20:46:32,2026-10-09 17:48:32
+360,Lý Lan Hoàng,"Mua Nồi chiên ko dầu Philips 6.2L dùng gia đình, đóng gói cẩn thận chút nhé shop - gọi trc khi giao",Medium,Cancelled,2026-10-08 21:14:27,2026-10-09 17:37:27
+361,Trương Khoa,Chuot khong day Logitech MX Master 3S - khach dan cuoi tuan o nha moi nhan duoc,Medium,Completed,2026-10-09 05:32:13,2026-10-10 00:27:13
+362,Phan Minh Thảo,Đơn tiêu chuẩn: Máy sấy tóc ion âm Panasonic 1800W  giao giờ hành chính giúp mình (SL: 3),Medium,Completed,2026-10-09 07:27:05,2026-10-09 11:55:05
+363,Tạ Kim Chi,"May chieu 4K ViewSonic cho phong hop nguyen seal chinh hang, gia tri cao, nho kiem tra ky truoc khi xuat kho",High,Completed,2026-10-09 13:55:17,2026-10-10 02:25:17
+364,Phan Anh Linh,"Hang gom order nuoc ngoai: Tat co ngan nam cotton (set 5 doi), du kien 2-3 tuan nua giao",Low,Completed,2026-10-09 14:33:42,2026-10-09 21:48:42
+365,Dương Hoàng Nhi, máy lọc không khí xiaomi air purifier 4 - khách dặn cuối tuần ở nhà mới nhận đc,Medium,Completed,2026-10-09 19:43:31,2026-10-12 17:43:31
+366,Hoàng Xuân Bảo,"đơn tiêu chuẩn: loa bluetooth jbl flip 6, giao giờ hành chính giúp mình",Medium,Processing,2026-10-10 03:21:05,2026-10-10 19:12:05
+367,Phạm Gia Hoàng,"Phụ kiện giá rẻ Sticker trang trí sổ tay (set 5 tấm), Lót chuột vải size 20x25cm đen trơn, ship chậm miễn sao không thất lạc là đc",Low,Completed,2026-10-09 20:21:19,2026-10-13 17:05:19
+368,Lê Hữu Hà,"Lò vi sóng Sharp có nướng 20L, đóng gói tiêu chuẩn, gọi điện trc khi tới 15p",Medium,Completed,2026-10-10 07:45:49,2026-10-10 17:27:49
+369,Trương Bảo Minh,"Khách đặt Giày chạy bộ Nike Pegasus 40 size 42, chọn giao hàng tiết kiệm",Medium,Completed,2026-10-10 07:10:53,2026-10-11 09:42:53
+370,Chị Hiếu,"Khách báo hết Insulin bút tiêm bảo quản lạnh, nhờ giao sớm nhất có thể trong ngày",High,Completed,2026-10-10 08:00:19,2026-10-10 21:33:19
+371,Mai Uyên,"Phụ kiện nhỏ: Túi zip trong suốt 100 chiếc size nhỏ, giao chung hoặc khi tiện chuyến. Note: ko giao chủ nhật",Low,Completed,2026-10-10 08:28:38,2026-10-11 19:56:38
+372,Quán Cà Phê Góc Phố,đơn online thường: váy hoa nhí dáng xòe size s + túi đựng rác tự hủy cuộn 3 cái  không cần giao gấp. note: kèm túi đựng nếu có,Medium,Completed,2026-10-10 08:29:26,2026-10-11 12:41:26
+373,Lê Tùng,Dat them Day buoc toc thun co gian tui 200 cai du phong trong kho  tuan sau giao cung duoc,Low,Completed,2026-10-10 08:46:05,2026-10-10 13:16:05
+374,ngo thu phong,"Đơn tiêu chuẩn: Bình đun siêu tốc Lock&Lock 1.7L, giao giờ hành chính giúp mình",Medium,Processing,2026-10-10 09:42:15,2026-10-10 23:32:15
+375,Đào Gia Việt,"Phụ kiện nhỏ: Kẹp tóc càng cua nhám Hàn Quốc, giao chung hoặc khi tiện chuyến (đã ck trước)",Low,Completed,2026-10-10 09:51:39,2026-10-12 21:30:39
+376,Hồ Quốc Hương,"Gui Bo ga goi cotton Han Quoc 1m8x2m, chieu mai hoac ngay kia giao deu ok, kem tui dung neu co",Medium,Completed,2026-10-10 09:59:21,2026-10-13 04:37:21
+377,Tạ Thu Nhân,"Giày chạy bộ Nike Pegasus 40 size 42, đóng gói tiêu chuẩn, gọi điện trước khi tới 15p",Medium,Completed,2026-10-10 10:34:01,2026-10-13 17:59:01
+378,Trung tam Anh ngu Horizon,Đơn mua thử Lót chuột vải size 20x25cm đen trơn  vận chuyển chậm tiết kiệm cước,Low,Completed,2026-10-10 11:06:52,2026-10-13 09:14:52
+379,Pham Thanh An,"Don mua thu Kep toc cang cua nham Han Quoc, van chuyen cham tiet kiem cuoc",Low,Completed,2026-10-10 13:53:24,2026-10-13 20:00:24
+380,VÕ GIA PHONG,"Giao hoa toc 2h Laptop Dell XPS 13, khach dang can gap trong sang nay. Note: da ck trc",High,Completed,2026-10-10 13:59:27,2026-10-11 07:34:27
+381,Lý Thảo,"Khách đặt Ghế công thái học văn phòng màu xám, chọn giao hàng tiết kiệm",Medium,Completed,2026-10-10 14:03:58,2026-10-14 01:54:58
+382,Anh Quang,"Vật tư tiêu hao cho vp: Kẹp tóc càng cua nhám Hàn Quốc, giao lúc nào cũng đc (đã ck trước)",Low,Processing,2026-10-10 14:47:58,2026-10-11 00:34:58
+383,Tạ Thanh Việt,"Mua sỉ Tờ rơi catalogue sản phẩm mới 2026 số lượng nhiều, gửi chành xe cuối tuần hoặc đầu tuần sau",Low,Completed,2026-10-10 15:29:36,2026-10-12 18:32:36
+384,chi thuy,"Đặt mua Quần jeans nam dáng suông Levi's size 31 + Khăn lau kính mắt chuyên dụng hộp 10 miếng, giao hàng tiêu chuẩn 2-3 ngày là được (SL: 2)",Medium,Cancelled,2026-10-10 17:00:00,2026-10-10 20:51:00
+385,Phan Hoàng Vinh,"Mua sỉ Xấp 5 tập giấy note vàng dán tường sl nhiều, gửi chành xe cuối tuần hoặc đầu tuần sau",Low,Completed,2026-10-10 17:15:59,2026-10-12 11:56:59
+386,Ly Thao Mai,"Máy lọc không khí Xiaomi Air Purifier 4, giao ở địa chỉ công ty từ thứ 2 đến thứ 6 (SL: 5). Note: gọi trc khi giao",Medium,Completed,2026-10-10 17:33:13,2026-10-10 20:47:13
+387,Trương Xuân Quang,"Nồi chiên không dầu Philips 6.2L hàng thanh lý trưng bày, khách không vội, kèm túi đựng nếu có",Low,Cancelled,2026-10-10 17:55:34,2026-10-12 04:12:34
+388,Chú Hoài - Đống Đa,"Don shopee/web: Ao so mi nam cong so Aristino size L trang, phi ship binh thuong",Medium,Completed,2026-10-10 18:47:51,2026-10-10 21:03:51
+389,Vũ Thu Sơn,"hộp sữa công thức nan optipro số 1 800g, cần giữ đúng điều kiện bảo quản và giao nhanh trong 4h, đã ck trước",High,Completed,2026-10-10 19:22:01,2026-10-11 08:46:01
+390,Co Thanh,"Đặt thêm Tờ rơi catalogue sản phẩm mới 2026 dự phòng trong kho, tuần sau giao cũng được",Low,Completed,2026-10-10 19:43:00,2026-10-13 11:29:00
+391,Hồ Hoài Chi,"Gửi Kem chống nắng Anessa SPF50+ 60ml, chiều mai hoặc ngày kia giao đều ok",Medium,Pending,2026-10-10 20:04:55,2026-10-10 20:04:55
+392,Phan Vân,"Quà tặng kèm / mẫu thử: Sticker trang trí sổ tay (set 5 tấm), đi đơn bưu điện thường - giao đúng mẫu như hình",Low,Completed,2026-10-10 20:33:52,2026-10-11 16:31:52
+393,Đặng Thanh Huy,"Quần jeans nam dáng suông Levi's size 31, giao ở địa chỉ công ty từ thứ 2 đến thứ 6 - check kỹ màu sắc giúp",Medium,Completed,2026-10-10 20:38:36,2026-10-12 01:54:36
+394,Mai Minh Nga,"Dat mua May say toc ion am Panasonic 1800W, giao hang tieu chuan 2-3 ngay la duoc - nho bao ve nhan ho neu ko nghe may nha shop",Medium,Completed,2026-10-10 20:39:58,2026-10-14 06:02:58
+395,Mai Kim Phong,"Lấy Miếng dán cường lực màn hình 9D cho sự kiện công ty sáng mai, cần giao trong tối nay - ko giao chủ nhật",High,Completed,2026-10-10 21:08:56,2026-10-11 10:25:56
+396,Mai Minh Van,"phụ kiện giá rẻ lót chuột vải size 20x25cm đen trơn, ship chậm miễn sao ko thất lạc là đc - shipper tới cổng gọi nhé",Low,Completed,2026-10-10 21:52:35,2026-10-14 02:12:35
+397,Hoang Van Hung,"Bình đun siêu tốc Lock&Lock 1.7L, đóng gói tiêu chuẩn, gọi điện trc khi tới 15p",Medium,Completed,2026-10-10 22:16:02,2026-10-11 01:51:02
+398,Cty TNHH Minh Phát,"giay chay bo nike pegasus 40 size 42, giao o dia chi cong ty tu thu 2 den thu 6 (sl: 5)",Medium,Completed,2026-10-10 22:35:10,2026-10-13 23:58:10
+401,Huỳnh Thu Hà,"Mua sỉ Cáp sạc nhanh Type-C dài 1m bọc dù sl nhiều, gửi chành xe cuối tuần hoặc đầu tuần sau",Low,Completed,2026-10-11 01:20:59,2026-10-13 11:00:59
+402,C. Kiên,"Don tieu chuan: Bo ga goi cotton Han Quoc 1m8x2m, giao gio hanh chinh giup minh",Medium,Completed,2026-10-10 23:21:49,2026-10-11 04:57:49
+403,Bùi Minh Ngọc,Sữa rửa mặt La Roche-Posay 400ml - khách dặn cuối tuần ở nhà mới nhận đc,Medium,Completed,2026-10-11 05:44:42,2026-10-12 02:01:42
+404,HOÀNG BẢO VÂN,"dat mua noi chien khong dau philips 6.2l, giao hang tieu chuan 2-3 ngay la duoc",Medium,Completed,2026-10-11 10:30:49,2026-10-14 09:31:49
+405,Trương Thảo Hoài,"Đơn mua thử Ốp lưng silicon trong suốt iPhone 15, Băng keo trong cuộn lớn (combo 6 cuộn), vận chuyển chậm tiết kiệm cước (SL: 4)",Low,Completed,2026-10-11 17:32:27,2026-10-15 01:12:27
+408,Trần Kim Huyền,Đặt mua Kem chống nắng Anessa SPF50+ 60ml  giao hàng tiêu chuẩn 2-3 ngày là được,Medium,Completed,2026-10-11 11:14:49,2026-10-14 14:06:49
+409,Vũ Thu Sơn,bo ga goi cotton han quoc 1m8x2m - khach dan cuoi tuan o nha moi nhan dc,Medium,Completed,2026-10-11 18:04:30,2026-10-12 12:48:30
+410,Chị Vinh - Gò Vấp,"Phu kien gia re Tat co ngan nam cotton (set 5 doi), Op lung silicon trong suot iPhone 15, ship cham mien sao khong that lac la dc",Low,Completed,2026-10-11 20:01:13,2026-10-14 13:00:13
+411,do lan an,ao polo nam vai ca sau mau xanh navy size m - khach dan cuoi tuan o nha moi nhan duoc,Medium,Completed,2026-10-11 22:32:26,2026-10-15 19:17:26
+412,NGUYỄN BẢO THỊNH,"Phụ kiện nhỏ: Tất cổ ngắn nam cotton (set 5 đôi), giao chung hoặc khi tiện chuyến",Low,Cancelled,2026-10-12 09:50:22,2026-10-13 16:21:22
+413,Le Thao Khoa,"Khách hỏi mua Ghế công thái học văn phòng màu xám, thanh toán COD khi nhận hàng. Note: thu hộ COD",Medium,Completed,2026-10-12 10:13:22,2026-10-12 15:25:22
+414,Võ Tùng,"Don tieu chuan: Bo chen dia gom su Minh Long 10 mon, giao gio hanh chinh giup minh",Medium,Completed,2026-10-12 12:52:33,2026-10-15 01:03:33
+415,Ngô Thị Vũ,yêu cầu xuất hóa đơn đỏ + giao hỏa tốc máy chiếu 4k viewsonic cho phòng họp tới văn phòng trước 16h30 (sl: 5),High,Completed,2026-10-12 14:04:35,2026-10-13 03:45:35
+416,Hoàng Lan Khánh,"Khách đặt Tai nghe Bluetooth Sony WH-CH720N đen, chọn giao hàng tiết kiệm (SL: 4). Note: gọi trc khi giao",Medium,Completed,2026-10-12 14:43:57,2026-10-13 19:16:57
+417,Chi Cuong,phụ kiện giá rẻ hộp 20 cây bút bi thiên long mực xanh 0.5mm  ship chậm miễn sao ko thất lạc là đc,Low,Completed,2026-10-12 18:02:27,2026-10-14 22:09:27
+418,Lê Hoài,"Khách hỏi mua Bình đun siêu tốc Lock&Lock 1.7L, thanh toán COD khi nhận hàng",Medium,Completed,2026-10-12 18:30:19,2026-10-16 01:56:19
+419,Huỳnh Thanh Đạt,"Lò vi sóng Sharp có nướng 20L dùng cho tiệc tối nay ở nhà hàng, nhờ giao gấp trước 17h",High,Completed,2026-10-12 20:01:35,2026-10-13 02:09:35
+420,Đinh Minh Nhân,"Hàng gom order nước ngoài: Túi đựng rác tự hủy cuộn 3 cái, dự kiến 2-3 tuần nữa giao",Low,Completed,2026-10-12 21:06:39,2026-10-13 20:36:39
+421,Lê Hữu Phúc,"Quà tặng kèm / mẫu thử: Tất cổ ngắn nam cotton (set 5 đôi), đi đơn bưu điện thường",Low,Completed,2026-10-12 21:30:26,2026-10-14 17:12:26
+422,Tạ Quỳnh,"Insulin bút tiêm bảo quản lạnh, cần giữ đúng điều kiện bảo quản và giao nhanh trong 4h",High,Completed,2026-10-12 21:37:50,2026-10-13 09:26:50
+423,Hồ Ngọc Chi,"Hàng gom order nước ngoài: Gói sample kem dưỡng ẩm 5ml, dự kiến 2-3 tuần nữa giao",Low,Completed,2026-10-13 08:14:45,2026-10-14 00:09:45
+424,Phạm Phong,"Hàng đặt trc (pre-order): Tờ rơi catalogue sp mới 2026, chờ đủ hàng rồi gửi",Low,Completed,2026-10-13 08:46:04,2026-10-15 05:31:04
+425,chi tuyet,"Đơn shopee/web: Máy lọc không khí Xiaomi Air Purifier 4, phí ship bình thường. Note: giao đúng mẫu như hình",Medium,Completed,2026-10-13 08:46:41,2026-10-15 09:04:41
+426,Vũ Xuân Hằng,"Hàng gom order nước ngoài: Hộp 20 cây bút bi Thiên Long mực xanh 0.5mm, dự kiến 2-3 tuần nữa giao",Low,Completed,2026-10-13 13:36:17,2026-10-16 02:39:17
+427,Đỗ Văn Trí,"Sữa rửa mặt La Roche-Posay 400ml, giao ở địa chỉ công ty từ thứ 2 đến thứ 6 (kèm túi đựng nếu có)",Medium,Completed,2026-10-13 16:43:22,2026-10-14 07:42:22
+428,Trinh Kim Hanh,"Phụ kiện giá rẻ Giá đỡ điện thoại nhựa gập mini để bàn, ship chậm miễn sao không thất lạc là đc (SL: 2)",Low,Completed,2026-10-13 16:46:16,2026-10-14 18:20:16
+429,Trương Xuân Thảo,Mua Bộ ga gối cotton Hàn Quốc 1m8x2m dùng gia đình  đóng gói cẩn thận chút nhé shop,Medium,Completed,2026-10-13 19:49:22,2026-10-15 01:11:22
+430,Chú Hoài - Đống Đa,"Đơn xả kho giá rẻ: Tờ rơi catalogue sp mới 2026, Sticker trang trí sổ tay (set 5 tấm), không gấp",Low,Completed,2026-10-13 20:38:02,2026-10-15 21:27:02
+431,C. Trúc - Hà Đông,"Đặt mua Kem chống nắng Anessa SPF50+ 60ml, giao hàng tiêu chuẩn 2-3 ngày là đc (đừng gọi h nghỉ trưa 12h-13h)",Medium,Completed,2026-10-13 20:41:14,2026-10-15 01:35:14
+432,Dang Minh Hai,"Mua Nước tẩy trang Bioderma 500ml nắp hồng dùng gia đình, đóng gói cẩn thận chút nhé shop. Note: thu hộ COD",Medium,Completed,2026-10-14 01:02:33,2026-10-14 04:20:33
+433,Ho Huu Trang,"bộ ga gối cotton hàn quốc 1m8x2m (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán",Medium,Completed,2026-10-14 09:45:06,2026-10-17 09:30:06
+434,Bùi Thanh Chi,Giao hỏa tốc 2h Insulin bút tiêm bảo quản lạnh  gia đình đang cần gấp cho người bệnh,Medium,Completed,2026-10-14 10:45:28,2026-10-16 07:33:28
+435,Lý Sơn,Quà tặng kèm / mẫu thử: Túi đựng rác tự hủy cuộn 3 cái  đi đơn bưu điện thường - thu hộ COD,Low,Completed,2026-10-14 12:13:54,2026-10-18 06:14:54
+436,Trần Dũng,Đổi trả bảo hành gấp: iPhone 16 Pro Max 256GB Titan Tự Nhiên khách cần nhận lại ngay trong hôm nay,High,Completed,2026-10-14 12:35:22,2026-10-14 16:07:22
+437,Ta Khanh Nga,"Mua Bo ga goi cotton Han Quoc 1m8x2m + Ghe cong thai hoc van phong mau xam dung gia dinh, dong goi can than chut nhe shop (SL: 3)",Medium,Completed,2026-10-14 14:40:15,2026-10-16 11:10:15
+438,Trinh Chau,Khách đặt Váy hoa nhí dáng xòe size S  chọn giao hàng tiết kiệm (đừng gọi h nghỉ trưa 12h-13h),Medium,Pending,2026-10-14 16:22:35,2026-10-14 16:22:35
+439,Đặng Trung Hà,"Mua si Kep toc cang cua nham Han Quoc so luong nhieu, gui chanh xe cuoi tuan hoac dau tuan sau",Low,Completed,2026-10-14 19:38:24,2026-10-15 00:17:24
+440,Duong Duc Nhung,"Giày chạy bộ Nike Pegasus 40 size 42 (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán. Note: ko giao chủ nhật",Medium,Completed,2026-10-14 21:28:02,2026-10-17 14:00:02
+441,ngo thanh toan,"Dat mua Nuoc tay trang Bioderma 500ml nap hong, giao hang tieu chuan 2-3 ngay la duoc !",Medium,Completed,2026-10-15 10:16:10,2026-10-18 18:10:10
+442,Phạm Thanh Trí,"Vật tư tiêu hao cho văn phòng: Giá đỡ điện thoại nhựa gập mini để bàn, giao lúc nào cũng được",High,Completed,2026-10-15 12:30:14,2026-10-16 05:32:14
+443,Võ Minh Hằng,"May say toc ion am Panasonic 1800W, giao o dia chi cong ty tu thu 2 den thu 6",Medium,Completed,2026-10-15 15:12:02,2026-10-16 13:58:02
+444,Duong Phuong Thinh,"Lấy Loa Bluetooth JBL Flip 6, giao trước 5h chiều trong tuần này là ổn",Medium,Cancelled,2026-10-15 17:36:30,2026-10-15 23:06:30
+445,Hồ Gia Hoài,Váy hoa nhí dáng xòe size S - khách dặn cuối tuần ở nhà mới nhận được,Medium,Completed,2026-10-15 18:01:44,2026-10-18 12:28:44
+446,Đào Quốc Cường,"Máy tạo oxy y tế Yuwell 5L, cần giữ đúng điều kiện bảo quản và giao nhanh trong 4h - check kỹ màu sắc giúp",High,Cancelled,2026-10-15 19:01:54,2026-10-17 15:23:54
+447,Đinh Thanh Hải,"Đơn online thường: Bình đun siêu tốc Lock&Lock 1.7L, không cần giao gấp. Note: đã ck trước",Medium,Completed,2026-10-15 19:51:46,2026-10-17 06:44:46
+448,Lý Thủy,"tai nghe Bluetooth Sony WH-CH720N đen hàng thanh lý trưng bày, khách ko vội",Low,Processing,2026-10-15 21:07:35,2026-10-16 13:16:35
+449,Ta Minh Bao,"giao hỏa tốc 2h MacBook Pro 14 inch M3 Pro, khách đang cần gấp trong sáng nay, gọi trc khi giao",High,Completed,2026-10-15 21:49:34,2026-10-16 07:02:34
+450,Đặng Trung Quỳnh,"đơn tiêu chuẩn: kem chống nắng anessa spf50+ 60ml, giao giờ hành chính giúp mình",Medium,Completed,2026-10-15 21:55:47,2026-10-19 20:07:47
+451,Trần Xuân Khoa,"Loa Bluetooth JBL Flip 6 (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán - gọi trc khi giao",Medium,Completed,2026-10-15 22:48:38,2026-10-18 01:19:38
+452,Tạ Hoài Quỳnh,"Giày chạy bộ Nike Pegasus 40 size 42 (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán (SL: 4)",Medium,Completed,2026-10-15 23:22:29,2026-10-17 09:29:29
+453,Tạ Hoàng Ngọc,"Giày chạy bộ Nike Pegasus 40 size 42 hàng thanh lý trưng bày, khách không vội",Low,Cancelled,2026-10-16 02:52:40,2026-10-17 06:56:40
+454,Lê Hữu Uyên,"Kem chống nắng Anessa SPF50+ 60ml, đóng gói tiêu chuẩn, gọi điện trước khi tới 15p",Medium,Completed,2026-10-16 15:22:49,2026-10-18 11:38:49
+455,Mai Thành Thảo,"Đặt mua Nước tẩy trang Bioderma 500ml nắp hồng, giao hàng tiêu chuẩn 2-3 ngày là được. Note: thu hộ COD",Medium,Completed,2026-10-16 15:57:40,2026-10-19 01:05:40
+456,Võ Thành Vy,"hang dat truoc (pre-order): Cap sac nhanh Type-C dai 1m boc du, cho du hang roi gui",Low,Completed,2026-10-16 16:36:09,2026-10-19 17:54:09
+457,Nguyễn Gia Hoài,"quần jeans nam dáng suông Levi's size 31, đóng gói tiêu chuẩn, gọi điện trước khi tới 15p",Medium,Cancelled,2026-10-16 20:35:01,2026-10-18 06:08:01
+458,C. Việt - Hải Châu,"đơn online thường: áo sơ mi nam công sở aristino size l trắng, không cần giao gấp - shipper tới cổng gọi nhé",Medium,Completed,2026-10-16 21:04:32,2026-10-19 21:37:32
+459,Trịnh Đức Thành,"Don xa kho gia re: Cap sac nhanh Type-C dai 1m boc du, khong gap (SL: 3)",Low,Completed,2026-10-17 01:14:18,2026-10-19 03:11:18
+460,Hoang Duc Thao,balo laptop chong nuoc Tigernu 15.6 inch  giao o dia chi cong ty tu thu 2 den thu 6. Note: kem tui dung neu co,Medium,Completed,2026-10-17 08:36:11,2026-10-20 08:45:11
+461,Trương Thu Trí,"Đơn online thường: Lò vi sóng Sharp có nướng 20L, ko cần giao gấp",Medium,Completed,2026-10-17 11:47:07,2026-10-18 10:33:07
+462,Vũ Hoàng Việt,"đặt thêm Túi zip trong suốt 100 chiếc size nhỏ dự phòng trong kho, tuần sau giao cũng được",Low,Completed,2026-10-17 12:11:02,2026-10-19 16:03:02
+463,Phan Thanh Quân,"Gửi Váy hoa nhí dáng xòe size S, chiều mai hoặc ngày kia giao đều ok !",Medium,Completed,2026-10-17 13:31:03,2026-10-20 18:47:03
+464,Tran Ngoc Hieu,"Đơn tiêu chuẩn: Giày sneaker Adidas Ultraboost trắng size 38, giao giờ hc giúp mình",Low,Completed,2026-10-17 14:44:45,2026-10-20 06:59:45
+465,Bùi Kim Lan,"Ship nhanh trong 2h Nước yến sào cao cấp hộp 12 hũ làm quà biếu, khách cần gấp tiếp khách",High,Completed,2026-10-17 15:51:04,2026-10-17 18:20:04
+466,Dinh Thanh Vinh,Sữa rửa mặt La Roche-Posay 400ml - khách dặn cuối tuần ở nhà mới nhận được,Medium,Completed,2026-10-17 16:05:26,2026-10-20 05:25:26
+467,Dao Thanh Quan,"Khách hỏi mua Giày chạy bộ Nike Pegasus 40 size 42, thanh toán COD khi nhận hàng (SL: 2)",Medium,Cancelled,2026-10-17 17:26:16,2026-10-19 04:20:16
+468,Vũ Xuân Toàn,"Tai lieu hop dong gap kem Dong ho Tissot Le Locle Automatic, chuyen phat nhanh trong 4h",High,Completed,2026-10-17 19:34:58,2026-10-20 07:58:58
+469,Trần An,"hàng đặt trước (pre-order): túi zip trong suốt 100 chiếc size nhỏ, chờ đủ hàng rồi gửi",Low,Completed,2026-10-17 19:24:06,2026-10-18 06:59:06
+470,Hoàng Đức Châu,Phụ kiện giá rẻ Móc khóa mica in hình ngẫu nhiên  ship chậm miễn sao không thất lạc là đc,Low,Cancelled,2026-10-17 20:38:17,2026-10-19 12:28:17
+471,Dương Thảo Lan,"Gửi Balo laptop chống nước Tigernu 15.6 inch, chiều mai hoặc ngày kia giao đều ok !",Low,Completed,2026-10-17 21:38:56,2026-10-21 02:30:56
+472,C. Uyên - Đống Đa,"Giao gap truoc 11h30 trua nay: Thung hai san tuoi song (tom hum + cua Ca Mau), dong goi can than tranh nghieng do",High,Completed,2026-10-18 02:00:07,2026-10-18 11:00:07
+473,Ho Duc Son,"Đơn tiêu chuẩn: Lò vi sóng Sharp có nướng 20L, giao giờ hành chính giúp mình",Medium,Completed,2026-10-18 03:32:31,2026-10-19 05:20:31
+474,Võ Đức Dũng,"Đặt mua Tai nghe Bluetooth Sony WH-CH720N đen, giao hàng tiêu chuẩn 2-3 ngày là được (gọi trc khi giao)",Medium,Completed,2026-10-18 08:55:10,2026-10-20 23:41:10
+475,Anh Hải - Hải Châu,"Qua tang kem / mau thu: Khan lau kinh mat chuyen dung hop 10 mieng, di don buu dien thuong",Low,Completed,2026-10-18 09:01:45,2026-10-19 03:52:45
+476,Dang Minh Phong,Don shopee/web: Ban phim co Akko 3087 switch Brown  phi ship binh thuong (SL: 2). Note: kem tui dung neu co,Medium,Completed,2026-10-18 09:08:23,2026-10-21 00:06:23
+477,Đặng Hữu Tâm,"Hang dat truoc (pre-order): Kep toc cang cua nham Han Quoc, cho du hang roi gui",Low,Completed,2026-10-18 09:31:59,2026-10-20 12:04:59
+478,Đặng Bảo Dương,"CPU Intel Core i9 14900K nguyên seal chính hãng, giá trị cao, nhớ kiểm tra kỹ trước khi xuất kho",High,Completed,2026-10-18 11:45:40,2026-10-19 02:28:40
+479,Võ Hằng,Hang gom order nuoc ngoai: Mieng dan cuong luc man hinh 9D  du kien 2-3 tuan nua giao - kem tui dung neu co,Low,Processing,2026-10-18 13:14:55,2026-10-19 12:06:55
+480,Pham Phuong Quynh,"Giay chay bo Nike Pegasus 40 size 42, dong goi tieu chuan, goi dien trc khi toi 15p",Medium,Completed,2026-10-18 13:49:15,2026-10-20 12:47:15
+481,Trường Mầm non Nắng Mai,"Qua tang kem / mau thu: Day buoc toc thun co gian tui 200 cai, di don buu dien thuong - shipper toi cong goi nhe",Low,Completed,2026-10-18 17:15:54,2026-10-20 21:55:54
+482,Đinh Hữu Tuấn,"Đơn tiêu chuẩn: Váy hoa nhí dáng xòe size S, giao giờ hành chính giúp mình",Medium,Cancelled,2026-10-18 17:40:45,2026-10-20 04:48:45
+483,Tạ Thanh Nguyên,"Hang gom order nuoc ngoai: Lot chuot vai size 20x25cm den tron, du kien 2-3 tuan nua giao (SL: 4) - shipper toi cong goi nhe",Low,Cancelled,2026-10-18 19:55:28,2026-10-19 22:50:28
+484,ho van nguyen,"Đặt mua Áo sơ mi nam công sở Aristino size L trắng, giao hàng tiêu chuẩn 2-3 ngày là được",Medium,Completed,2026-10-18 20:40:23,2026-10-21 05:11:23
+485,Lý Bảo Quang,Lấy Bộ ga gối cotton Hàn Quốc 1m8x2m + Nồi cơm điện tử Toshiba 1.8L  giao trc 5h chiều trong tuần này là ổn,Medium,Pending,2026-10-18 21:59:51,2026-10-18 21:59:51
+486,C. Tuyết - Q1,"May chieu 4K ViewSonic cho phong hop nguyen seal chinh hang, gia tri cao, nho kiem tra ky truoc khi xuat kho",High,Processing,2026-10-19 03:52:08,2026-10-19 23:39:08
+487,Vũ Thảo Toàn,"hàng đặt trc (pre-order): móc khóa mica in hình ngẫu nhiên, chờ đủ hàng rồi gửi",Low,Completed,2026-10-19 08:00:55,2026-10-20 08:29:55
+488,Bùi Thảo Phương,"nồi chiên ko dầu philips 6.2l dùng cho tiệc tối nay ở nhà hàng, nhờ giao gấpp trước 17h",High,Pending,2026-10-19 08:13:52,2026-10-19 08:13:52
+489,Nguyen Minh Anh,"Đơn xả kho giá rẻ: Tất cổ ngắn nam cotton (set 5 đôi), không gấp",Low,Completed,2026-10-19 14:23:45,2026-10-19 20:23:45
+490,Hoàng Việt,"Tai nghe Bluetooth Sony WH-CH720N đen (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán",Medium,Completed,2026-10-19 11:44:34,2026-10-21 15:31:34
+493,Trần Xuân Khoa,"đơn mua thử Móc khóa mica in hình ngẫu nhiên, vận chuyển chậm tiết kiệm cước",Low,Completed,2026-10-19 16:02:29,2026-10-22 19:29:29
+494,Dương Hoài Vy,"lấy balo laptop chống nước tigernu 15.6 inch, giao trước 5h chiều trong tuần này là ổn. note: thu hộ cod",Medium,Completed,2026-10-19 21:06:55,2026-10-22 02:23:55
+495,C. Ngọc - Gò Vấp,"Ship gấp Máy xông khí dung Omron cho bé tới phòng khám trc 15h, gọi trc khi tới",High,Completed,2026-10-19 21:18:59,2026-10-20 06:49:59
+496,Truong Minh Dung,"Hàng gom order nước ngoài: Khăn lau kính mắt chuyên dụng hộp 10 miếng, Dây buộc tóc thun co giãn túi 200 cái, dự kiến 2-3 tuần nữa giao. Note: check kỹ màu sắc giúp",Low,Completed,2026-10-20 12:16:46,2026-10-21 22:46:46
+497,Trần Hoài Khoa,đơn online thường: nước tẩy trang bioderma 500ml nắp hồng  ko cần giao gấp (nhờ bảo vệ nhận hộ nếu ko nghe máy),Medium,Completed,2026-10-20 12:19:52,2026-10-23 03:15:52
+498,cty tnhh minh phat,"đơn y tế khẩn cấp: máy đo huyết áp bắp tay omron hem-7156, ưu tiên chuyển ngay trong buổi sáng",High,Completed,2026-10-20 13:58:31,2026-10-23 12:02:31
+499,phan minh mai,"Don mua thu Tat co ngan nam cotton (set 5 doi), van chuyen cham tiet kiem cuoc. Note: goi trc khi giao",Low,Completed,2026-10-20 13:36:03,2026-10-21 05:58:03
+500,Trương Thành Vũ,Đơn đặt Laptop Dell XPS 13 chờ hàng về kho cuối tháng,Medium,Completed,2026-10-20 14:24:56,2026-10-21 03:19:56
+501,Hoàng Trang,"Đơn xả kho giá rẻ: Giá đỡ điện thoại nhựa gập mini để bàn, không gấp",Low,Completed,2026-10-20 14:25:20,2026-10-22 00:06:20
+502,Đinh Thanh Vinh,Khách đặt Máy sấy tóc ion âm Panasonic 1800W  chọn giao hàng tiết kiệm. Note: nhờ bảo vệ nhận hộ nếu ko nghe máy,Medium,Cancelled,2026-10-20 17:24:57,2026-10-22 17:24:57
+503,Đào Hữu Tân,"Dat them Moc khoa mica in hinh ngau nhien du phong trong kho, tuan sau giao cung duoc - shipper toi cong goi nhe",Low,Completed,2026-10-20 18:39:09,2026-10-22 08:38:09
+504,Hoang Lan Khanh,"Mua sỉ Khăn lau kính mắt chuyên dụng hộp 10 miếng sl nhiều, gửi chành xe cuối tuần hoặc đầu tuần sau",Low,Cancelled,2026-10-20 21:09:19,2026-10-21 21:32:19
+505,Huỳnh Phương Trung,"Đơn online thường: Máy lọc không khí Xiaomi Air Purifier 4, không cần giao gấp",Medium,Completed,2026-10-20 18:59:07,2026-10-24 11:08:07
+506,Đỗ Thị Long,"Bình đun siêu tốc Lock&Lock 1.7L + Dây buộc tóc thun co giãn túi 200 cái, giao ở địa chỉ công ty từ thứ 2 đến thứ 6",Medium,Completed,2026-10-20 21:26:23,2026-10-21 16:09:23
+507,Hoang Thao Vy,"mua si xap 5 tap giay note vang dan tuong so luong nhieu, gui chanh xe cuoi tuan hoac dau tuan sau - shipper toi cong goi nhe",Low,Completed,2026-10-20 21:33:27,2026-10-24 02:00:27
+508,Phạm Ngọc Thảo,"Đặt mua Loa Bluetooth JBL Flip 6, giao hàng tiêu chuẩn 2-3 ngày là đc, ko giao chủ nhật",Medium,Completed,2026-10-21 08:23:13,2026-10-24 23:07:13
+509,MAI BẢO HUYỀN,Bình đun siêu tốc Lock&Lock 1.7L - khách dặn cuối tuần ở nhà mới nhận được,Medium,Completed,2026-10-21 09:33:56,2026-10-22 14:22:56
+510,Nguyễn Ngọc Việt,Bàn phím cơ Akko 3087 switch Brown - khách dặn cuối tuần ở nhà mới nhận được,Medium,Completed,2026-10-21 12:49:51,2026-10-23 09:53:51
+511,Spa Duong Sinh Hoa Sen,"Don online thuong: Noi com dien tu Toshiba 1.8L, khong can giao gap",Medium,Completed,2026-10-21 11:31:37,2026-10-22 18:50:37
+512,Đào Kim An,"Quà tặng kèm / mẫu thử: Dây buộc tóc thun co giãn túi 200 cái, đi đơn bưu điện thường",Low,Completed,2026-10-21 13:41:43,2026-10-21 18:40:43
+513,HỒ MINH CHÂU,"Vật tư tiêu hao cho văn phòng: Ốp lưng silicon trong suốt iPhone 15, giao lúc nào cũng được",Low,Cancelled,2026-10-21 16:58:51,2026-10-23 06:49:51
+514,Ngô Thị Việt,"Vat tu tieu hao cho vp: Khan lau kinh mat chuyen dung hop 10 mieng, giao luc nao cung dc",Low,Completed,2026-10-21 17:35:40,2026-10-24 22:19:40
+515,Mai Anh,"Balo laptop chống nước Tigernu 15.6 inch, giao ở địa chỉ công ty từ thứ 2 đến thứ 6 (SL: 3)",Medium,Completed,2026-10-21 18:05:10,2026-10-23 05:36:10
+516,Lý Thu Giang,"ship nhanh trong 2h Thùng hải sản tươi sống (tôm hùm + cua Cà Mau), khách cần gấp tiếp khách",High,Completed,2026-10-21 19:34:03,2026-10-22 00:04:03
+517,Đặng Quốc Long,"Quà tặng kèm / mẫu thử: Túi đựng rác tự hủy cuộn 3 cái, đi đơn bưu điện thường",Low,Completed,2026-10-21 21:32:01,2026-10-24 19:15:01
+518,Trần Kim Yến,"Mua MacBook Pro 14 inch M3 Pro trả góp, không cần gấp, giao tiêu chuẩn 3-4 ngày",Medium,Completed,2026-10-21 22:57:22,2026-10-25 20:23:22
+519,Đào Khánh Thủy,Ghế công thái học văn phòng màu xám + Nồi cơm điện tử Toshiba 1.8L - khách dặn cuối tuần ở nhà mới nhận đc,Medium,Completed,2026-10-22 06:30:14,2026-10-24 19:52:14
+520,Phan Kim Tùng,"Khach hoi mua Sua rua mat La Roche-Posay 400ml + Ban ui hoi nuoc cam tay Tefal, thanh toan COD khi nhan hang",Medium,Cancelled,2026-10-22 11:48:57,2026-10-24 09:10:57
+521,A. Sơn - Q1,"Lấy Balo laptop chống nước Tigernu 15.6 inch, giao trc 5h chiều trong tuần này là ổn",Medium,Completed,2026-10-22 11:53:36,2026-10-23 09:52:36
+522,Hoàng Minh Đức,"Don online thuong: Binh dun sieu toc Lock&Lock 1.7L, khong can giao gap",Medium,Completed,2026-10-22 12:59:42,2026-10-23 12:09:42
+523,Chị Thúy - Tân Bình,Yêu cầu xuất hóa đơn đỏ + giao hỏa tốc iPhone 15 Pro 128GB tới văn phòng trước 16h30,High,Cancelled,2026-10-22 15:02:16,2026-10-23 19:46:16
+524,Nguyễn Long,"Đơn online thường: Balo laptop chống nước Tigernu 15.6 inch, không cần giao gấp",Medium,Completed,2026-10-22 17:31:34,2026-10-26 14:37:34
+525,Đinh Minh Phúc,"Đặt mua Bàn phím cơ Akko 3087 switch Brown, giao hàng tiêu chuẩn 2-3 ngày là đc",Medium,Completed,2026-10-22 17:40:58,2026-10-24 10:22:58
+526,Hồ Hoài Chi,"Đặt mua Quần jeans nam dáng suông Levi's size 31, giao hàng tiêu chuẩn 2-3 ngày là được",Medium,Cancelled,2026-10-22 17:42:22,2026-10-23 22:51:22
+527,Tạ Anh Tùng," Máy sấy tóc ion âm Panasonic 1800W (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán",Medium,Completed,2026-10-22 21:14:52,2026-10-25 01:22:52
+528,Ngô Trung An,Khách đặt Áo polo nam vải cá sấu màu xanh navy size M  chọn giao hàng tiết kiệm (SL: 3),Medium,Completed,2026-10-22 21:27:02,2026-10-26 09:07:02
+529,Studio Ảnh Cưới Lumi,bàn ủi hơi nước cầm tay Tefal - khách dặn cuối tuần ở nhà mới nhận được,Medium,Pending,2026-10-22 22:56:54,2026-10-22 22:56:54
+530,Dương Văn Yến,"Mua Kem chống nắng Anessa SPF50+ 60ml dùng gia đình, đóng gói cẩn thận chút nhé shop",Medium,Completed,2026-10-23 12:12:29,2026-10-23 20:51:29
+531,Huỳnh Đức Khánh,"Lấy Ghế công thái học văn phòng màu xám, giao trước 5h chiều trong tuần này là ổn",Medium,Cancelled,2026-10-23 11:16:41,2026-10-24 15:58:41
+532,Bùi Đức Sơn,Ghế công thái học văn phòng màu xám - khách dặn cuối tuần ở nhà mới nhận được,Medium,Completed,2026-10-23 15:03:47,2026-10-26 09:52:47
+533,C. Bảo,"can gap iphone 16 pro max 256gb titan tu nhien, he thong cong ty dang gian doan cho thiet bi thay the, check ky mau sac giup",High,Completed,2026-10-23 15:05:03,2026-10-23 19:34:03
+534,Tạ Hoài Quân,"Hang gom order nuoc ngoai: Kep toc cang cua nham Han Quoc, Moc khoa mica in hinh ngau nhien, du kien 2-3 tuan nua giao (SL: 3), giao dung mau nhu hinh",Low,Cancelled,2026-10-23 15:38:47,2026-10-24 12:56:47
+535,Huỳnh Kim Dương,"Đơn tiêu chuẩn: Áo polo nam vải cá sấu màu xanh navy size M, giao giờ hành chính giúp mình",Medium,Completed,2026-10-23 15:40:19,2026-10-26 10:04:19
+536,C. Vân,"Gửi Sữa rửa mặt La Roche-Posay 400ml, chiều mai hoặc ngày kia giao đều ok",Medium,Completed,2026-10-23 16:09:56,2026-10-24 19:55:56
+537,Bùi Ngọc Tú,"Giao gapp trc 11h30 trua nay: Ca hoi Na Uy tuoi phi le 2kg uop lanh, dong goi can than tranh nghieng do - nho bao ve nhan ho neu ko nghe may",High,Completed,2026-10-23 17:23:38,2026-10-24 04:37:38
+538,Vũ Thành Thúy,"Gửi Sữa rửa mặt La Roche-Posay 400ml, chiều mai hoặc ngày kia giao đều ok, check kỹ màu sắc giúp",Medium,Completed,2026-10-23 20:52:08,2026-10-26 23:00:08
+539,Đinh Khánh Hải,Yeu cau xuat hd do + giao hoa toc May chieu 4K ViewSonic cho phong hop toi van phong trc 16h30,High,Completed,2026-10-23 20:55:38,2026-10-23 21:18:38
+540,Đinh Nga,"đơn xả kho giá rẻ: khăn lau kính mắt chuyên dụng hộp 10 miếng, không gấp",Low,Completed,2026-10-24 00:04:29,2026-10-25 10:47:29
+542,Trần Minh Thủy,"Don xa kho gia re: Gia do dien thoai nhua gap mini de ban, khong gap",Low,Completed,2026-10-24 13:23:19,2026-10-28 12:55:19
+544,Phan Minh Vân,"Tai lieu hop dong gap kem Man hinh Dell UltraSharp 27 inch 4K, chuyen phat nhanh trong 4h",High,Completed,2026-10-24 15:50:34,2026-10-24 21:19:34
+545,Dương Bảo Khoa,"khach dat Ao polo nam vai ca sau mau xanh navy size M, chon giao hang tiet kiem (thu ho COD)",Medium,Completed,2026-10-24 19:18:29,2026-10-25 16:24:29
+546,Đinh Lan Hoài,"Váy hoa nhí dáng xòe size S, đóng gói tiêu chuẩn, gọi điện trước khi tới 15p",Medium,Completed,2026-10-24 22:08:34,2026-10-28 04:34:34
+547,Ho Quoc Hoai,"Bộ chén dĩa gốm sứ Minh Long 10 món (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán (SL: 4)",Medium,Pending,2026-10-24 21:42:36,2026-10-24 21:49:36
+548,Phạm Thành Hương,"Áo polo nam vải cá sấu màu xanh navy size M, đóng gói tiêu chuẩn, gọi điện trước khi tới 15p (SL: 5)",Medium,Completed,2026-10-24 22:45:38,2026-10-28 11:21:38
+549,Tạ Văn Hoài,"Đơn ưu tiên: Máy chiếu 4K ViewSonic cho phòng họp, khách quen đã chuyển khoản full, ship ngay - đừng gọi giờ nghỉ trưa 12h-13h",High,Processing,2026-10-25 06:34:41,2026-10-25 13:31:41
+550,Nguyễn Bảo Bình,"đơn vip: thùng hải sản tươi sống (tôm hùm + cua cà mau) gửi tặng đối tác, giao tận tay và chụp ảnh xác nhận",High,Completed,2026-10-25 02:24:37,2026-10-25 04:59:37
+551,Tạ Văn Hương,"Hộp sữa công thức NAN Optipro số 1 800g, cần giữ đúng điều kiện bảo quản và giao nhanh trong 4h. Note: ko giao chủ nhật",High,Completed,2026-10-25 09:02:46,2026-10-25 20:50:46
+552,Trương Ngọc Phong,"Ship gấp trong ngày Máy chiếu 4K ViewSonic cho phòng họp, khách cần dùng liền cho kịp việc",High,Completed,2026-10-25 12:12:19,2026-10-25 20:48:19
+553,Ngo Quoc Kien,"Đơn đặc biệt cho hội thảo chiều nay: Màn hình Dell UltraSharp 27 inch 4K, phải giao trước 14h",High,Completed,2026-10-25 12:48:06,2026-10-25 23:04:06
+554,Nguyen Thanh Quynh,"dat them day buoc toc thun co gian tui 200 cai du phong trong kho, tuan sau giao cung dc",Low,Completed,2026-10-25 15:36:59,2026-10-28 22:55:59
+555,Tạ Bảo Nguyên,"Balo laptop chống nước Tigernu 15.6 inch, giao ở địa chỉ công ty từ thứ 2 đến thứ 6 (SL: 4)",Medium,Completed,2026-10-25 20:35:40,2026-10-27 11:55:40
+556,chu my," iPhone 15 Pro 128GB nguyên seal chính hãng, giá trị cao, nhớ kiểm tra kỹ trước khi xuất kho, gọi trc khi giao",High,Completed,2026-10-26 03:37:16,2026-10-26 15:41:16
+557,C. Bao,"Phụ kiện nhỏ: Tờ rơi catalogue sản phẩm mới 2026, giao chung hoặc khi tiện chuyến. Note: kèm túi đựng nếu có",Low,Processing,2026-10-26 08:43:59,2026-10-27 05:19:59
+558,Trần Thu An,"Ship gap trong ngay iPad Pro M4 11 inch WiFi, khach can dung lien cho kip viec",High,Completed,2026-10-26 10:54:45,2026-10-26 20:16:45
+559,Nguyễn Bảo Thịnh,"Lấy Áo sơ mi nam công sở Aristino size L trắng, giao trước 5h chiều trong tuần này là ổn. Note: nhờ bảo vệ nhận hộ nếu ko nghe máy",Medium,Completed,2026-10-26 13:33:20,2026-10-27 22:31:20
+560,Trinh Gia Duong,"Mua Váy hoa nhí dáng xòe size S dùng gia đình, đóng gói cẩn thận chút nhé shop",Medium,Completed,2026-10-26 14:20:39,2026-10-27 01:15:39
+561,A. Quân - Gò Vấp,Lấy Máy lọc ko khí Xiaomi Air Purifier 4  giao trc 5h chiều trong tuần này là ổn,Medium,Pending,2026-10-26 16:05:25,2026-10-26 16:41:25
+562,dao hoai thu,"Đặt mua Sữa rửa mặt La Roche-Posay 400ml, giao hàng tiêu chuẩn 2-3 ngày là được",Medium,Completed,2026-10-26 17:46:49,2026-10-29 19:21:49
+563,Trương Kim Tùng,"macbook air m3 13 inch 16gb/512gb nguyen seal chinh hang, gia tri cao, nho kiem tra ky trc khi xuat kho...",High,Cancelled,2026-10-26 19:18:32,2026-10-27 13:29:32
+564,Dao Khanh Huy,"Đơn tiêu chuẩn: Áo sơ mi nam công sở Aristino size L trắng, giao giờ hc giúp mình (SL: 2)",Medium,Completed,2026-10-26 19:36:23,2026-10-27 04:23:23
+565,Võ Lan Hiếu,"Quà tặng kèm / mẫu thử: Túi đựng rác tự hủy cuộn 3 cái, đi đơn bưu điện thường (nhờ bảo vệ nhận hộ nếu ko nghe máy)",Low,Completed,2026-10-26 21:29:37,2026-10-28 03:11:37
+566,Lý Thu Thịnh,"Phụ kiện giá rẻ Cáp sạc nhanh Type-C dài 1m bọc dù, ship chậm miễn sao không thất lạc là đc - đã ck trước",Low,Completed,2026-10-26 22:20:36,2026-10-29 02:40:36
+567,Phan Thảo Trung,"CPU Intel Core i9 14900K - hang de vo gia tri cao, yeu cau shipper goi trc khi giao, check ky mau sac giup",High,Completed,2026-10-27 09:57:11,2026-10-27 22:31:11
+568,Cty TNHH Minh Phát,"Đặt mua Áo sơ mi nam công sở Aristino size L trắng, giao hàng tiêu chuẩn 2-3 ngày là được",Medium,Completed,2026-10-27 11:24:02,2026-10-29 05:38:02
+569,Lý Thị Tuyết,"đơn đặc biệt cho hội thảo chiều nay: màn hình dell ultrasharp 27 inch 4k, phải giao trước 14h (giao đúng mẫu như hình)",High,Completed,2026-10-27 12:11:25,2026-10-28 05:41:25
+570,Nguyễn Thảo Thảo,giay chay bo nike pegasus 40 size 42 + nuoc tay trang bioderma 500ml nap hong  giao o dia chi cong ty tu thu 2 den thu 6,Medium,Completed,2026-10-27 13:02:19,2026-10-30 12:08:19
+571,LÊ THẢO LONG,Đơn mua thử Cáp sạc nhanh Type-C dài 1m bọc dù  vận chuyển chậm tiết kiệm cước (SL: 5),Low,Completed,2026-10-27 13:18:44,2026-10-29 05:35:44
+572,Vo Nhan,Doi tra bao hanh gap: CPU Intel Core i9 14900K khach can nhan lai ngay trong hom nay - shipper toi cong goi nhe,High,Cancelled,2026-10-27 15:02:13,2026-10-27 22:28:13
+573,Trần Bảo Thu,"Don shopee/web: Ao polo nam vai ca sau mau xanh navy size M, phi ship binh thuong",Medium,Completed,2026-10-27 19:28:28,2026-10-30 03:11:28
+574,Đào Thu Thu,"Đặt mua Bàn phím cơ Akko 3087 switch Brown, giao hàng tiêu chuẩn 2-3 ngày là đc",Medium,Completed,2026-10-28 05:33:46,2026-10-29 02:29:46
+575,Trương Đức My,"Đơn online thường: Kem chống nắng Anessa SPF50+ 60ml + Kem chống nắng Anessa SPF50+ 60ml, không cần giao gấp",Medium,Completed,2026-10-28 11:11:32,2026-10-29 05:39:32
+576,Huynh Thanh Quang,"Giao hỏa tốc 2h iPad Pro M4 11 inch WiFi, khách đang cần gấp trong sáng nay",High,Completed,2026-10-28 13:40:20,2026-10-29 06:55:20
+577,Trần Trung Vy,"Gửi Nồi chiên ko dầu Philips 6.2L, chiều mai hoặc ngày kia giao đều ok (SL: 3)",Medium,Completed,2026-10-28 19:09:39,2026-11-01 08:33:39
+578,Đào Minh Đạt,"Vật tư tiêu hao cho văn phòng: Miếng dán cường lực màn hình 9D, Xấp 5 tập giấy note vàng dán tường, giao lúc nào cũng được",Low,Completed,2026-10-29 11:01:09,2026-11-01 17:48:09
+579,Trương Hoài Nam,"Đơn đặc biệt cho hội thảo chiều nay: Máy ảnh Sony A7 IV kèm lens 24-70mm, phải giao trước 14h",High,Completed,2026-10-29 11:38:34,2026-10-29 17:25:34
+580,Trương Thanh Tuyết,"bàn phím cơ akko 3087 switch brown, giao ở địa chỉ công ty từ thứ 2 đến thứ 6, đừng gọi giờ nghỉ trưa 12h-13h",Medium,Completed,2026-10-29 12:46:14,2026-10-30 23:16:14
+581,Xưởng In Ấn Hoàng Gia,"Đơn shopee/web: Quần jeans nam dáng suông Levi's size 31, phí ship bình thường",Medium,Completed,2026-10-29 13:42:21,2026-10-30 19:42:21
+582,Vũ Trung Nga,"Hàng đặt trước (pre-order): Sticker trang trí sổ tay (set 5 tấm), chờ đủ hàng rồi gửi nha shop",Low,Completed,2026-10-29 13:59:52,2026-11-01 22:59:52
+583,Mai Tâm,"Lay Binh dun sieu toc Lock&Lock 1.7L, giao truoc 5h chieu trong tuan nay la on",Medium,Completed,2026-10-29 16:02:57,2026-11-01 08:32:57
+584,Lê Hà,"Khach hoi mua May loc ko khi Xiaomi Air Purifier 4, thanh toan COD khi nhan hang (SL: 3)",Medium,Cancelled,2026-10-29 17:22:50,2026-10-29 23:32:50
+585,Hồ Đức Nhung,"Máy sấy tóc ion âm Panasonic 1800W, đóng gói tiêu chuẩn, gọi điện trc khi tới 15p (SL: 4)",Medium,Completed,2026-10-29 18:43:27,2026-11-01 14:46:27
+586,Bui Minh Ngoc,"Đơn mua thử Xấp 5 tập giấy note vàng dán tường, vận chuyển chậm tiết kiệm cước ạ",Low,Completed,2026-10-29 19:00:14,2026-11-01 22:13:14
+587,Phạm Hoàng Nhi,"Hàng đặt trước (pre-order): Lót chuột vải size 20x25cm đen trơn, chờ đủ hàng rồi gửi",Low,Completed,2026-10-29 21:42:08,2026-11-02 00:15:08
+588,Đinh Hữu Tuấn,Khách đặt Giày chạy bộ Nike Pegasus 40 size 42  chọn giao hàng tiết kiệm,Medium,Completed,2026-10-30 02:36:20,2026-10-30 20:55:20
+589,Huỳnh Anh Tâm,"Đơn mua thử Hộp 20 cây bút bi Thiên Long mực xanh 0.5mm, vận chuyển chậm tiết kiệm cước",Low,Completed,2026-10-30 04:39:11,2026-11-02 22:08:11
+590,TRẦN HOÀI TRUNG,"Đặt mua Máy lọc ko khí Xiaomi Air Purifier 4, giao hàng tiêu chuẩn 2-3 ngày là được",Medium,Completed,2026-10-30 05:31:48,2026-11-02 18:51:48
+591,Anh Tân - Bình Thạnh,"Don VIP: Lang hoa tuoi khai truong kem thiep gui tang doi tac, giao tan tay va chup anh xac nhan",High,Completed,2026-10-30 05:43:39,2026-10-30 14:11:39
+592,Huỳnh Toàn,"Hang gom order nuoc ngoai: Gia do dien thoai nhua gap mini de ban, du kien 2-3 tuan nua giao",Low,Completed,2026-10-30 09:02:29,2026-11-01 14:49:29
+593,Võ Bảo Huy,"Đơn online thường: Máy lọc không khí Xiaomi Air Purifier 4, không cần giao gấp",Medium,Completed,2026-10-30 09:04:12,2026-11-01 08:10:12
+594,Vũ Thảo Bảo,"Đơn hẹn giờ: Thùng hải sản tươi sống (tôm hùm + cua Cà Mau), giao đúng 18h tối nay cho kịp tiệc (SL: 3)",High,Completed,2026-10-30 09:14:20,2026-10-30 10:58:20
+595,Mai Van Yen,"Don mua thu Mieng dan cuong luc man hinh 9D, van chuyen cham tiet kiem cuoc",Low,Completed,2026-10-30 11:29:40,2026-11-02 12:21:40
+596,Võ Thành Vy," Hang dat truoc (pre-order) Gia do dien thoai nhua gap mini de ban, cho du hang roi gui",Low,Processing,2026-10-30 14:52:22,2026-10-30 20:15:22
+597,Trương Minh Tú,"Loa Bluetooth JBL Flip 6 dung cho tiec toi nay o nha hang, nho giao gap truoc 17h",High,Processing,2026-10-30 16:46:30,2026-10-31 16:39:30
+598,Trần Hoài Hoàng,"qua tang kem / mau thu: Kep toc cang cua nham Han Quoc, di don buu dien thuong. Note: shipper toi cong goi nhe",Low,Cancelled,2026-10-30 17:18:20,2026-10-30 20:22:20
+599,Trịnh Huy,"Khách hỏi mua Bình đun siêu tốc Lock&Lock 1.7L, thanh toán COD khi nhận hàng",Medium,Completed,2026-10-30 17:32:53,2026-11-01 08:10:53
+600,Lê Thị Bảo,"Đơn shopee/web: Nồi chiên ko dầu Philips 6.2L, phí ship bình thường",Medium,Completed,2026-10-30 20:06:55,2026-10-31 10:12:55
+601,Mai Dung,"mua ao so mi nam cong so aristino size l trang dung gia dinh, dong goi can than chut nhe shop - khach hay ban hop, nt zalo neu ko goi dc",Medium,Completed,2026-10-30 20:28:43,2026-11-02 11:24:43
+602,Chu Phuc - Dong Da,"hàng gom order nước ngoài: ốp lưng silicon trong suốt iphone 15, dự kiến 2-3 tuần nữa giao",Low,Completed,2026-10-30 21:01:03,2026-11-02 10:54:03
+603,LÝ THANH HÀ,"Don y te khan cap: May tao oxy y te Yuwell 5L, uu tien chuyen ngay trong buoi sang - giao dung mau nhu hinh",High,Completed,2026-10-31 01:44:13,2026-10-31 18:12:13
+604,Nguyễn Lan Thu,"tai lieu hop dong gap kem cpu intel core i9 14900k, chuyen phat nhanh trong 4h",High,Cancelled,2026-10-31 07:33:52,2026-11-01 02:44:52
+607,Dương Thanh Phúc,"đơn online thường: bộ ga gối cotton hàn quốc 1m8x2m, không cần giao gấp",Medium,Completed,2026-10-31 09:00:04,2026-10-31 12:34:04
+608,Hoàng Quốc Dương,"Lấy Lò vi sóng Sharp có nướng 20L, giao trước 5h chiều trong tuần này là ổn",Medium,Completed,2026-10-31 09:06:04,2026-11-04 05:51:04
+609,Đào Kim Đức,"Chuột không dây Logitech MX Master 3S + Quần jeans nam dáng suông Levi's size 31 (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán",Medium,Completed,2026-10-31 09:55:54,2026-10-31 22:30:54
+611,Dao Thanh Quan,bo kit test nhanh y te (hop 25 test)  can giu dung dieu kien bao quan va giao nhanh trong 4h (SL: 3),High,Completed,2026-10-31 11:14:30,2026-11-01 00:23:30
+612,Do Phuong Thu,"Mua si Moc khoa mica in hinh ngau nhien so luong nhieu, gui chanh xe cuoi tuan hoac dau tuan sau",Low,Cancelled,2026-10-31 18:30:05,2026-11-01 15:29:05
+613,Đinh Thúy,"Đặt thêm Túi zip trong suốt 100 chiếc size nhỏ dự phòng trong kho, tuần sau giao cũng được",Low,Completed,2026-10-31 20:14:41,2026-11-01 05:05:41
+614,Huỳnh Hiếu,"Gui Noi chien khong dau Philips 6.2L, chieu mai hoac ngay kia giao deu ok",Medium,Completed,2026-11-01 03:24:40,2026-11-01 15:55:40
+615,dang anh quang,"Lay Cap sac nhanh Type-C dai 1m boc du cho su kien cong ty sang mai, can giao trong toi nay",High,Completed,2026-11-01 03:30:49,2026-11-01 14:31:49
+616,Công ty CP Công nghệ Sao Việt,"Tài liệu hợp đồng gấp kèm Màn hình Dell UltraSharp 27 inch 4K, chuyển phát nhanh trong 4h (SL: 4)",High,Completed,2026-11-01 09:45:10,2026-11-01 22:39:10
+617,Trịnh Thành Dương,"Lấy Nồi cơm điện tử Toshiba 1.8L, giao trước 5h chiều trong tuần này là ổn",Medium,Cancelled,2026-11-01 11:33:21,2026-11-01 17:46:21
+618,anh huong - hai chau,"mua sỉ băng keo trong cuộn lớn (combo 6 cuộn) sl nhiều, gửi chành xe cuối tuần hoặc đầu tuần sau (sl: 2), đừng gọi giờ nghỉ trưa 12h-13h",Low,Completed,2026-11-01 13:40:09,2026-11-03 12:55:09
+619,Van phong Luat A Dong,"Khách đặt Ghế công thái học văn phòng màu xám, chọn giao hàng tiết kiệm",Medium,Processing,2026-11-01 14:01:11,2026-11-01 15:44:11
+620,Hoàng Xuân Vy,"Noi chien khong dau Philips 6.2L + Op lung silicon trong suot iPhone 15 (bao hanh 12 thang), giao tan noi, cho kiem hang truoc khi thanh toan (SL: 3)",Medium,Completed,2026-11-01 14:22:42,2026-11-03 11:03:42
+621,Phan Thảo Tuấn,"bình đun siêu tốc lock&lock 1.7l, giao ở địa chỉ công ty từ thứ 2 đến thứ 6...",Medium,Completed,2026-11-01 14:38:20,2026-11-02 12:55:20
+622,Đinh Thành Trí,"ship gấp bộ kit test nhanh y tế (hộp 25 test) tới phòng khám trước 15h, gọi trước khi tới",High,Completed,2026-11-01 15:08:16,2026-11-02 01:05:16
+623,Huỳnh Tuấn,"Quà tặng kèm / mẫu thử: Túi đựng rác tự hủy cuộn 3 cái, Móc khóa mica in hình ngẫu nhiên, đi đơn bưu điện thường (SL: 4)",Low,Completed,2026-11-01 15:48:07,2026-11-03 23:46:07
+624,Ngô Phương Quang,"can gap iphone 15 pro 128gb, he thong cong ty dang gian doan cho thiet bi thay the. note: giao dung mau nhu hinh",High,Processing,2026-11-01 15:53:04,2026-11-02 11:00:04
+625,Lý Đức Linh,"Giao hoa toc 2h May tao oxy y te Yuwell 5L, gia dinh dang can gap cho nguoi benh (check ky mau sac giup)",High,Completed,2026-11-01 17:42:00,2026-11-01 19:06:00
+626,Đặng Đức Huyền,"Phụ kiện nhỏ: Giá đỡ điện thoại nhựa gập mini để bàn, giao chung hoặc khi tiện chuyến",Low,Cancelled,2026-11-01 20:58:55,2026-11-02 12:57:55
+627,ta thanh tien,"Đơn VIP: iPad Pro M4 11 inch WiFi, đóng gói chống sốc kỹ giúp, giao tận tay khách",High,Pending,2026-11-02 02:25:29,2026-11-02 02:25:29
+628,co nam,"Hàng đặt trước (pre-order): Móc khóa mica in hình ngẫu nhiên, chờ đủ hàng rồi gửi (SL: 5) (ko giao chủ nhật)",Low,Completed,2026-11-02 07:22:42,2026-11-02 07:46:42
+629,Đào Hữu Nam,"hang dat truoc (pre-order): mieng dan cuong luc man hinh 9d, cho du hang roi gui (sl: 2)",Low,Completed,2026-11-02 14:07:20,2026-11-05 03:49:20
+630,Dương Thị An,"Ghe cong thai hoc vp mau xam, dong goi tieu chuan, goi dien trc khi toi 15p (shipper toi cong goi nhe)",Medium,Completed,2026-11-02 09:57:19,2026-11-04 01:54:19
+631,Trương Ngọc Phong,"Tai nghe Bluetooth Sony WH-CH720N den, giao o dia chi cong ty tu thu 2 den thu 6",Medium,Completed,2026-11-02 14:22:59,2026-11-04 20:12:59
+632,Đặng Minh,"đơn shopee/web: váy hoa nhí dáng xòe size s, phí ship bình thường",Medium,Completed,2026-11-03 07:39:49,2026-11-04 04:31:49
+633,Vũ Thị My,"quan jeans nam dang suong levi's size 31 (bao hanh 12 thang), giao tan noi, cho kiem hang truoc khi thanh toan, khach hay ban hop, nt zalo neu ko goi dc",Medium,Completed,2026-11-03 07:43:22,2026-11-06 01:49:22
+634,Spa Dưỡng Sinh Hoa Sen,"Giao hỏa tốc 2h Máy đo huyết áp bắp tay Omron HEM-7156, gia đình đang cần gấp cho người bệnh (SL: 2)",High,Completed,2026-11-03 10:16:37,2026-11-04 02:35:37
+635,Mai Ngọc Vinh,"Máy lọc không khí Xiaomi Air Purifier 4, đóng gói tiêu chuẩn, gọi điện trước khi tới 15p",Medium,Completed,2026-11-03 12:39:10,2026-11-07 11:19:10
+636,Lý Trung Hà,"Quà tặng kèm / mẫu thử: Tất cổ ngắn nam cotton (set 5 đôi), đi đơn bưu điện thường (SL: 2). Note: đừng gọi giờ nghỉ trưa 12h-13h",Low,Completed,2026-11-03 16:43:40,2026-11-05 08:47:40
+637,Ngô Thanh Anh,"Lấy Bộ chén dĩa gốm sứ Minh Long 10 món, giao trước 5h chiều trong tuần này là ổn",Medium,Cancelled,2026-11-03 20:57:17,2026-11-04 20:26:17
+638,Trịnh Lan Đạt,"Dong ho Tissot Le Locle Automatic nguyen seal chinh hang, gia tri cao, nho kiem tra ky truoc khi xuat kho nhé",High,Completed,2026-11-04 02:51:54,2026-11-04 14:04:54
+639,Huỳnh Cường,"Quần jeans nam dáng suông Levi's size 31, giao ở địa chỉ công ty từ thứ 2 đến thứ 6 (SL: 5) nhé",Medium,Completed,2026-11-04 08:05:41,2026-11-04 21:55:41
+640,Duong Thi Viet,"đơn tiêu chuẩn: nước tẩy trang bioderma 500ml nắp hồng, giao h hành chính giúp mình (khách hay bận họp, nt zalo nếu ko gọi đc)",Medium,Completed,2026-11-04 09:22:18,2026-11-05 13:39:18
+641,Đinh Minh Nhân,"Yêu cầu xuất hđ đỏ + giao hỏa tốc Laptop Dell XPS 13 tới văn phòng trc 16h30, kèm túi đựng nếu có",High,Completed,2026-11-04 09:58:37,2026-11-04 16:18:37
+642,Dương Hữu Tâm,"Hàng gom order nước ngoài: Cáp sạc nhanh Type-C dài 1m bọc dù, dự kiến 2-3 tuần nữa giao",Low,Processing,2026-11-04 10:44:53,2026-11-05 09:59:53
+643,Dương Thị Tú,"Can gap Laptop Lenovo ThinkPad X1 Carbon, he thong cong ty dang gian doan cho thiet bi thay the",High,Completed,2026-11-04 14:03:18,2026-11-04 23:42:18
+644,Lý Nhân,"May say toc ion am Panasonic 1800W, giao o dia chi cong ty tu thu 2 den thu 6",Medium,Completed,2026-11-04 17:13:27,2026-11-07 07:18:27
+645,Hoàng Bảo Chi,"Phụ kiện nhỏ: Sticker trang trí sổ tay (set 5 tấm), giao chung hoặc khi tiện chuyến (check kỹ màu sắc giúp)",Low,Completed,2026-11-04 14:55:29,2026-11-08 12:24:29
+646,Mai Bảo Hiếu,"đặt thêm miếng dán cường lực màn hình 9d dự phòng trong kho, tuần sau giao cũng được",Low,Completed,2026-11-04 18:35:06,2026-11-05 21:27:06
+647,Spa Dưỡng Sinh Hoa Sen,"Đơn y tế khẩn cấp: Hộp sữa công thức NAN Optipro số 1 800g, ưu tiên chuyển ngay trong buổi sáng (SL: 3)",High,Completed,2026-11-04 20:32:37,2026-11-05 07:26:37
+648,Chú Khánh,ghế công thái học văn phòng màu xám + Nồi cơm điện tử Toshiba 1.8L - khách dặn cuối tuần ở nhà mới nhận được,Medium,Completed,2026-11-04 22:14:08,2026-11-05 04:32:08
+649,Phan Thành Huyền,"Đặt thêm Tờ rơi catalogue sản phẩm mới 2026, Giá đỡ điện thoại nhựa gập mini để bàn dự phòng trong kho, tuần sau giao cũng được. Note: shipper tới cổng gọi nhé",Low,Completed,2026-11-05 08:21:52,2026-11-09 05:10:52
+650,Dương Vy,"Khách báo hết Insulin bút tiêm bảo quản lạnh, nhờ giao sớm nhất có thể trong ngày",High,Completed,2026-11-05 09:48:05,2026-11-05 10:59:05
+651,Đặng Thành Minh,"Gửi Nước tẩy trang Bioderma 500ml nắp hồng, chiều mai hoặc ngày kia giao đều ok, shipper tới cổng gọi nhé",Medium,Completed,2026-11-05 10:02:26,2026-11-06 10:03:26
+652,Dương Thảo Nhung,"Giày sneaker Adidas Ultraboost trắng size 38 (bảo hành 12 tháng)  giao tận nơi, cho kiểm hàng trước khi thanh toán",Medium,Completed,2026-11-05 14:32:07,2026-11-08 05:18:07
+653,Huỳnh Huy,"Lấy Tai nghe Bluetooth Sony WH-CH720N đen, giao trc 5h chiều trong tuần này là ổn",Medium,Completed,2026-11-05 15:50:47,2026-11-08 03:41:47
+654,Quán Cà Phê Góc Phố,"Laptop Dell XPS 13 nguyên seal chính hãng, giá trị cao, nhớ kiểm tra kỹ trước khi xuất kho",High,Cancelled,2026-11-05 16:59:13,2026-11-06 20:03:13
+655,Văn phòng Luật Á Đông,Bình đun siêu tốc Lock&Lock 1.7L - khách dặn cuối tuần ở nhà mới nhận được,Medium,Completed,2026-11-05 17:19:53,2026-11-08 00:54:53
+656,Bui Trung Dung,"Don tieu chuan: Nuoc tay trang Bioderma 500ml nap hong, giao gio hanh chinh giup minh",Medium,Completed,2026-11-05 20:14:37,2026-11-06 22:56:37
+657,Hoàng Hoài Phúc,"Gửi Chuột không dây Logitech MX Master 3S, chiều mai hoặc ngày kia giao đều ok",Medium,Completed,2026-11-05 21:10:23,2026-11-06 22:09:23
+658,Nguyen Quoc Thu,"Đặt thêm Cáp sạc nhanh Type-C dài 1m bọc dù dự phòng trong kho, tuần sau giao cũng đc",Low,Completed,2026-11-05 22:22:54,2026-11-09 08:00:54
+659,Dương Bảo Khoa,"Cần gấp CPU Intel Core i9 14900K, hệ thống công ty đang gián đoạn chờ thiết bị thay thế - gọi trc khi giao",High,Completed,2026-11-06 01:57:31,2026-11-06 05:34:31
+660,Trịnh Xuân An,"Qua tang kem / mau thu: Goi sample kem duong am 5ml, di don buu dien thuong (SL: 3)",Low,Completed,2026-11-06 03:44:18,2026-11-09 01:41:18
+661,Huỳnh Khánh Tuyết,"Lấy Áo polo nam vải cá sấu màu xanh navy size M, giao trc 5h chiều trong tuần này là ổn",Medium,Completed,2026-11-06 08:03:56,2026-11-07 23:22:56
+662,Dương Minh Thu,"Mua sỉ Túi zip trong suốt 100 chiếc size nhỏ, Kẹp tóc càng cua nhám Hàn Quốc số lượng nhiều, gửi chành xe cuối tuần hoặc đầu tuần sau",Low,Completed,2026-11-06 09:00:22,2026-11-08 22:24:22
+663,vu thanh hoang,"Dat mua Ghe cong thai hoc van phong mau xam, giao hang tieu chuan 2-3 ngay la duoc (SL: 2)",Low,Completed,2026-11-06 09:12:47,2026-11-07 21:27:47
+664,Đinh Kiên,"Mua Bình đun siêu tốc Lock&Lock 1.7L dùng gia đình, đóng gói cẩn thận chút nhé shop",Medium,Completed,2026-11-06 10:25:39,2026-11-09 15:06:39
+665,Phạm Phương Châu,"Lấy Balo laptop chống nước Tigernu 15.6 inch, giao trước 5h chiều trong tuần này là ổn, check kỹ màu sắc giúp",Medium,Completed,2026-11-06 12:54:15,2026-11-10 11:55:15
+668,Võ Anh Bình,Lấy Bộ chén dĩa gốm sứ Minh Long 10 món  giao trước 5h chiều trong tuần này là ổn,Medium,Completed,2026-11-06 16:19:02,2026-11-08 17:26:02
+669,Đinh Lan Hoài,"Đơn xả kho giá rẻ: Giá đỡ điện thoại nhựa gập mini để bàn, không gấpp. Note: check kỹ màu sắc giúp",Low,Completed,2026-11-06 17:22:20,2026-11-10 11:24:20
+670,Nguyễn Minh Hoàng,"Loa Bluetooth JBL Flip 6, đóng gói tiêu chuẩn, gọi điện trước khi tới 15p",Medium,Completed,2026-11-06 17:24:02,2026-11-08 14:55:02
+671,Mai Huu Nguyen,"Đơn đặc biệt cho hội thảo chiều nay: Laptop Lenovo ThinkPad X1 Carbon, phải giao trước 14h - gọi trc khi giao",High,Completed,2026-11-06 17:59:34,2026-11-07 02:48:34
+672,Trần Đạt,"Gửi Máy lọc không khí Xiaomi Air Purifier 4 + Ghế công thái học văn phòng màu xám, chiều mai hoặc ngày kia giao đều ok",Medium,Processing,2026-11-06 22:24:39,2026-11-07 17:51:39
+673,Huỳnh Hữu Huyền,"khách báo hết Máy tạo oxy y tế Yuwell 5L, nhờ giao sớm nhất có thể trong ngày",High,Completed,2026-11-07 00:29:16,2026-11-07 12:41:16
+674,Le Chi,"Gui Balo laptop chong nuoc Tigernu 15.6 inch, chieu mai hoac ngay kia giao deu ok",Medium,Completed,2026-11-07 01:52:11,2026-11-09 02:16:11
+675,Tạ Anh Phúc,"qua tang kem / mau thu: gia do dien thoai nhua gap mini de ban, di don buu dien thuong (sl: 5)",Low,Cancelled,2026-11-07 03:10:12,2026-11-08 12:45:12
+676,Đào Thu My,Bánh kem sinh nhật 2 tầng mẫu hoa tươi giao hỏa tốc trong ngày kẻo hư hỏng (SL: 2),High,Processing,2026-11-07 06:03:44,2026-11-07 23:20:44
+677,Cửa hàng Điện máy Tuấn Kiệt,"Gui Sua rua mat La Roche-Posay 400ml, chieu mai hoac ngay kia giao deu ok",Medium,Completed,2026-11-07 09:35:29,2026-11-10 09:37:29
+678,Trần Văn Sơn,"Mua MacBook Pro 14 inch M3 Pro trả góp, không cần gấp, giao tiêu chuẩn 3-4 ngày (SL: 4) - khách hay bận họp, nt zalo nếu ko gọi đc",Medium,Cancelled,2026-11-07 10:24:10,2026-11-09 02:56:10
+679,Hoàng Bảo Trung,"gửi bàn phím cơ akko 3087 switch brown, chiều mai hoặc ngày kia giao đều ok",Medium,Completed,2026-11-07 10:44:56,2026-11-10 23:54:56
+680,Nhà thuốc Gia Hân,"Bộ chén dĩa gốm sứ Minh Long 10 món dùng cho tiệc tối nay ở nhà hàng, nhờ giao gấp trước 17h",High,Completed,2026-11-07 11:57:29,2026-11-07 17:09:29
+681,A. Quân - Gò Vấp,"Don shopee/web: Ghe cong thai hoc van phong mau xam, phi ship binh thuong",Medium,Completed,2026-11-07 15:17:12,2026-11-08 15:28:12
+682,Vũ Hữu Đạt,"Mua Ban ui hoi nuoc cam tay Tefal + Xap 5 tap giay note vang dan tuong dung gia dinh, dong goi can than chut nhe shop",Medium,Cancelled,2026-11-07 15:53:34,2026-11-08 12:24:34
+683,CHỊ HẠNH,Chuột không dây Logitech MX Master 3S - khách dặn cuối tuần ở nhà mới nhận được,Medium,Completed,2026-11-07 16:47:50,2026-11-10 06:27:50
+684,Phan Minh My,"Máy chiếu 4K ViewSonic cho phòng họp - hàng dễ vỡ giá trị cao, yêu cầu shipper gọi trc khi giao (SL: 5) - ko giao chủ nhật",High,Completed,2026-11-07 17:43:15,2026-11-08 09:31:15
+685,Nguyễn Quốc Kiên,"Phụ kiện giá rẻ Túi zip trong suốt 100 chiếc size nhỏ, Xấp 5 tập giấy note vàng dán tường, ship chậm miễn sao không thất lạc là đc (SL: 2)...",Low,Completed,2026-11-07 18:07:48,2026-11-08 22:58:48
+686,Vũ Lan Vy,"Mua Balo laptop chống nước Tigernu 15.6 inch dùng gia đình, đóng gói cẩn thận chút nhé shop",Medium,Cancelled,2026-11-07 18:30:42,2026-11-08 06:28:42
+687,Ly Anh Duc,"Khach dat Ao so mi nam cong so Aristino size L trang, chon giao hang tiet kiem",Medium,Completed,2026-11-07 19:59:08,2026-11-08 00:51:08
+688,Phan Văn Tú,"Combo Túi đựng rác tự hủy cuộn 3 cái + Sữa rửa mặt La Roche-Posay 400ml, giao bình thường lúc nào tiện thì nhận",Low,Completed,2026-11-07 22:40:33,2026-11-09 19:40:33
+689,Quan Ca Phe Goc Pho,"Don online thuong: Ban ui hoi nuoc cam tay Tefal, khong can giao gap",Medium,Completed,2026-11-08 00:30:30,2026-11-10 04:38:30
+690,Đặng Thị Khánh,"Gửi Nồi chiên không dầu Philips 6.2L, chiều mai hoặc ngày kia giao đều ok",Medium,Cancelled,2026-11-08 10:10:45,2026-11-08 23:47:45
+691,Vũ Bảo Tiến,Nước yến sào cao cấp hộp 12 hũ làm quà biếu giao hỏa tốc trong ngày kẻo hư hỏng,High,Processing,2026-11-08 15:10:09,2026-11-09 14:29:09
+692,Võ Đức Anh,"Đơn tiêu chuẩn: Kem chống nắng Anessa SPF50+ 60ml, giao giờ hành chính giúp mình",Medium,Cancelled,2026-11-08 15:34:06,2026-11-10 03:31:06
+693,Ngô Vũ,"Phụ kiện nhỏ: Gói sample kem dưỡng ẩm 5ml, giao chung hoặc khi tiện chuyến (ko giao chủ nhật)",Low,Completed,2026-11-08 17:31:12,2026-11-10 14:36:12
+694,do khanh long,"hang gom order nuoc ngoai: hop 20 cay but bi thien long muc xanh 0.5mm, du kien 2-3 tuan nua giao (kem tui dung neu co)",Low,Completed,2026-11-08 18:05:32,2026-11-09 07:10:32
+695,Bùi Hữu Kiên,"Lay Tai nghe Bluetooth Sony WH-CH720N den, giao trc 5h chieu trong tuan nay la on",Medium,Cancelled,2026-11-08 19:16:16,2026-11-10 00:03:16
+696,truong quoc son,"Hàng gom order nước ngoài: Gói sample kem dưỡng ẩm 5ml, dự kiến 2-3 tuần nữa giao (nhờ bảo vệ nhận hộ nếu ko nghe máy)",Low,Completed,2026-11-08 21:31:07,2026-11-10 23:11:07
+697,Trương Bảo Quang,"Khách báo hết Bộ kit test nhanh y tế (hộp 25 test), nhờ giao sớm nhất có thể trong ngày",High,Completed,2026-11-08 21:44:53,2026-11-09 09:39:53
+698,Vũ Đức Quỳnh,"Đơn VIP: iPhone 15 Pro 128GB, đóng gói chống sốc kỹ giúp, giao tận tay khách (SL: 3)",High,Completed,2026-11-08 21:54:31,2026-11-09 15:23:31
+699,Cô Bảo,"Đơn tiêu chuẩn: Bàn phím cơ Akko 3087 switch Brown, giao giờ hành chính giúp mình (đừng gọi giờ nghỉ trưa 12h-13h)",Medium,Processing,2026-11-08 22:24:37,2026-11-09 15:46:37
+700,Do Hoai Viet,lang hoa tuoi khai truong kem thiep giao hoa toc trong ngay keo hu hong ạ,High,Completed,2026-11-08 22:45:08,2026-11-09 15:46:08
+701,Ho Huu Trang,Cá hồi Na Uy tươi phi lê 2kg ướp lạnh giao hỏa tốc trong ngày kẻo hư hỏng,High,Cancelled,2026-11-09 08:33:25,2026-11-10 23:35:25
+702,Phan Phuong Duc,"Ship nhanh trong 2h Thùng hải sản tươi sống (tôm hùm + cua Cà Mau), khách cần gấp tiếp khách",High,Completed,2026-11-09 08:41:30,2026-11-09 09:38:30
+703,Chu Thu,"Tai lieu hop dong gap kem CPU Intel Core i9 14900K, chuyen phat nhanh trong 4h. Note: giao dung mau nhu hinh",High,Completed,2026-11-09 09:26:10,2026-11-09 18:36:10
+704,Tạ Thanh Long,"Giày sneaker Adidas Ultraboost trắng size 38, khách cần gấp mang đi du lịch sáng mai",High,Cancelled,2026-11-09 13:51:56,2026-11-11 11:16:56
+705,Đào Hữu Tân,"đặt thêm tất cổ ngắn nam cotton (set 5 đôi) dự phòng trong kho, tuần sau giao cũng được",Low,Completed,2026-11-09 14:49:57,2026-11-12 20:06:57
+706,Đào Đức Yến,"Giao hỏa tốc 2h iPad Pro M4 11 inch WiFi, khách đang cần gấp trong sáng nay",High,Cancelled,2026-11-09 16:36:19,2026-11-09 21:30:19
+707,Cty TNHH Minh Phat,"Vật tư tiêu hao cho văn phòng: Túi zip trong suốt 100 chiếc size nhỏ, giao lúc nào cũng được",Low,Completed,2026-11-09 16:48:29,2026-11-10 06:25:29
+708,Hồ Kim Nhi,"Vật tư tiêu hao cho vp: Tất cổ ngắn nam cotton (set 5 đôi), giao lúc nào cũng được (ko giao chủ nhật)",Low,Completed,2026-11-09 17:48:19,2026-11-10 22:10:19
+709,Cô Thúy,"ship gấp máy đo huyết áp bắp tay omron hem-7156 tới phòng khám trc 15h, gọi trc khi tới (sl: 3)",High,Cancelled,2026-11-09 17:49:07,2026-11-09 21:12:07
+710,Spa Duong Sinh Hoa Sen,"Giao hoa toc 2h Dong ho Tissot Le Locle Automatic, khach dang can gap trong sang nay",High,Completed,2026-11-09 19:24:14,2026-11-10 01:06:14
+711,Lý Thu Hiếu,"Don tieu chuan: Vay hoa nhi dang xoe size S + May say toc ion am Panasonic 1800W, giao gio hanh chinh giup minh",Medium,Completed,2026-11-09 20:55:00,2026-11-12 10:29:00
+712,Chị Thịnh,"Giao gấp trước 11h30 trưa nay: Nước yến sào cao cấp hộp 12 hũ làm quà biếu, đóng gói cẩn thận tránh nghiêng đổ",High,Completed,2026-11-09 21:59:58,2026-11-10 15:41:58
+714,Trần Thu Đức,"Hàng đặt trước (pre-order): Ốp lưng silicon trong suốt iPhone 15, chờ đủ hàng rồi gửi",Low,Completed,2026-11-09 22:53:31,2026-11-10 04:27:31
+716,CÔ TRÚC - Q1,"quà tặng kèm / mẫu thử: kẹp tóc càng cua nhám hàn quốc, đi đơn bưu điện thường (sl: 2)",Low,Completed,2026-11-10 08:26:18,2026-11-12 00:46:18
+717,Vũ Bảo Toàn,"Khách báo hết Thuốc kê đơn + vật tư thay băng y tế, nhờ giao sớm nhất có thể trong ngày",High,Completed,2026-11-10 11:41:29,2026-11-10 17:30:29
+718,Phan Lan Thúy,"laptop lenovo thinkpad x1 carbon nguyen seal chinh hang, gia tri cao, nho kiem tra ky truoc khi xuat kho (sl: 5)",High,Completed,2026-11-10 12:15:42,2026-11-10 15:15:42
+719,Văn phòng Luật Á Đông,"hàng gom order nước ngoài: xấp 5 tập giấy note vàng dán tường, dự kiến 2-3 tuần nữa giao, khách hay bận họp, nt zalo nếu ko gọi đc",Low,Completed,2026-11-10 13:50:08,2026-11-13 14:45:08
+720,Bùi Thảo Phong,"Đơn online thường: Máy sấy tóc ion âm Panasonic 1800W, không cần giao gấp",Medium,Pending,2026-11-10 14:51:00,2026-11-10 14:51:00
+721,Ngo Duc Trang,"Khách hỏi mua Nước tẩy trang Bioderma 500ml nắp hồng, thanh toán COD khi nhận hàng (kèm túi đựng nếu có)",Medium,Cancelled,2026-11-10 15:41:02,2026-11-10 19:07:02
+722,Bùi Hoài Nhung,"đơn tiêu chuẩn: bàn ủi hơi nước cầm tay tefal, giao h hc giúp mình",Medium,Completed,2026-11-10 16:07:02,2026-11-11 04:06:02
+723,Mai Bảo Hạnh,"Tài liệu hợp đồng gấp kèm Laptop Dell XPS 13, chuyển phát nhanh trong 4h",High,Completed,2026-11-10 19:13:27,2026-11-10 21:38:27
+724,Đào Thảo Hoài,"Khách đặt Tai nghe Bluetooth Sony WH-CH720N đen, chọn giao hàng tiết kiệm",Medium,Completed,2026-11-10 20:34:54,2026-11-14 13:58:54
+725,Dao Bao Phuc,"Don uu tien: Man hinh Dell UltraSharp 27 inch 4K, khach quen da chuyen khoan full, ship ngay, giao dung mau nhu hinh",High,Pending,2026-11-11 00:24:38,2026-11-11 00:24:38
+726,A. Hằng - Gò Vấp,"Vat tu tieu hao cho van phong: Sticker trang tri so tay (set 5 tam), giao luc nao cung duoc (SL: 2) - kem tui dung neu co",Low,Completed,2026-11-11 03:29:51,2026-11-11 20:58:51
+727,Nguyễn Văn Long,"Quà tặng kèm / mẫu thử: Móc khóa mica in hình ngẫu nhiên, Hộp 20 cây bút bi Thiên Long mực xanh 0.5mm, đi đơn bưu điện thường (giao đúng mẫu như hình)",Low,Pending,2026-11-11 06:29:44,2026-11-11 06:29:44
+728,Hoàng Minh An,"Giao hoa toc 2h Man hinh Dell UltraSharp 27 inch 4K, khach dang can gap trong sang nay",High,Processing,2026-11-11 06:30:33,2026-11-11 18:12:33
+729,Van phong Luat A Dong,Mua Sua rua mat La Roche-Posay 400ml dung gia dinh  dong goi can than chut nhe shop,Medium,Completed,2026-11-11 07:54:49,2026-11-11 23:14:49
+730,Trương Xuân Hạnh,"Đơn VIP: Card màn hình RTX 4080 Super, đóng gói chống sốc kỹ giúp, giao tận tay khách",High,Completed,2026-11-11 08:06:13,2026-11-11 10:39:13
+731,Văn phòng Luật Á Đông,"máy lọc không khí xiaomi air purifier 4, giao ở địa chỉ công ty từ thứ 2 đến thứ 6",Medium,Completed,2026-11-11 08:07:01,2026-11-14 10:29:01
+732,Tạ Thanh Nguyên,yêu cầu xuất hóa đơn đỏ + giao hỏa tốc macbook air m3 13 inch 16gb/512gb tới văn phòng trước 16h30,High,Completed,2026-11-11 09:23:19,2026-11-11 16:15:19
+733,Trịnh Kim Hạnh,"Giao hoa toc 2h May xong khi dung Omron cho be, gia dinh dang can gap cho nguoi benh - shipper toi cong goi nhe",High,Completed,2026-11-11 10:58:30,2026-11-11 22:31:30
+734,Ngô Thu Hương,"Balo laptop chong nuoc Tigernu 15.6 inch  dong goi tieu chuan, goi dien truoc khi toi 15p (SL: 2)",Medium,Completed,2026-11-11 11:20:55,2026-11-14 08:23:55
+735,Lê Hoàng Việt,"Đơn ưu tiên: Laptop Dell XPS 13, khách quen đã chuyển khoản full, ship ngay",High,Completed,2026-11-11 11:27:53,2026-11-11 15:22:53
+736,Do Minh Quang,"Phụ kiện giá rẻ Sticker trang trí sổ tay (set 5 tấm), ship chậm miễn sao ko thất lạc là đc. Note: giao đúng mẫu như hình",Low,Completed,2026-11-11 11:28:41,2026-11-12 00:49:41
+737,trinh thanh hang,"don xa kho gia re: Mieng dan cuong luc man hinh 9D, Tat co ngan nam cotton (set 5 doi), khong gap",Low,Cancelled,2026-11-11 11:36:51,2026-11-12 17:38:51
+738,Lê Khánh Tú,"khách hỏi mua bàn phím cơ akko 3087 switch brown, thanh toán cod khi nhận hàng (sl: 4)",Medium,Completed,2026-11-11 12:11:40,2026-11-14 21:04:40
+739,TRƯƠNG BẢO TRÚC,"Đơn tiêu chuẩn: Giày chạy bộ Nike Pegasus 40 size 42, giao giờ hành chính giúp mình (kèm túi đựng nếu có)",Medium,Completed,2026-11-11 13:48:06,2026-11-13 16:22:06
+740,Lê Thảo Thơ,"Phụ kiện giá rẻ Sticker trang trí sổ tay (set 5 tấm), ship chậm miễn sao ko thất lạc là đc - shipper tới cổng gọi nhé",Low,Completed,2026-11-11 13:57:15,2026-11-14 23:21:15
+741,Võ Bảo Ngọc,đơn tiêu chuẩn: bộ ga gối cotton hàn quốc 1m8x2m  giao giờ hành chính giúp mình,Medium,Processing,2026-11-11 14:03:56,2026-11-11 16:31:56
+742,Mai Xuân Tú,"phu kien nho: kep toc cang cua nham han quoc, giao chung hoac khi tien chuyen (sl: 5)",Low,Completed,2026-11-11 14:48:10,2026-11-13 05:45:10
+743,Nguyễn Gia Nam,giao hỏa tốc 2h macbook air m3 13 inch 16gb/512gb  khách đang cần gấp trong sáng nay,High,Cancelled,2026-11-11 14:51:01,2026-11-11 15:03:01
+744,Ngô Ngọc Thịnh,"Khach dat Quan jeans nam dang suong Levi's size 31, chon giao hang tiet kiem",Medium,Completed,2026-11-11 15:18:19,2026-11-13 20:37:19
+745,Cô Huyền - Gò Vấp,"Ship nhanh trong 2h Cá hồi Na Uy tươi phi lê 2kg ướp lạnh, khách cần gấp tiếp khách",High,Cancelled,2026-11-11 15:35:52,2026-11-13 01:19:52
+746,Tạ Bảo Vy,Đổi trả bảo hành gấp: Màn hình Dell UltraSharp 27 inch 4K khách cần nhận lại ngay trong hôm nay,High,Completed,2026-11-11 15:56:58,2026-11-12 18:25:58
+747,Tạ Hoài Quỳnh,"Gửi Lò vi sóng Sharp có nướng 20L, chiều mai hoặc ngày kia giao đều ok (thu hộ COD)",Medium,Cancelled,2026-11-11 15:52:46,2026-11-12 09:16:46
+748,Võ Nhi,"Khách đặt Nồi chiên không dầu Philips 6.2L + Túi zip trong suốt 100 chiếc size nhỏ, chọn giao hàng tiết kiệm",Medium,Completed,2026-11-11 16:52:40,2026-11-13 22:32:40
+749,duong hoang hoang,"hàng gom order nước ngoài: cáp sạc nhanh type-c dài 1m bọc dù, dự kiến 2-3 tuần nữa giao",Low,Completed,2026-11-11 17:02:13,2026-11-13 19:00:13
+750,Mai Hoài An,"Đơn xả kho giá rẻ: Sticker trang trí sổ tay (set 5 tấm), không gấp",Low,Completed,2026-11-11 17:03:51,2026-11-15 08:39:51
+751,Lý Minh Hà,"Vat tu tieu hao cho van phong: Tui dung rac tu huy cuon 3 cai, Cap sac nhanh Type-C dai 1m boc du, giao luc nao cung dc",Low,Completed,2026-11-11 18:09:23,2026-11-14 12:30:23
+752,dang hoai vu,"Quà tặng kèm / mẫu thử: Khăn lau kính mắt chuyên dụng hộp 10 miếng, đi đơn bưu điện thường. Note: ko giao chủ nhật",Low,Completed,2026-11-11 20:18:59,2026-11-12 02:04:59
+753,Hồ Anh Yến,"Tài liệu hợp đồng gấp kèm iPhone 16 Pro Max 256GB Titan Tự Nhiên, chuyển phát nhanh trong 4h",High,Processing,2026-11-11 19:13:05,2026-11-12 02:19:05
+754,Dương Thị An,"bình đun siêu tốc lock&lock 1.7l, đóng gói tiêu chuẩn, gọi điện trước khi tới 15p",Medium,Cancelled,2026-11-11 21:04:01,2026-11-13 01:54:01
+755,Mai Thịnh,"mua sỉ tất cổ ngắn nam cotton (set 5 đôi) số lượng nhiều, gửi chành xe cuối tuần hoặc đầu tuần sau",Low,Completed,2026-11-11 21:31:33,2026-11-13 13:27:33
+756,Tạ Bảo Tân,"Cần gấp Laptop Lenovo ThinkPad X1 Carbon, hệ thống công ty đang gián đoạn chờ thiết bị thay thế (SL: 4)",High,Completed,2026-11-11 21:55:06,2026-11-12 14:45:06
+757,Dinh Minh Kien,"Lấy Quần jeans nam dáng suông Levi's size 31, giao trước 5h chiều trong tuần này là ổn",Medium,Completed,2026-11-11 22:42:36,2026-11-15 16:06:36
+758,Trịnh Hoài Giang,Tai nghe Bluetooth Sony WH-CH720N đen - khách dặn cuối tuần ở nhà mới nhận được (SL: 5) - thu hộ COD,Medium,Completed,2026-11-11 22:38:53,2026-11-15 10:22:53
+759,ly bao khoa,"nước tẩy trang bioderma 500ml nắp hồng (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán",Medium,Pending,2026-11-11 22:47:38,2026-11-11 22:47:38
+760,Mai Ngoc Duong,"Khách hỏi mua Bàn ủi hơi nước cầm tay Tefal, thanh toán COD khi nhận hàng",Medium,Completed,2026-11-11 22:50:11,2026-11-15 04:29:11
+761,Lê Hoài,"Gửi Bộ ga gối cotton Hàn Quốc 1m8x2m, chiều mai hoặc ngày kia giao đều ok",Medium,Completed,2026-11-12 09:24:08,2026-11-12 22:24:08
+762,Chị Hùng - Q3,"Khách báo hết Máy đo huyết áp bắp tay Omron HEM-7156, nhờ giao sớm nhất có thể trong ngày, nhờ bảo vệ nhận hộ nếu ko nghe máy",High,Cancelled,2026-11-12 09:22:38,2026-11-13 05:25:38
+763,Phạm Thị Vy,"Bàn phím cơ Akko 3087 switch Brown, đóng gói tiêu chuẩn, gọi điện trước khi tới 15p. Note: thu hộ COD",Medium,Completed,2026-11-12 09:25:08,2026-11-14 22:44:08
+764,Ngô Khánh Trung,"Khách đặt Quần jeans nam dáng suông Levi's size 31 + Áo sơ mi nam công sở Aristino size L trắng, chọn giao hàng tiết kiệm",High,Cancelled,2026-11-12 13:17:41,2026-11-13 03:16:41
+765,Lê Phương Dương,Đơn đặt Máy chiếu 4K ViewSonic cho phòng họp chờ hàng về kho cuối tháng (SL: 4),Medium,Pending,2026-11-12 13:52:26,2026-11-12 13:52:26
+766,Trương Hoài Hoài,"Đơn xả kho giá rẻ: Tờ rơi catalogue sản phẩm mới 2026, không gấpp",Low,Completed,2026-11-12 13:53:28,2026-11-16 01:43:28
+767,Huỳnh Bảo Tú,"Nước tẩy trang Bioderma 500ml nắp hồng + Bàn ủi hơi nước cầm tay Tefal, giao ở địa chỉ công ty từ thứ 2 đến thứ 6",Medium,Completed,2026-11-12 18:18:23,2026-11-14 18:48:23
+768,Duong Thu Dung,"đơn xả kho giá rẻ: giá đỡ điện thoại nhựa gập mini để bàn, dây buộc tóc thun co giãn túi 200 cái, không gấp",Low,Cancelled,2026-11-12 18:32:10,2026-11-14 01:50:10
+769,Huỳnh Thu Bình,Giày sneaker Adidas Ultraboost trắng size 38 - khách dặn cuối tuần ở nhà mới nhận được (SL: 3) (shipper tới cổng gọi nhé),Medium,Processing,2026-11-12 19:23:17,2026-11-13 04:46:17
+770,Hồ Phương Trung,"Giao hỏa tốc 2h MacBook Pro 14 inch M3 Pro, khách đang cần gấp trong sáng nay, ko giao chủ nhật",High,Completed,2026-11-12 22:14:50,2026-11-13 11:09:50
+771,Dương Phương Thịnh,"Đơn mua thử Móc khóa mica in hình ngẫu nhiên, vận chuyển chậm tiết kiệm cước (SL: 4)",Low,Completed,2026-11-13 02:31:13,2026-11-13 10:37:13
+772,Hoàng Thành Khánh,Đổi trả bảo hành gấp: Card màn hình RTX 4080 Super khách cần nhận lại ngay trong hôm nay,High,Completed,2026-11-13 03:33:32,2026-11-16 17:20:32
+773,Phan Thảo Minh,"Gui Balo laptop chong nuoc Tigernu 15.6 inch, chieu mai hoac ngay kia giao deu ok (giao dung mau nhu hinh)",Medium,Completed,2026-11-13 03:27:58,2026-11-13 11:56:58
+774,CLB Thể hình Titan,"Don y te khan cap: Bo kit test nhanh y te (hop 25 test), uu tien chuyen ngay trong buoi sang",High,Completed,2026-11-13 05:29:38,2026-11-15 13:32:38
+775,Phan Hữu Tuyết,"lấy áo sơ mi nam công sở aristino size l trắng, giao trước 5h chiều trong tuần này là ổn (kèm túi đựng nếu có)",Medium,Completed,2026-11-13 03:43:25,2026-11-13 06:46:25
+776,Cô Đức,"Đặt MacBook Pro 14 inch M3 Pro, nhưng khách đi công tác cuối tuần mới về nên tuần sau hãy giao",Medium,Completed,2026-11-13 08:03:59,2026-11-16 21:16:59
+777,Phạm Trung Tuyết,"Gửi Kem chống nắng Anessa SPF50+ 60ml, chiều mai hoặc ngày kia giao đều ok",Medium,Completed,2026-11-13 09:26:22,2026-11-17 03:57:22
+778,Vũ Phương Bình,"Gửi Bàn ủi hơi nước cầm tay Tefal, chiều mai hoặc ngày kia giao đều ok. Note: thu hộ COD",Medium,Completed,2026-11-13 08:04:26,2026-11-13 09:13:26
+779,Tạ Bảo Hoàng,"Dat mua Lo vi song Sharp co nuong 20L, giao hang tieu chuan 2-3 ngay la duoc (SL: 4)",Medium,Completed,2026-11-13 10:49:48,2026-11-13 19:12:48
+780,Đặng Tiến,"Khach hoi mua Nuoc tay trang Bioderma 500ml nap hong, thanh toan COD khi nhan hang",Medium,Cancelled,2026-11-13 11:38:14,2026-11-14 00:30:14
+781,Đỗ Hữu Tân,Hàng gom order nước ngoài: Móc khóa mica in hình ngẫu nhiên  dự kiến 2-3 tuần nữa giao,Low,Completed,2026-11-13 14:13:49,2026-11-16 13:51:49
+782,Tạ Thanh Long,"Đơn online thường: Bàn phím cơ Akko 3087 switch Brown, không cần giao gấp",Medium,Completed,2026-11-13 14:20:27,2026-11-14 23:44:27
+783,Phạm Minh An,"đơn y tế khẩn cấp: insulin bút tiêm bảo quản lạnh, ưu tiên chuyển ngay trong buổi sáng. note: shipper tới cổng gọi nhé",High,Cancelled,2026-11-13 15:23:30,2026-11-14 04:05:30
+784,Dao Bao Truc,Vay hoa nhi dang xoe size S - khach dan cuoi tuan o nha moi nhan duoc,Medium,Completed,2026-11-13 15:42:19,2026-11-15 12:02:19
+785,Dinh Khanh Quynh,"Đơn mua thử Khăn lau kính mắt chuyên dụng hộp 10 miếng, vận chuyển chậm tiết kiệm cước (SL: 3)",Low,Completed,2026-11-13 19:57:42,2026-11-17 14:00:42
+786,Hồ Trí,"Hàng đặt trước (pre-order): Lót chuột vải size 20x25cm đen trơn, chờ đủ hàng rồi gửi (SL: 4)",Medium,Completed,2026-11-13 20:06:47,2026-11-14 15:01:47
+787,Trần Thành Hải,"Váy hoa nhí dáng xòe size S (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trc khi thanh toán (SL: 2)",Medium,Completed,2026-11-14 04:23:30,2026-11-14 19:44:30
+788,Nguyễn Lan Hiếu,Khách hỏi mua Quần jeans nam dáng suông Levi's size 31  thanh toán COD khi nhận hàng. Note: giao đúng mẫu như hình,Medium,Completed,2026-11-14 09:01:10,2026-11-16 10:01:10
+789,Huỳnh Hoài Vy,"hàng đặt trước (pre-order): Giá đỡ điện thoại nhựa gập mini để bàn, chờ đủ hàng rồi gửi - gọi trc khi giao",Low,Completed,2026-11-14 09:42:15,2026-11-17 12:34:15
+790,Lý Xuân Nga,"bộ ga gối cotton Hàn Quốc 1m8x2m (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán (SL: 4)",Medium,Completed,2026-11-14 12:47:32,2026-11-16 12:38:32
+791,Đào Hữu An,"Dat Moc khoa mica in hinh ngau nhien gap vi dang di cong tac quen mang theo, ship hoa toc toi khach san",High,Completed,2026-11-14 16:39:36,2026-11-15 07:35:36
+793,Cty TNHH Minh Phát,"Khach dat Giay sneaker Adidas Ultraboost trang size 38, chon giao hang tiet kiem",Medium,Completed,2026-11-14 18:36:32,2026-11-18 15:33:32
+794,spa duong sinh hoa sen,bàn phím cơ akko 3087 switch brown - khách dặn cuối tuần ở nhà mới nhận đc,Medium,Completed,2026-11-14 18:50:32,2026-11-17 05:11:32
+795,Lê Thảo Hạnh,"Đơn VIP: Cá hồi Na Uy tươi phi lê 2kg ướp lạnh gửi tặng đối tác, giao tận tay và chụp ảnh xác nhận",High,Processing,2026-11-14 22:58:35,2026-11-15 11:36:35
+796,Võ Bảo Thúy,"Đặt thêm Túi đựng rác tự hủy cuộn 3 cái dự phòng trong kho, tuần sau giao cũng được",Low,Completed,2026-11-15 00:28:49,2026-11-17 05:34:49
+797,Hoàng Lan Khánh,"Gửi Bình đun siêu tốc Lock&Lock 1.7L, chiều mai hoặc ngày kia giao đều ok. Note: ko giao chủ nhật",Medium,Completed,2026-11-15 04:35:29,2026-11-16 02:17:29
+798,dang anh tho,"Don xa kho gia re: Goi sample kem duong am 5ml, khong gap",Low,Completed,2026-11-15 05:49:49,2026-11-19 00:34:49
+799,Dương Ngọc Hiếu,"Don hen gio: Nuoc yen sao cao cap hop 12 hu lam qua bieu, giao dung 18h toi nay cho kip tiec (SL: 5)",High,Completed,2026-11-15 08:32:10,2026-11-15 20:26:10
+800,Pham Minh Hieu,"mua giày sneaker adidas ultraboost trắng size 38 dùng gia đình, đóng gói cẩn thận chút nhé shop",Medium,Completed,2026-11-15 10:46:19,2026-11-16 15:44:19
+801,Ngô Minh Trúc,"qua tang kem / mau thu: cap sac nhanh type-c dai 1m boc du, di don buu dien thuong. note: kem tui dung neu co",Low,Completed,2026-11-15 11:16:40,2026-11-18 08:49:40
+802,CTY TNHH MINH PHÁT,"Mua Ao so mi nam cong so Aristino size L trang dung gia dinh, dong goi can than chut nhe shop - kem tui dung neu co",Medium,Completed,2026-11-15 11:57:34,2026-11-17 10:38:34
+803,vu trung binh,"Chuot khong day Logitech MX Master 3S, dong goi tieu chuan, goi dien truoc khi toi 15p (kem tui dung neu co)",Medium,Completed,2026-11-15 16:29:40,2026-11-17 12:55:40
+804,CLB Thể hình Titan,"Phụ kiện nhỏ: Khăn lau kính mắt chuyên dụng hộp 10 miếng, Lót chuột vải size 20x25cm đen trơn, giao chung hoặc khi tiện chuyến",Low,Completed,2026-11-15 21:46:28,2026-11-17 08:09:28
+805,Trần Minh Vinh,"mua sỉ giá đỡ điện thoại nhựa gập mini để bàn, ốp lưng silicon trong suốt iphone 15 số lượng nhiều, gửi chành xe cuối tuần hoặc đầu tuần sau",Low,Completed,2026-11-15 18:02:24,2026-11-18 16:59:24
+806,Vũ Minh Thúy," Ship gap May tao oxy y te Yuwell 5L toi phong kham truoc 15h, goi truoc khi toi",High,Completed,2026-11-15 21:53:01,2026-11-16 12:10:01
+807,Mai Trung Thơ,"Laptop Dell XPS 13 nguyên seal chính hãng, giá trị cao, nhớ kiểm tra kỹ trc khi xuất kho",High,Completed,2026-11-16 08:49:21,2026-11-16 17:13:21
+808,Hoàng Hữu Tâm,Gửi Bàn ủi hơi nước cầm tay Tefal  chiều mai hoặc ngày kia giao đều ok,Medium,Completed,2026-11-16 10:54:58,2026-11-18 18:56:58
+809,Trịnh Thảo Chi,"phụ kiện giá rẻ gói sample kem dưỡng ẩm 5ml, ship chậm miễn sao ko thất lạc là đc",Low,Completed,2026-11-16 11:34:56,2026-11-19 10:40:56
+810,Hoàng Huyền,"Mua sỉ Miếng dán cường lực màn hình 9D số lượng nhiều, gửi chành xe cuối tuần hoặc đầu tuần sau",Low,Completed,2026-11-16 11:19:02,2026-11-16 15:03:02
+811,Cô Tiến - Cầu Giấy,"Đơn tiêu chuẩn: Bộ ga gối cotton Hàn Quốc 1m8x2m, giao h hành chính giúp mình",Medium,Processing,2026-11-16 11:35:41,2026-11-17 00:36:41
+812,Đào Kim Trí,"Phụ kiện nhỏ: Cáp sạc nhanh Type-C dài 1m bọc dù, giao chung hoặc khi tiện chuyến",Low,Completed,2026-11-16 12:31:14,2026-11-18 10:45:14
+813,Phạm Thu Tú,"dat them to roi catalogue sp moi 2026, tui dung rac tu huy cuon 3 cai du phong trong kho, tuan sau giao cung dc",Low,Cancelled,2026-11-16 14:03:40,2026-11-16 17:39:40
+814,Nguyễn Xuân Thu,"Đơn mua thử Kẹp tóc càng cua nhám Hàn Quốc, vận chuyển chậm tiết kiệm cước. Note: ko giao chủ nhật",Low,Completed,2026-11-16 14:23:00,2026-11-17 19:38:00
+815,Lê Lan Tú,"Đơn VIP: Cá hồi Na Uy tươi phi lê 2kg ướp lạnh gửi tặng đối tác, giao tận tay và chụp ảnh xác nhận",High,Completed,2026-11-16 15:51:38,2026-11-16 16:19:38
+816,Hoàng Thành Ngọc,"Vat tu tieu hao cho van phong: Sticker trang tri so tay (set 5 tam)  Sticker trang tri so tay (set 5 tam), giao luc nao cung duoc",Low,Cancelled,2026-11-16 17:13:47,2026-11-16 19:09:47
+817,C. Nga - Cầu Giấy,"Khach dat Bo chen dia gom su Minh Long 10 mon + Nuoc tay trang Bioderma 500ml nap hong, chon giao hang tiet kiem",Medium,Completed,2026-11-16 17:10:37,2026-11-18 05:55:37
+818,Huynh Kim Ngoc,"Đơn online thường: Áo sơ mi nam công sở Aristino size L trắng, không cần giao gấp",Medium,Completed,2026-11-16 21:11:29,2026-11-20 02:53:29
+819,Nguyễn Phương Dương,"Mua Áo sơ mi nam công sở Aristino size L trắng dùng gia đình, đóng gói cẩn thận chút nhé shop",Medium,Completed,2026-11-17 02:39:57,2026-11-17 21:40:57
+820,Đặng Ngọc Uyên,"Ship gấp Máy xông khí dung Omron cho bé tới phòng khám trước 15h, gọi trước khi tới",High,Cancelled,2026-11-17 08:40:45,2026-11-17 10:25:45
+821,Dương Giang,"Mua Bàn ủi hơi nước cầm tay Tefal dùng gia đình, đóng gói cẩn thận chút nhé shop (nhờ bảo vệ nhận hộ nếu ko nghe máy)",Medium,Completed,2026-11-17 10:55:33,2026-11-21 09:55:33
+822,Trần Thành Hùng,Nước yến sào cao cấp hộp 12 hũ làm quà biếu giao hỏa tốc trong ngày kẻo hư hỏng (SL: 3) - ko giao chủ nhật,High,Completed,2026-11-17 11:12:41,2026-11-17 17:27:41
+823,Pham Thi Thu,"Cần gấp iPad Pro M4 11 inch WiFi, hệ thống công ty đang gián đoạn chờ thiết bị thay thế",High,Completed,2026-11-17 11:30:35,2026-11-17 17:20:35
+824,Võ Lan Hạnh,"lấy nồi cơm điện tử toshiba 1.8l, giao trc 5h chiều trong tuần này là ổn",Medium,Completed,2026-11-17 11:49:00,2026-11-21 02:21:00
+825,TẠ BẢO ĐẠT,"Bộ chén dĩa gốm sứ Minh Long 10 món, đóng gói tiêu chuẩn, gọi điện trước khi tới 15p, thu hộ COD",Medium,Completed,2026-11-17 11:58:00,2026-11-19 21:35:00
+826,huynh khanh nga,"mua tủ lạnh inverter samsung 380l trả góp, ko cần gấp, giao tiêu chuẩn 3-4 ngày, giao đúng mẫu như hình",Medium,Completed,2026-11-17 13:43:05,2026-11-19 17:30:05
+827,Dương Văn Thơ,"Giao hỏa tốc 2h Hộp sữa công thức NAN Optipro số 1 800g, gia đình đang cần gấp cho người bệnh",High,Completed,2026-11-17 14:31:17,2026-11-17 23:40:17
+828,Phan Hoàng Nhân,"Vat tu tieu hao cho van phong: Khan lau kinh mat chuyen dung hop 10 mieng, Sticker trang tri so tay (set 5 tam), giao luc nao cung duoc",Low,Cancelled,2026-11-17 16:53:19,2026-11-18 15:04:19
+829,Dao Thi My," Lấy Giày chạy bộ Nike Pegasus 40 size 42 + Hộp 20 cây bút bi Thiên Long mực xanh 0.5mm, giao trước 5h chiều trong tuần này là ổn (SL 2)",Medium,Completed,2026-11-17 17:07:29,2026-11-21 16:58:29
+830,Shop Me & Be Thao Nguyen,"Don tieu chuan: Ao so mi nam cong so Aristino size L trang, giao gio hanh chinh giup minh",Medium,Completed,2026-11-17 19:54:49,2026-11-20 04:34:49
+831,Hoàng Văn Minh,"Bo ga goi cotton Han Quoc 1m8x2m, dong goi tieu chuan, goi dien trc khi toi 15p, nho bao ve nhan ho neu ko nghe may",Medium,Cancelled,2026-11-17 22:18:36,2026-11-19 10:25:36
+832,Vũ Cường,lò vi sóng Sharp có nướng 20L  giao ở địa chỉ công ty từ thứ 2 đến thứ 6 (SL: 2),Medium,Completed,2026-11-18 02:15:13,2026-11-19 23:01:13
+835,Đặng Thành Hạnh,"Đơn VIP: MacBook Pro 14 inch M3 Pro, đóng gói chống sốc kỹ giúp, giao tận tay khách (SL: 2)",High,Completed,2026-11-18 02:20:12,2026-11-18 11:07:12
+836,Phạm Minh An,"Gửi Balo laptop chống nước Tigernu 15.6 inch, chiều mai hoặc ngày kia giao đều ok",Medium,Processing,2026-11-18 08:23:36,2026-11-19 01:19:36
+837,Trần Xuân Phương,"Don tieu chuan: May say toc ion am Panasonic 1800W, giao gio hanh chinh giup minh",Medium,Completed,2026-11-18 07:27:56,2026-11-21 17:52:56
+838,Đỗ Đức Nhi,"Tai nghe Bluetooth Sony WH-CH720N đen (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán",Medium,Completed,2026-11-18 08:55:16,2026-11-21 07:50:16
+839,Đinh Thị Quỳnh,"Khach VIP than phien don trc giao thieu Op lung silicon trong suot iPhone 15, bu gap trong chieu nay",High,Completed,2026-11-18 09:55:46,2026-11-18 23:53:46
+840,Chú Phúc,"đơn xả kho giá rẻ: xấp 5 tập giấy note vàng dán tường, không gấp !",Low,Completed,2026-11-18 10:53:33,2026-11-22 00:40:33
+841,Phạm Thu Hà,Nuoc yen sao cao cap hop 12 hu lam qua bieu giao hoa toc trong ngay keo hu hong,High,Completed,2026-11-18 11:15:07,2026-11-18 13:42:07
+842,Huỳnh Lan Trang,"Tai lieu hop dong gap kem Dong ho Tissot Le Locle Automatic, chuyen phat nhanh trong 4h",High,Completed,2026-11-18 11:37:28,2026-11-18 16:18:28
+843,Bùi Bảo Yến,"Nồi cơm điện tử Toshiba 1.8L (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán",Medium,Completed,2026-11-18 11:57:55,2026-11-19 18:16:55
+844,mai minh tien,"Quà tặng kèm / mẫu thử: Hộp 20 cây bút bi Thiên Long mực xanh 0.5mm, đi đơn bưu điện thường. Note: nhờ bảo vệ nhận hộ nếu ko nghe máy",Low,Completed,2026-11-18 13:12:47,2026-11-21 04:01:47
+845,Trung tam Anh ngu Horizon,"Mua Ao polo nam vai ca sau mau xanh navy size M dung gia dinh, dong goi can than chut nhe shop (SL: 3)",Medium,Cancelled,2026-11-18 15:04:09,2026-11-19 21:46:09
+846,Trương Xuân Thảo,"Hàng gom order nước ngoài: Kẹp tóc càng cua nhám Hàn Quốc, Cáp sạc nhanh Type-C dài 1m bọc dù, dự kiến 2-3 tuần nữa giao. Note: đừng gọi giờ nghỉ trưa 12h-13h",Low,Completed,2026-11-18 16:07:49,2026-11-19 23:47:49
+847,Trịnh Tùng,"Đơn online thường: Balo laptop chống nước Tigernu 15.6 inch, ko cần giao gấp",Medium,Completed,2026-11-18 19:07:50,2026-11-21 15:15:50
+848,Huynh Ngoc Long,"Đơn đặc biệt cho hội thảo chiều nay: Tủ lạnh Inverter Samsung 380L, phải giao trc 14h",High,Completed,2026-11-18 19:22:04,2026-11-19 08:42:04
+849,Nguyễn Khánh Việt,"Áo sơ mi nam công sở Aristino size L trắng, giao ở địa chỉ công ty từ thứ 2 đến thứ 6",Medium,Completed,2026-11-18 19:48:29,2026-11-22 03:18:29
+850,Ngô Tuyết,"Gửi Nước tẩy trang Bioderma 500ml nắp hồng, chiều mai hoặc ngày kia giao đều ok",Low,Completed,2026-11-18 21:27:06,2026-11-19 07:42:06
+851,Võ Tuấn,"đơn xả kho giá rẻ: giá đỡ điện thoại nhựa gập mini để bàn, không gấp",Low,Completed,2026-11-18 22:48:33,2026-11-22 10:32:33
+852,Trần Lan Thúy,"Bình đun siêu tốc Lock&Lock 1.7L (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trc khi thanh toán",Medium,Completed,2026-11-18 23:41:47,2026-11-22 12:31:47
+853,Duong Minh Hoai,"Lò vi sóng Sharp có nướng 20L, giao ở địa chỉ công ty từ thứ 2 đến thứ 6",Medium,Completed,2026-11-19 08:07:11,2026-11-19 15:17:11
+854,Lê Văn Việt,"Phu kien gia re Tui dung rac tu huy cuon 3 cai, ship cham mien sao khong that lac la dc",Low,Completed,2026-11-19 08:01:44,2026-11-20 20:27:44
+857,Lê Bảo Chi,"Đơn mua thử Băng keo trong cuộn lớn (combo 6 cuộn), vận chuyển chậm tiết kiệm cước (SL: 5)",Low,Completed,2026-11-19 12:19:55,2026-11-21 22:15:55
+858,Bùi Dương,"Gửi Kem chống nắng Anessa SPF50+ 60ml, chiều mai hoặc ngày kia giao đều ok",Medium,Completed,2026-11-19 12:30:52,2026-11-22 20:26:52
+859,Studio Ảnh Cưới Lumi,"Gửi Bình đun siêu tốc Lock&Lock 1.7L, chiều mai hoặc ngày kia giao đều ok",Medium,Completed,2026-11-19 12:53:37,2026-11-21 18:52:37
+860,Võ Gia Tú,"Đơn shopee/web: Áo polo nam vải cá sấu màu xanh navy size M, phí ship bình thường",Medium,Completed,2026-11-19 13:09:36,2026-11-21 16:43:36
+861,pham minh kien,"Mua si Xap 5 tap giay note vang dan tuong so luong nhieu, gui chanh xe cuoi tuan hoac dau tuan sau, goi trc khi giao",Low,Pending,2026-11-19 14:18:31,2026-11-19 14:18:31
+862,Chú Khánh,"giày chạy bộ nike pegasus 40 size 42, đóng gói tiêu chuẩn, gọi điện trc khi tới 15p, kèm túi đựng nếu có",Medium,Cancelled,2026-11-19 15:34:15,2026-11-19 16:01:15
+863,Vũ Thu Yến,"Ghế công thái học văn phòng màu xám (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán",Medium,Completed,2026-11-19 18:04:00,2026-11-22 05:17:00
+864,Trương Thu Thơ,"mua bình đun siêu tốc lock&lock 1.7l dùng gia đình, đóng gói cẩn thận chút nhé shop",Medium,Processing,2026-11-19 22:28:45,2026-11-20 12:55:45
+865,Trương Đức Minh,"Đơn mua thử Tờ rơi catalogue sp mới 2026, vận chuyển chậm tiết kiệm cước",Low,Completed,2026-11-20 00:58:33,2026-11-20 16:52:33
+866,Tạ Bảo,"Đơn online thường: Balo laptop chống nước Tigernu 15.6 inch, ko cần giao gấp (SL: 5)",Medium,Cancelled,2026-11-19 21:03:40,2026-11-21 01:31:40
+867,Nguyễn Gia Nguyên,"Mua sỉ Xấp 5 tập giấy note vàng dán tường số lượng nhiều, gửi chành xe cuối tuần hoặc đầu tuần sau",Low,Processing,2026-11-20 01:14:32,2026-11-20 09:45:32
+870,Nguyễn Quốc Thúy,"Giao gấp trước 11h30 trưa nay: Lẵng hoa tươi khai trương kèm thiệp, đóng gói cẩn thận tránh nghiêng đổ. Note: khách hay bận họp, nt zalo nếu ko gọi đc",High,Completed,2026-11-20 03:31:40,2026-11-20 05:00:40
+871,Vũ Bảo Khánh,"đặt mua áo sơ mi nam công sở aristino size l trắng, giao hàng tiêu chuẩn 2-3 ngày là được, giao đúng mẫu như hình",Medium,Completed,2026-11-20 04:31:33,2026-11-23 04:42:33
+873,Lê Hoài Khoa,"Bàn ủi hơi nước cầm tay Tefal, giao ở địa chỉ công ty từ thứ 2 đến thứ 6",Medium,Completed,2026-11-20 04:34:38,2026-11-24 03:19:38
+874,Tạ Bảo Đạt,"Lấy Váy hoa nhí dáng xòe size S, giao trước 5h chiều trong tuần này là ổn",Medium,Cancelled,2026-11-20 05:12:37,2026-11-20 23:53:37
+875,Đào Thịnh,"Đơn shopee/web: Balo laptop chống nước Tigernu 15.6 inch, phí ship bình thường (SL: 2)",Medium,Completed,2026-11-20 07:35:07,2026-11-20 13:35:07
+876,Phòng khám Đa khoa An Tâm,"Ship gấp trong ngày Màn hình Dell UltraSharp 27 inch 4K, khách cần dùng liền cho kịp việc",High,Processing,2026-11-20 07:45:08,2026-11-21 03:45:08
+877,Nguyễn Bảo Tâm,"Tài liệu hợp đồng gấp kèm Đồng hồ Tissot Le Locle Automatic, chuyển phát nhanh trong 4h, thu hộ COD",High,Cancelled,2026-11-20 08:05:28,2026-11-20 16:56:28
+878,dinh thu nhung,"Chuột không dây Logitech MX Master 3S, khách cần gấp mang đi du lịch sáng mai (SL: 4)",High,Completed,2026-11-20 08:50:30,2026-11-20 18:01:30
+879,Huỳnh Trung Tùng,"Nước tẩy trang Bioderma 500ml nắp hồng (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán (gọi trc khi giao)",Medium,Completed,2026-11-20 09:28:32,2026-11-23 21:01:32
+880,Đào Ngọc Thu,"Giao hỏa tốc 2h Card màn hình RTX 4080 Super, khách đang cần gấp trong sáng nay. Note: shipper tới cổng gọi nhé",High,Cancelled,2026-11-20 09:55:31,2026-11-21 10:59:31
+881,Đinh Hoàng An,"Nước tẩy trang Bioderma 500ml nắp hồng (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán - đừng gọi giờ nghỉ trưa 12h-13h",Medium,Completed,2026-11-20 10:05:51,2026-11-23 05:13:51
+882,Trần Hoài Trung,Khach VIP than phien don truoc giao thieu Khan lau kinh mat chuyen dung hop 10 mieng  bu gap trong chieu nay (SL: 3),High,Completed,2026-11-20 10:28:24,2026-11-20 20:39:24
+883,Bùi Bảo Mai,yêu cầu xuất hóa đơn đỏ + giao hỏa tốc Màn hình Dell UltraSharp 27 inch 4K tới vp trước 16h30 (SL: 4),High,Processing,2026-11-20 10:30:15,2026-11-21 02:56:15
+884,Tran Van Tri,"Kem chống nắng Anessa SPF50+ 60ml, đóng gói tiêu chuẩn, gọi điện trc khi tới 15p",Medium,Completed,2026-11-20 10:39:18,2026-11-20 19:26:18
+885,Vo Thao My,"Đơn shopee/web: Bộ chén dĩa gốm sứ Minh Long 10 món + Loa Bluetooth JBL Flip 6, phí ship bình thường",Medium,Completed,2026-11-20 10:49:24,2026-11-22 21:35:24
+888,Nguyễn Anh Huy,"Giày chạy bộ Nike Pegasus 40 size 42 (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trc khi thanh toán - ko giao chủ nhật",Medium,Pending,2026-11-20 11:38:27,2026-11-20 12:10:27
+889,Trịnh Bảo Hải,"Quà tặng kèm / mẫu thử: Sticker trang trí sổ tay (set 5 tấm), Móc khóa mica in hình ngẫu nhiên, đi đơn bưu điện thường. Note: nhờ bảo vệ nhận hộ nếu ko nghe máy",Low,Completed,2026-11-20 10:56:49,2026-11-20 13:23:49
+890,duong bao tuan,"Mua Balo laptop chống nước Tigernu 15.6 inch dùng gia đình, đóng gói cẩn thận chút nhé shop - thu hộ COD",Low,Processing,2026-11-20 12:28:05,2026-11-20 23:17:05
+891,Đinh Minh Vy,Áo sơ mi nam công sở Aristino size L trắng  giao ở địa chỉ công ty từ thứ 2 đến thứ 6,Medium,Pending,2026-11-20 12:36:47,2026-11-20 13:07:47
+892,Pham Trung Chi,"vat tu tieu hao cho van phong: tat co ngan nam cotton (set 5 doi), giao luc nao cung duoc (sl: 3). note: kem tui dung neu co",Low,Completed,2026-11-20 12:52:52,2026-11-23 22:20:52
+893,Chú Phúc,"Dat them Moc khoa mica in hinh ngau nhien du phong trong kho, tuan sau giao cung duoc",Low,Completed,2026-11-20 13:22:43,2026-11-21 06:31:43
+894,Phạm Minh Phương,"Sua rua mat La Roche-Posay 400ml, dong goi tieu chuan, goi dien truoc khi toi 15p",Medium,Cancelled,2026-11-20 13:26:06,2026-11-21 07:16:06
+895,Đào Thành Ngọc,"Màn hình Dell UltraSharp 27 inch 4K nguyên seal chính hãng, giá trị cao, nhớ kiểm tra kỹ trước khi xuất kho",High,Pending,2026-11-20 13:48:29,2026-11-20 13:53:29
+896,Huỳnh Bảo Tuyết,"Vật tư tiêu hao cho văn phòng: Hộp 20 cây bút bi Thiên Long mực xanh 0.5mm, giao lúc nào cũng được (SL: 5)",Low,Processing,2026-11-20 13:50:42,2026-11-21 00:43:42
+897,trinh huy,"Don shopee/web: Sua rua mat La Roche-Posay 400ml, phi ship binh thuong, kem tui dung neu co",Medium,Cancelled,2026-11-20 14:15:52,2026-11-22 11:19:52
+898,Dương Kim Nhi,"Đơn tiêu chuẩn: Chuột không dây Logitech MX Master 3S, giao giờ hc giúp mình ạ",Medium,Completed,2026-11-20 14:39:38,2026-11-20 19:03:38
+899,Lý Bảo Nhân,"ipad pro m4 11 inch wifi nguyên seal chính hãng, giá trị cao, nhớ kiểm tra kỹ trước khi xuất kho",High,Completed,2026-11-20 15:17:29,2026-11-21 00:30:29
+900,Ngô Bảo Thơ,"Mua Tai nghe Bluetooth Sony WH-CH720N den dung gia dinh, dong goi can than chut nhe shop",Medium,Completed,2026-11-20 15:20:02,2026-11-21 15:57:02
+901,Đào Huy,"don vip: lang hoa tuoi khai truong kem thiep gui tang doi tac, giao tan tay va chup anh xac nhan",High,Cancelled,2026-11-20 15:39:56,2026-11-21 14:55:56
+902,Huỳnh Bảo Tuyết,"Nồi chiên ko dầu Philips 6.2L (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trc khi thanh toán",Medium,Cancelled,2026-11-20 15:54:36,2026-11-22 05:29:36
+903,Phòng khám Đa khoa An Tâm,"Đơn hẹn h: Bánh kem sinh nhật 2 tầng mẫu hoa tươi, giao đúng 18h tối nay cho kịp tiệc (SL: 5)",High,Completed,2026-11-20 16:01:14,2026-11-21 04:47:14
+904,Trịnh Đức Linh,"Khách hỏi mua Bàn ủi hơi nước cầm tay Tefal, thanh toán COD khi nhận hàng, đã ck trước",Medium,Completed,2026-11-20 16:36:30,2026-11-20 23:19:30
+905,Trịnh Phương My,"đơn y tế khẩn cấp: hộp sữa công thức nan optipro số 1 800g, ưu tiên chuyển ngay trong buổi sáng (gọi trc khi giao)",High,Completed,2026-11-20 16:39:24,2026-11-20 18:29:24
+906,Dương Hoài Hiếu,"Lay Balo laptop chong nuoc Tigernu 15.6 inch, giao trc 5h chieu trong tuan nay la on. Note: shipper toi cong goi nhe",Medium,Completed,2026-11-20 17:06:52,2026-11-24 14:34:52
+907,Trường Mầm non Nắng Mai,Khách VIP than phiền đơn trước giao thiếu Giá đỡ điện thoại nhựa gập mini để bàn  bù gấp trong chiều nay,High,Completed,2026-11-20 18:09:43,2026-11-21 07:43:43
+908,Trịnh Hoài Vân,"Đặt thêm Gói sample kem dưỡng ẩm 5ml dự phòng trong kho, tuần sau giao cũng được - khách hay bận họp, nt zalo nếu ko gọi đc",Low,Pending,2026-11-20 18:19:14,2026-11-20 18:23:14
+910,Nguyen Thi Vy,"Đặt mua Bàn phím cơ Akko 3087 switch Brown, giao hàng tiêu chuẩn 2-3 ngày là được",Medium,Completed,2026-11-20 18:52:21,2026-11-23 01:02:21
+911,Trương Thu Thành,"Can gap Tu lanh Inverter Samsung 380L, he thong cong ty dang gian doan cho thiet bi thay the - dung goi gio nghi trua 12h-13h",High,Cancelled,2026-11-20 18:52:59,2026-11-21 15:58:59
+912,Lý Thu Tân,"Ship gấp trong ngày Laptop Dell XPS 13, khách cần dùng liền cho kịp việc. Note: khách hay bận họp, nt zalo nếu ko gọi đc",High,Processing,2026-11-20 19:01:51,2026-11-21 02:09:51
+913,Phan Nhung,"Giao hỏa tốc 2h MacBook Air M3 13 inch 16GB/512GB, khách đang cần gấp trong sáng nay (SL: 2), khách hay bận họp, nt zalo nếu ko gọi đc",High,Processing,2026-11-20 19:02:54,2026-11-21 14:23:54
+914,Dương Lan Dũng,"Giao gapp truoc 11h30 trua nay: Nuoc yen sao cao cap hop 12 hu lam qua bieu, dong goi can than tranh nghieng do",High,Pending,2026-11-20 19:25:45,2026-11-20 19:25:45
+915,Phạm Thảo Quân,"bộ ga gối cotton hàn quốc 1m8x2m, giao ở địa chỉ công ty từ thứ 2 đến thứ 6",Medium,Completed,2026-11-20 19:46:34,2026-11-23 22:44:34
+916,Phạm Mai,"khách hỏi mua bộ ga gối cotton hàn quốc 1m8x2m, thanh toán cod khi nhận hàng",Medium,Processing,2026-11-20 20:31:18,2026-11-21 11:52:18
+917,Trinh Chau,"Vật tư tiêu hao cho văn phòng: Giá đỡ điện thoại nhựa gập mini để bàn, giao lúc nào cũng được",Low,Completed,2026-11-20 20:38:08,2026-11-23 05:10:08
+918,Do Duc Yen,"Ship gấp Thuốc kê đơn + vật tư thay băng y tế tới phòng khám trc 15h, gọi trc khi tới",High,Completed,2026-11-21 00:19:34,2026-11-21 16:24:34
+919,ly quoc kien,"Dat them Cap sac nhanh Type-C dai 1m boc du, Mieng dan cuong luc man hinh 9D du phong trong kho, tuan sau giao cung duoc",Low,Completed,2026-11-21 01:39:40,2026-11-21 11:20:40
+920,Đỗ My,"Don xa kho gia re: Xap 5 tap giay note vang dan tuong  khong gap, giao dung mau nhu hinh",Low,Completed,2026-11-21 04:20:30,2026-11-24 00:07:30
+921,Phạm Hoàng Châu,"Giao hỏa tốc 2h Hộp sữa công thức NAN Optipro số 1 800g, gia đình đang cần gấp cho người bệnh",High,Processing,2026-11-21 08:04:08,2026-11-22 07:22:08
+922,Huỳnh Kim Vân,"Ghế công thái học văn phòng màu xám dùng cho tiệc tối nay ở nhà hàng, nhờ giao gấp trc 17h",High,Completed,2026-11-21 08:17:33,2026-11-21 11:01:33
+923,NGÔ MINH PHONG,"don uu tien: may chieu 4k viewsonic cho phong hop, khach quen da chuyen khoan full, ship ngay",High,Pending,2026-11-21 11:17:24,2026-11-21 11:17:24
+924,Trương Hoài Nam,"Tủ lạnh Inverter Samsung 380L - hàng dễ vỡ giá trị cao, yêu cầu shipper gọi trước khi giao",High,Processing,2026-11-21 11:40:03,2026-11-21 23:54:03
+925,do giang,"đơn online thường: bộ ga gối cotton hàn quốc 1m8x2m, không cần giao gấp",Medium,Cancelled,2026-11-21 13:07:00,2026-11-23 03:24:00
+926,Trương Thành My,"Gửi Sữa rửa mặt La Roche-Posay 400ml, chiều mai hoặc ngày kia giao đều ok",Medium,Completed,2026-11-21 19:20:50,2026-11-22 02:44:50
+927,Vu Minh Thuy,"Sữa rửa mặt La Roche-Posay 400ml + Giày chạy bộ Nike Pegasus 40 size 42 (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán",Medium,Completed,2026-11-21 22:06:18,2026-11-22 02:31:18
+928,Duong Xuan Huy,"Đơn online thường: Váy hoa nhí dáng xòe size S, ko cần giao gấp - đừng gọi giờ nghỉ trưa 12h-13h",Medium,Completed,2026-11-21 22:55:55,2026-11-25 11:25:55
+929,Mai Hữu Đạt,"Đặt mua Kem chống nắng Anessa SPF50+ 60ml, giao hàng tiêu chuẩn 2-3 ngày là được (SL: 2)",Medium,Cancelled,2026-11-22 08:14:53,2026-11-22 08:20:53
+931,vu quoc thinh,"Đơn online thường: Giày sneaker Adidas Ultraboost trắng size 38, ko cần giao gấp",Medium,Completed,2026-11-22 08:50:09,2026-11-24 21:04:09
+932,Mai Huong,"Đơn xả kho giá rẻ: Tất cổ ngắn nam cotton (set 5 đôi), không gấp - khách hay bận họp, nt zalo nếu ko gọi đc",Low,Pending,2026-11-22 09:11:04,2026-11-22 09:41:04
+934,Phong kham Da khoa An Tam,"Don tieu chuan: Ao polo nam vai ca sau mau xanh navy size M + Bo chen dia gom su Minh Long 10 mon, giao gio hanh chinh giup minh",Medium,Completed,2026-11-22 09:40:01,2026-11-22 22:55:01
+935,Trương Bảo Thơ,"Khách đặt Chuột không dây Logitech MX Master 3S, chọn giao hàng tiết kiệm",Medium,Completed,2026-11-22 10:05:50,2026-11-23 08:36:50
+936,Dương Tiến,"đặt mua Quần jeans nam dáng suông Levi's size 31, giao hàng tiêu chuẩn 2-3 ngày là được (SL: 5) - kèm túi đựng nếu có",Medium,Completed,2026-11-22 14:13:11,2026-11-23 08:58:11
+937,Võ Thảo My,"khách đặt bàn phím cơ akko 3087 switch brown, chọn giao hàng tiết kiệm (sl: 2) nhé",Medium,Completed,2026-11-22 11:41:26,2026-11-24 02:26:26
+938,Mai Truc,"giao hỏa tốc 2h máy chiếu 4k viewsonic cho phòng họp, khách đang cần gấp trong sáng nay",High,Processing,2026-11-22 16:25:39,2026-11-22 21:11:39
+939,C. Van - Hai Chau,"CPU Intel Core i9 14900K nguyên seal chính hãng, giá trị cao, nhớ kiểm tra kỹ trước khi xuất kho",High,Completed,2026-11-22 17:15:41,2026-11-23 03:11:41
+940,Bùi Lan Chi,"Khach hoi mua Lo vi song Sharp co nuong 20L, thanh toan COD khi nhan hang",Medium,Completed,2026-11-22 17:20:49,2026-11-26 04:57:49
+941,Lê Thảo Trang,Áo polo nam vải cá sấu màu xanh navy size M  giao ở địa chỉ công ty từ thứ 2 đến thứ 6 (SL: 3) - kèm túi đựng nếu có,Medium,Completed,2026-11-22 19:33:18,2026-11-24 23:34:18
+942,Tạ Bảo Hoàng,"Giao hỏa tốc 2h MacBook Pro 14 inch M3 Pro, khách đang cần gấp trong sáng nay",High,Completed,2026-11-22 19:59:26,2026-11-23 12:11:26
+943,Ngô Kim Phong,Đơn xả kho giá rẻ: Tờ rơi catalogue sản phẩm mới 2026  không gấp,Low,Completed,2026-11-22 20:22:28,2026-11-24 17:27:28
+944,Vũ Minh Toàn,"Giao hoa toc 2h May tao oxy y te Yuwell 5L, gia dinh dang can gap cho nguoi benh",High,Cancelled,2026-11-22 20:38:07,2026-11-23 12:01:07
+945,Dương Thị Trung,"Lay Mieng dan cuong luc man hinh 9D cho su kien cong ty sang mai, can giao trong toi nay, da ck truoc",High,Completed,2026-11-22 20:41:09,2026-11-23 01:38:09
+946,Bui Gia Ha,"bo ga goi cotton Han Quoc 1m8x2m hang thanh ly trung bay, khach khong voi",Low,Processing,2026-11-22 21:00:01,2026-11-23 04:36:01
+947,Studio Ảnh Cưới Lumi,Nước yến sào cao cấp hộp 12 hũ làm quà biếu giao hỏa tốc trong ngày kẻo hư hỏng (gọi trc khi giao),High,Completed,2026-11-22 21:08:27,2026-11-23 09:37:27
+948,vu van chi,"phụ kiện nhỏ: túi zip trong suốt 100 chiếc size nhỏ, giao chung hoặc khi tiện chuyến",Low,Completed,2026-11-23 03:20:51,2026-11-25 09:15:51
+949,Cô Quân - Hà Đông,"MacBook Pro 14 inch M3 Pro - hang de vo gia tri cao, yeu cau shipper goi trc khi giao",High,Pending,2026-11-23 08:45:46,2026-11-23 08:45:46
+950,Ho Huu Huy,ao so mi nam cong so aristino size l trang - khach dan cuoi tuan o nha moi nhan duoc - shipper toi cong goi nhe,Medium,Cancelled,2026-11-23 09:15:19,2026-11-24 06:28:19
+951,Lý Thảo Huy,"Đơn mua thử Kẹp tóc càng cua nhám Hàn Quốc, vận chuyển chậm tiết kiệm cước",Low,Completed,2026-11-23 09:41:00,2026-11-25 08:40:00
+952,Phan Minh Việt,"Đơn mua thử Xấp 5 tập giấy note vàng dán tường, vận chuyển chậm tiết kiệm cước",Low,Pending,2026-11-23 09:44:41,2026-11-23 09:44:41
+953,Cty TNHH Minh Phát,"quà tặng kèm / mẫu thử: kẹp tóc càng cua nhám hàn quốc, đi đơn bưu điện thường (sl: 3)",Low,Completed,2026-11-23 10:12:01,2026-11-24 09:13:01
+954,Hoang Thanh Dung,"Gui Sua rua mat La Roche-Posay 400ml, chieu mai hoac ngay kia giao deu ok (kem tui dung neu co)",Medium,Completed,2026-11-23 10:27:13,2026-11-26 18:25:13
+955,Ly Anh Duc,"Phụ kiện nhỏ: Dây buộc tóc thun co giãn túi 200 cái, giao chung hoặc khi tiện chuyến",Low,Cancelled,2026-11-23 10:56:39,2026-11-24 11:47:39
+956,Phan Thao Uyen,"don hen gio: ca hoi na uy tuoi phi le 2kg uop lanh, giao dung 18h toi nay cho kip tiec",High,Processing,2026-11-23 10:46:54,2026-11-24 04:07:54
+957,Ngô Minh Trung,"Vật tư tiêu hao cho văn phòng: Kẹp tóc càng cua nhám Hàn Quốc, giao lúc nào cũng được",Low,Completed,2026-11-23 11:58:31,2026-11-24 14:16:31
+958,Lê Xuân Uyên,Đổi trả bảo hành gấp: Máy ảnh Sony A7 IV kèm lens 24-70mm khách cần nhận lại ngay trong hôm nay,High,Completed,2026-11-23 14:40:24,2026-11-24 07:36:24
+960,Đặng Thu Giang,"combo Giá đỡ điện thoại nhựa gập mini để bàn + Áo polo nam vải cá sấu màu xanh navy size M, giao bình thường lúc nào tiện thì nhận",Low,Completed,2026-11-23 15:18:11,2026-11-24 15:21:11
+961,Hoàng Gia Tùng,"don dac biet cho hoi thao chieu nay: card man hinh rtx 4080 super, phai giao truoc 14h",High,Cancelled,2026-11-23 17:39:41,2026-11-25 15:51:41
+962,Tran Minh Tho,"Mua sỉ Túi zip trong suốt 100 chiếc size nhỏ số lượng nhiều, gửi chành xe cuối tuần hoặc đầu tuần sau (đừng gọi giờ nghỉ trưa 12h-13h)",Low,Processing,2026-11-23 20:02:05,2026-11-24 00:18:05
+963,Trịnh Văn Sơn,"Hàng gom order nước ngoài: Tờ rơi catalogue sản phẩm mới 2026, dự kiến 2-3 tuần nữa giao",Low,Completed,2026-11-23 20:14:07,2026-11-24 18:13:07
+964,Nguyen Ngoc Thanh," Gửi Áo sơ mi nam công sở Aristino size L trắng, chiều mai hoặc ngày kia giao đều ok",Medium,Processing,2026-11-23 20:34:32,2026-11-24 17:53:32
+965,Trương Khánh Bảo,"qua tang kem / mau thu: mieng dan cuong luc man hinh 9d, di don buu dien thuong",Low,Completed,2026-11-23 22:32:12,2026-11-24 16:34:12
+966,Bùi Xuân Đạt,"Ship nhanh trong 2h Cá hồi Na Uy tươi phi lê 2kg ướp lạnh, khách cần gấp tiếp khách. Note: ko giao chủ nhật",High,Completed,2026-11-24 01:35:35,2026-11-24 09:49:35
+969,Đào Quốc Uyên,"Phụ kiện giá rẻ Giá đỡ điện thoại nhựa gập mini để bàn, ship chậm miễn sao không thất lạc là đc",Low,Completed,2026-11-24 01:53:52,2026-11-25 06:25:52
+970,Võ Thành Tùng,"Quà tặng kèm / mẫu thử: Túi zip trong suốt 100 chiếc size nhỏ, đi đơn bưu điện thường - thu hộ COD",Low,Completed,2026-11-24 08:05:39,2026-11-26 04:42:39
+971,Quán Cà Phê Góc Phố,"Đơn y tế khẩn cấp: Máy xông khí dung Omron cho bé, ưu tiên chuyển ngay trong buổi sáng",High,Completed,2026-11-24 10:11:04,2026-11-24 22:49:04
+972,Hoang Gia Nhan,"đơn hẹn giờ: thùng hải sản tươi sống (tôm hùm + cua cà mau), giao đúng 18h tối nay cho kịp tiệc",High,Processing,2026-11-24 10:11:57,2026-11-24 19:18:57
+973,Tạ Đức Vũ,"Đơn tiêu chuẩn: Bàn ủi hơi nước cầm tay Tefal, giao giờ hành chính giúp mình",Medium,Completed,2026-11-24 10:24:56,2026-11-24 20:33:56
+974,Tạ Đức Thành,"đơn đặc biệt cho hội thảo chiều nay: iphone 16 pro max 256gb titan tự nhiên, phải giao trc 14h",High,Cancelled,2026-11-24 13:04:25,2026-11-26 09:54:25
+975,Mai Anh An,"Lay Loa Bluetooth JBL Flip 6, giao truoc 5h chieu trong tuan nay la on",Medium,Processing,2026-11-24 13:32:47,2026-11-24 22:01:47
+976,do thanh hai,Giày chạy bộ Nike Pegasus 40 size 42 - khách dặn cuối tuần ở nhà mới nhận được,Medium,Processing,2026-11-24 16:53:11,2026-11-24 22:05:11
+977,Hoàng Hoàng Hạnh,"Ship gấp Máy xông khí dung Omron cho bé tới phòng khám trước 15h, gọi trước khi tới",High,Completed,2026-11-24 17:51:42,2026-11-25 07:12:42
+978,Võ Thành Châu," đơn shopee/web bộ ga gối cotton hàn quốc 1m8x2m, phí ship bình thường",Medium,Pending,2026-11-24 19:58:15,2026-11-24 19:58:15
+979,A. Sơn - Q1,"Máy lọc không khí Xiaomi Air Purifier 4, đóng gói tiêu chuẩn, gọi điện trc khi tới 15p, khách hay bận họp, nt zalo nếu ko gọi đc",Medium,Pending,2026-11-24 21:24:21,2026-11-24 21:24:21
+980,Phạm Ngọc Thảo,"ship nhanh trong 2h thùng hải sản tươi sống (tôm hùm + cua cà mau), khách cần gấp tiếp khách",High,Processing,2026-11-24 21:27:43,2026-11-25 17:57:43
+981,Trương Gia Quỳnh,"Phụ kiện nhỏ: Giá đỡ điện thoại nhựa gập mini để bàn, giao chung hoặc khi tiện chuyến (SL: 4) - thu hộ COD",Low,Processing,2026-11-24 21:47:03,2026-11-25 08:50:03
+982,Phạm Minh Vy," Khách đặt Tai nghe Bluetooth Sony WH-CH720N đen, chọn giao hàng tiết kiệm",Medium,Pending,2026-11-24 21:50:53,2026-11-24 21:50:53
+983,Trần Khánh Linh,"nồi chiên không dầu Philips 6.2L (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán. Note: giao đúng mẫu như hình",Medium,Pending,2026-11-24 21:52:52,2026-11-24 22:34:52
+984,Phan Gia Tâm,"Sữa rửa mặt La Roche-Posay 400ml, khách cần gấp mang đi du lịch sáng mai (SL: 4). Note: ko giao chủ nhật",High,Pending,2026-11-24 22:34:08,2026-11-24 22:56:08
+986,Huỳnh Bảo Nhân,"Đặt Sticker trang trí sổ tay (set 5 tấm) gấp vì đang đi công tác quên mang theo, ship hỏa tốc tới khách sạn",High,Pending,2026-11-25 00:42:30,2026-11-25 01:27:30
+987,Ho Gia Phuong,"Balo laptop chống nước Tigernu 15.6 inch, giao ở địa chỉ công ty từ thứ 2 đến thứ 6 - check kỹ màu sắc giúp",Medium,Cancelled,2026-11-25 00:47:50,2026-11-26 19:44:50
+988,Chú Vinh - Hà Đông,"Phu kien gia re Day buoc toc thun co gian tui 200 cai, ship cham mien sao khong that lac la dc - khach hay ban hop, nt zalo neu ko goi dc",Low,Pending,2026-11-25 03:28:15,2026-11-25 04:06:15
+989,Đặng Thu Tâm,Đơn mua thử Ốp lưng silicon trong suốt iPhone 15  vận chuyển chậm tiết kiệm cước,Low,Completed,2026-11-25 08:22:21,2026-11-25 12:26:21
+990,Lê Minh Uyên,"Lấy Bộ ga gối cotton Hàn Quốc 1m8x2m, giao trước 5h chiều trong tuần này là ổn",Medium,Cancelled,2026-11-25 08:38:55,2026-11-26 14:30:55
+991,Dinh Yen,"tài liệu hợp đồng gấp kèm máy ảnh sony a7 iv kèm lens 24-70mm, chuyển phát nhanh trong 4h",High,Processing,2026-11-25 08:15:39,2026-11-26 02:49:39
+992,Hồ Phương Sơn,"Phu kien gia re Hop 20 cay but bi Thien Long muc xanh 0.5mm, ship cham mien sao khong that lac la dc",Low,Pending,2026-11-25 09:22:02,2026-11-25 09:22:02
+993,Chị Uyên,"Gửi Loa Bluetooth JBL Flip 6, chiều mai hoặc ngày kia giao đều ok",Medium,Processing,2026-11-25 09:54:18,2026-11-25 11:00:18
+994,Võ Minh Huy,"phu kien gia re op lung silicon trong suot iphone 15, ship cham mien sao khong that lac la dc",Low,Processing,2026-11-25 10:01:54,2026-11-25 21:32:54
+995,Đinh Thơ,"khach dat may say toc ion am panasonic 1800w, chon giao hang tiet kiem",Medium,Processing,2026-11-25 10:08:13,2026-11-25 14:40:13
+996,Vũ Xuân Uyên,"Kem chong nang Anessa SPF50+ 60ml, dong goi tieu chuan, goi dien trc khi toi 15p - dung goi h nghi trua 12h-13h",Medium,Processing,2026-11-25 10:43:42,2026-11-25 18:07:42
+997,Tạ Quốc Minh,"Áo sơ mi nam công sở Aristino size L trắng, giao ở địa chỉ công ty từ thứ 2 đến thứ 6",Medium,Pending,2026-11-25 10:43:57,2026-11-25 10:43:57
+998,Bui Thanh,"Vật tư tiêu hao cho văn phòng: Túi zip trong suốt 100 chiếc size nhỏ, giao lúc nào cũng được",Low,Pending,2026-11-25 11:21:06,2026-11-25 11:21:06
+999,Mai Ngọc Thảo,"Đơn ưu tiên: Tủ lạnh Inverter Samsung 380L, khách quen đã chuyển khoản full, ship ngay (SL: 5)",High,Processing,2026-11-25 11:36:55,2026-11-26 08:00:55
+1000,Võ Thành Khoa,"Khách hỏi mua Chuột không dây Logitech MX Master 3S, thanh toán COD khi nhận hàng (gọi trc khi giao)",Medium,Pending,2026-11-25 11:49:52,2026-11-25 11:49:52
+1001,NHÀ THUỐC GIA HÂN,"Đơn xả kho giá rẻ: Hộp 20 cây bút bi Thiên Long mực xanh 0.5mm, không gấp",Medium,Completed,2026-11-25 12:27:32,2026-11-26 11:37:32
+1002,Đinh Thị Thảo,"Đơn mua thử Ốp lưng silicon trong suốt iPhone 15, vận chuyển chậm tiết kiệm cước",Low,Pending,2026-11-25 12:58:35,2026-11-25 13:40:35
+1003,TRỊNH XUÂN BẢO,phụ kiện giá rẻ Xấp 5 tập giấy note vàng dán tường  ship chậm miễn sao không thất lạc là đc,Low,Cancelled,2026-11-25 13:16:22,2026-11-26 06:06:22
+1004,Bùi Minh Hoàng,Yeu cau xuat hd do + giao hoa toc CPU Intel Core i9 14900K toi vp trc 16h30,High,Cancelled,2026-11-25 13:17:25,2026-11-26 11:48:25
+1007,C. Dung,"Don uu tien: May anh Sony A7 IV kem lens 24-70mm, khach quen da ck full, ship ngay",High,Processing,2026-11-25 14:27:32,2026-11-26 08:07:32
+1008,Đặng Thành Tâm,"đơn y tế khẩn cấp: máy xông khí dung omron cho bé, ưu tiên chuyển ngay trong buổi sáng",High,Cancelled,2026-11-25 14:18:10,2026-11-25 21:05:10
+1009,Đào Hữu Lan,"Khach VIP than phien don truoc giao thieu Op lung silicon trong suot iPhone 15, bu gap trong chieu nay, ko giao chu nhat",High,Processing,2026-11-25 14:35:04,2026-11-26 03:55:04
+1010,Trần Minh Ngọc,"Mua Máy lọc không khí Xiaomi Air Purifier 4 dùng gia đình, đóng gói cẩn thận chút nhé shop (SL: 3) (check kỹ màu sắc giúp)",Medium,Processing,2026-11-25 14:36:01,2026-11-26 06:47:01
+1011,Cửa hàng Điện máy Tuấn Kiệt,"bàn phím cơ akko 3087 switch brown, giao ở địa chỉ công ty từ thứ 2 đến thứ 6 - đã ck trước",Medium,Pending,2026-11-25 14:37:37,2026-11-25 14:37:37
+1012,Phạm Ngọc Thành,"quà tặng kèm / mẫu thử: túi đựng rác tự hủy cuộn 3 cái, giá đỡ điện thoại nhựa gập mini để bàn, đi đơn bưu điện thường",Low,Pending,2026-11-25 14:52:20,2026-11-25 14:52:20
+1013,Dương Thảo Hoài,Đơn mua thử Kẹp tóc càng cua nhám Hàn Quốc  vận chuyển chậm tiết kiệm cước,Low,Cancelled,2026-11-25 15:15:54,2026-11-26 14:16:54
+1014,Mai Anh An,"vật tư tiêu hao cho văn phòng: hộp 20 cây bút bi thiên long mực xanh 0.5mm, giao lúc nào cũng được",Low,Processing,2026-11-25 15:47:44,2026-11-26 13:02:44
+1015,A. Huyen,"Cá hồi Na Uy tươi phi lê 2kg ướp lạnh giao hỏa tốc trong ngày kẻo hư hỏng, thu hộ COD",High,Completed,2026-11-25 16:06:26,2026-11-26 09:23:26
+1018,NGÔ QUỐC LINH,"Bàn ủi hơi nước cầm tay Tefal, đóng gói tiêu chuẩn, gọi điện trước khi tới 15p (SL: 2)",Medium,Processing,2026-11-25 16:31:01,2026-11-26 14:04:01
+1019,Võ Nhân,"Khach hoi mua Bo chen dia gom su Minh Long 10 mon + Ao so mi nam cong so Aristino size L trang, thanh toan COD khi nhan hang",Medium,Pending,2026-11-25 16:41:18,2026-11-25 16:41:18
+1020,anh hieu,"Nồi chiên không dầu Philips 6.2L dùng cho tiệc tối nay ở nhà hàng, nhờ giao gấp trước 17h",High,Completed,2026-11-25 17:20:24,2026-11-26 07:43:24
+1021,Văn phòng Luật Á Đông,"khách báo hết bộ kit test nhanh y tế (hộp 25 test), nhờ giao sớm nhất có thể trong ngày",High,Completed,2026-11-25 17:23:14,2026-11-25 22:46:14
+1022,Vo Thanh Binh,"Phụ kiện nhỏ: Tất cổ ngắn nam cotton (set 5 đôi), giao chung hoặc khi tiện chuyến (gọi trc khi giao)",Low,Pending,2026-11-25 17:34:50,2026-11-25 18:19:50
+1023,Đặng Thu Hải,"Giày chạy bộ Nike Pegasus 40 size 42 dùng cho tiệc tối nay ở nhà hàng, nhờ giao gấp trc 17h (SL: 4)",High,Completed,2026-11-25 18:01:48,2026-11-26 09:23:48
+1024,Bùi Đức Long,"Ban phim co Akko 3087 switch Brown, dong goi tieu chuan, goi dien truoc khi toi 15p",Medium,Pending,2026-11-25 18:07:07,2026-11-25 18:07:07
+1025,Huỳnh Lan Trang,"Phụ kiện nhỏ: Khăn lau kính mắt chuyên dụng hộp 10 miếng, giao chung hoặc khi tiện chuyến (SL: 3)",Low,Pending,2026-11-25 18:32:16,2026-11-25 18:32:16
+1026,Ta Hoang Hang,"Tài liệu hợp đồng gấp kèm Tủ lạnh Inverter Samsung 380L, chuyển phát nhanh trong 4h (SL: 2)",High,Processing,2026-11-25 18:44:12,2026-11-25 19:20:12
+1027,Bùi Văn Anh,"lấy sticker trang trí sổ tay (set 5 tấm) cho sự kiện công ty sáng mai, cần giao trong tối nay (shipper tới cổng gọi nhé)",High,Processing,2026-11-25 18:45:07,2026-11-26 15:52:07
+1028,Trương Bảo Trúc,"Giao hỏa tốc 2h Laptop Lenovo ThinkPad X1 Carbon, khách đang cần gấp trong sáng nay",High,Pending,2026-11-25 19:57:47,2026-11-25 20:19:47
+1029,Trung tâm Anh ngữ Horizon,Giày sneaker Adidas Ultraboost trắng size 38 - khách dặn cuối tuần ở nhà mới nhận đc,Medium,Cancelled,2026-11-25 20:53:57,2026-11-26 10:52:57
+1030,Mai Trung Tuyết,vật tư tiêu hao cho văn phòng: móc khóa mica in hình ngẫu nhiên  giao lúc nào cũng được,Low,Completed,2026-11-25 20:59:18,2026-11-26 02:54:18
+1031,Truong Bao Duc,"Vật tư tiêu hao cho văn phòng: Băng keo trong cuộn lớn (combo 6 cuộn), Sticker trang trí sổ tay (set 5 tấm), giao lúc nào cũng được",Low,Processing,2026-11-25 21:45:29,2026-11-26 19:31:29
+1032,Tạ Anh Vinh,"dat mua may loc khong khi xiaomi air purifier 4, giao hang tieu chuan 2-3 ngay la duoc ạ",Medium,Completed,2026-11-25 21:52:33,2026-11-26 15:57:33
+1033,Vu Quoc Khanh,"Lay Nuoc tay trang Bioderma 500ml nap hong + Noi chien khong dau Philips 6.2L, giao truoc 5h chieu trong tuan nay la on (SL: 4)",Medium,Processing,2026-11-26 01:43:18,2026-11-26 08:53:18
+1034,Lý Thu Giang,"Mua Ghe cong thai hoc van phong mau xam + Sua rua mat La Roche-Posay 400ml dung gia dinh, dong goi can than chut nhe shop",Medium,Completed,2026-11-26 02:04:12,2026-11-26 15:09:12
+1035,Huỳnh Ngọc Khánh,"Đơn tiêu chuẩn: Sữa rửa mặt La Roche-Posay 400ml, giao h hc giúp mình",Medium,Cancelled,2026-11-26 08:05:39,2026-11-26 13:52:39
+1036,ĐẶNG QUỐC THU,"qua tang kem / mau thu: Hop 20 cay but bi Thien Long muc xanh 0.5mm, di don buu dien thuong (SL: 5)",Low,Pending,2026-11-26 08:56:08,2026-11-26 08:56:08
+1037,Nguyen Trung Mai,"Nồi chiên không dầu Philips 6.2L (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán",Medium,Pending,2026-11-26 09:33:04,2026-11-26 09:33:04
+1038,Cô Uyên - Đống Đa,Ship gấp Bộ kit test nhanh y tế (hộp 25 test) tới phòng khám trc 15h  gọi trc khi tới (SL: 4),High,Completed,2026-11-26 11:38:12,2026-11-26 18:33:12
+1039,chu quan,"Balo laptop chống nước Tigernu 15.6 inch (bảo hành 12 tháng), giao tận nơi, cho kiểm hàng trước khi thanh toán (SL: 3)",Medium,Cancelled,2026-11-26 12:58:03,2026-11-26 14:12:03
+1040,Anh Quan,"Đơn shopee/web: Nước tẩy trang Bioderma 500ml nắp hồng, phí ship bình thường",Medium,Cancelled,2026-11-26 11:47:54,2026-11-26 14:01:54
+1041,Nguyễn Huyền,"Tài liệu hợp đồng gấp kèm Màn hình Dell UltraSharp 27 inch 4K, chuyển phát nhanh trong 4h",High,Pending,2026-11-26 13:42:44,2026-11-26 14:15:44
+1042,vu hoang truc,"Đặt thêm Tất cổ ngắn nam cotton (set 5 đôi) dự phòng trong kho, tuần sau giao cũng đc",Low,Pending,2026-11-26 14:34:09,2026-11-26 14:57:09
+1043,Hoàng Bảo Nhi,"Don mua thu Bang keo trong cuon lon (combo 6 cuon), van chuyen cham tiet kiem cuoc, check ky mau sac giup",Low,Pending,2026-11-26 15:54:12,2026-11-26 15:56:12
+1044,Do Huu Kien,Yêu cầu xuất hđ đỏ + giao hỏa tốc Card màn hình RTX 4080 Super tới vp trước 16h30. Note: thu hộ COD,High,Processing,2026-11-26 16:00:38,2026-11-26 19:36:38
+1045,Vũ Trúc,"mua áo polo nam vải cá sấu màu xanh navy size m dùng gia đình, đóng gói cẩn thận chút nhé shop",Medium,Pending,2026-11-26 16:28:46,2026-11-26 16:28:46
+1046,Văn phòng Luật Á Đông,Đơn online thường: Nồi chiên không dầu Philips 6.2L  không cần giao gấp,Medium,Pending,2026-11-26 16:04:29,2026-11-26 16:04:29
+1047,Lê Quốc Thúy,"Phụ kiện giá rẻ Dây buộc tóc thun co giãn túi 200 cái, ship chậm miễn sao không thất lạc là đc (SL: 3)",Low,Processing,2026-11-26 16:42:15,2026-11-26 18:58:15
+1048,Lê Thảo Châu,"ban phim co akko 3087 switch brown, giao o dia chi cong ty tu thu 2 den thu 6 (sl: 4)",Medium,Pending,2026-11-26 16:57:00,2026-11-26 16:57:00
+1049,Tạ Hoài,Kem chống nắng Anessa SPF50+ 60ml - khách dặn cuối tuần ở nhà mới nhận đc,Medium,Cancelled,2026-11-26 17:09:08,2026-11-26 18:43:08
+1050,Ngô Thành Yến,"Giao gấp trước 11h30 trưa nay: Cá hồi Na Uy tươi phi lê 2kg ướp lạnh, đóng gói cẩn thận tránh nghiêng đổ",High,Processing,2026-11-26 17:11:00,2026-11-26 17:52:00
+1051,Vo Bao,"Don xa kho gia re: Tat co ngan nam cotton (set 5 doi), khong gap",Low,Processing,2026-11-26 18:08:14,2026-11-26 19:29:14
+1052,Trịnh Đức Vũ,"Don shopee/web: Chuot khong day Logitech MX Master 3S, phi ship binh thuong",Medium,Pending,2026-11-26 18:31:28,2026-11-26 18:31:28
+1053,Đinh Hoàng Minh,"Nuoc tay trang Bioderma 500ml nap hong, dong goi tieu chuan, goi dien truoc khi toi 15p, kem tui dung neu co",Medium,Processing,2026-11-26 19:26:00,2026-11-26 19:42:00
+1054,Tạ Thảo Nguyên,"Don xa kho gia re: Tat co ngan nam cotton (set 5 doi), khong gapp (nho bao ve nhan ho neu ko nghe may)",Low,Pending,2026-11-26 19:48:41,2026-11-26 19:48:41
